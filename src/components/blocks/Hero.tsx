@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import { BlockProps } from '@/types/page';
 
 interface HeroContent {
@@ -18,9 +19,10 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
     return (
       <section className="relative h-[600px] flex items-center justify-center text-white overflow-hidden">
         {image && (
-          <img
+          <Image
             src={image}
             alt={image_alt || heading}
+            fill
             className="absolute inset-0 w-full h-full object-cover"
           />
         )}
@@ -58,8 +60,14 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
           )}
         </div>
         {image && (
-          <div className="rounded-2xl overflow-hidden shadow-2xl border border-gray-800">
-            <img src={image} alt={image_alt || heading} className="w-full h-auto" />
+          <div className="rounded-2xl overflow-hidden shadow-2xl border border-gray-800 relative h-64 md:h-auto">
+            <Image
+              src={image}
+              alt={image_alt || heading}
+              width={800}
+              height={600}
+              className="w-full h-auto"
+            />
           </div>
         )}
       </section>

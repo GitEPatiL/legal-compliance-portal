@@ -101,6 +101,7 @@ export type Page = z.infer<typeof PageSchema>;
 
 // TypeScript interfaces (for better IDE support)
 export interface BlockProps {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   content: any;
   style: string;
   theme?: Theme;

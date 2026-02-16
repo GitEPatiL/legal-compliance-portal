@@ -27,6 +27,7 @@ const defaultTheme: Theme = {
  * Includes error boundaries and fallback UI for invalid blocks
  */
 const BlockRenderer: React.FC<BlockRendererProps> = ({ blocks, theme = defaultTheme }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const blockComponents: Record<string, React.ComponentType<any>> = {
     hero: Hero,
     text: TextBlock,
