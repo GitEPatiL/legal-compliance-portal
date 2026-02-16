@@ -1,0 +1,88 @@
+{
+  "slug": "trust-registration-in-madurai",
+  "page_name": "Trust Registration in Madurai - Fast Service",
+  "title": "Trust Registration in Madurai - Fast Service",
+  "meta": {
+    "description": "Best Trust Registration services in Madurai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "keywords": [
+      "trust",
+      "services",
+      "madurai",
+      "services"
+    ],
+    "canonical": "https://example.com/trust-registration-in-madurai"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "Trust Registration in Madurai",
+        "subheading": "Get professional Trust Registration services in Madurai. Fast and reliable processing.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Why Choose Us for Trust Registration?",
+        "body": "<p>We provide top-notch <strong>Trust Registration</strong> services specifically tailored for businesses and individuals in <strong>Madurai</strong>. Our team of experts ensures a hassle-free experience.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Our Advantages",
+        "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Madurai.</p>",
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Common Questions",
+        "questions": [
+          {
+            "question": "Is physical presence required in Madurai?",
+            "answer": "No, our process is completely online."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Typically 3-5 working days depending on government processing times."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Ready to start your Trust Registration?",
+        "description": "Contact our Madurai team today.",
+        "cta_text": "Apply Now",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "Services",
+  "tags": [
+    "trust",
+    "services",
+    "madurai",
+    "services"
+  ],
+  "last_modified": "2026-02-16T16:03:27.466Z",
+  "published": true
+}

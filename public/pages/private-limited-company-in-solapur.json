@@ -1,0 +1,88 @@
+{
+  "slug": "private-limited-company-in-solapur",
+  "page_name": "Private Limited Company in Solapur - Online Service",
+  "title": "Private Limited Company in Solapur - Online Service",
+  "meta": {
+    "description": "Best Private Limited Company services in Solapur. Online, reliable and affordable. Contact us for expert assistance.",
+    "keywords": [
+      "private",
+      "services",
+      "solapur",
+      "startup"
+    ],
+    "canonical": "https://example.com/private-limited-company-in-solapur"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "Private Limited Company in Solapur",
+        "subheading": "Get professional Private Limited Company services in Solapur. Online and reliable processing.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Why Choose Us for Private Limited Company?",
+        "body": "<p>We provide top-notch <strong>Private Limited Company</strong> services specifically tailored for businesses and individuals in <strong>Solapur</strong>. Our team of experts ensures a hassle-free experience.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Our Advantages",
+        "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Solapur.</p>",
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Common Questions",
+        "questions": [
+          {
+            "question": "Is physical presence required in Solapur?",
+            "answer": "No, our process is completely online."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Typically 3-5 working days depending on government processing times."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Ready to start your Private Limited Company?",
+        "description": "Contact our Solapur team today.",
+        "cta_text": "Apply Now",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "Startup",
+  "tags": [
+    "private",
+    "services",
+    "solapur",
+    "startup"
+  ],
+  "last_modified": "2026-02-16T16:03:27.454Z",
+  "published": true
+}

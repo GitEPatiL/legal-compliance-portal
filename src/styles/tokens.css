@@ -1,0 +1,17 @@
+:root {
+  /* Magazine Theme */
+  --theme-magazine-primary: #1a56db;
+  --theme-magazine-secondary: #7c3aed;
+  
+  /* Technical Theme */
+  --theme-technical-primary: #0f172a;
+  --theme-technical-secondary: #475569;
+  
+  /* Bright Card Theme */
+  --theme-bright-primary: #ec4899;
+  --theme-bright-secondary: #8b5cf6;
+  
+  /* Minimal Theme */
+  --theme-minimal-primary: #171717;
+  --theme-minimal-secondary: #525252;
+}

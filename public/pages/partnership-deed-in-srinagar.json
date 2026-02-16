@@ -1,0 +1,88 @@
+{
+  "slug": "partnership-deed-in-srinagar",
+  "page_name": "Partnership Deed in Srinagar - Trusted Service",
+  "title": "Partnership Deed in Srinagar - Trusted Service",
+  "meta": {
+    "description": "Best Partnership Deed services in Srinagar. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "keywords": [
+      "partnership",
+      "services",
+      "srinagar",
+      "general"
+    ],
+    "canonical": "https://example.com/partnership-deed-in-srinagar"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "Partnership Deed in Srinagar",
+        "subheading": "Get professional Partnership Deed services in Srinagar. Trusted and reliable processing.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Why Choose Us for Partnership Deed?",
+        "body": "<p>We provide top-notch <strong>Partnership Deed</strong> services specifically tailored for businesses and individuals in <strong>Srinagar</strong>. Our team of experts ensures a hassle-free experience.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Our Advantages",
+        "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Srinagar.</p>",
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Common Questions",
+        "questions": [
+          {
+            "question": "Is physical presence required in Srinagar?",
+            "answer": "No, our process is completely online."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Typically 3-5 working days depending on government processing times."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Ready to start your Partnership Deed?",
+        "description": "Contact our Srinagar team today.",
+        "cta_text": "Apply Now",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "General",
+  "tags": [
+    "partnership",
+    "services",
+    "srinagar",
+    "general"
+  ],
+  "last_modified": "2026-02-16T16:00:09.252Z",
+  "published": true
+}

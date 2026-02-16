@@ -1,0 +1,88 @@
+{
+  "slug": "patent-registration-in-varanasi",
+  "page_name": "Patent Registration in Varanasi - Online Service",
+  "title": "Patent Registration in Varanasi - Online Service",
+  "meta": {
+    "description": "Best Patent Registration services in Varanasi. Online, reliable and affordable. Contact us for expert assistance.",
+    "keywords": [
+      "patent",
+      "services",
+      "varanasi",
+      "startup"
+    ],
+    "canonical": "https://example.com/patent-registration-in-varanasi"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "Patent Registration in Varanasi",
+        "subheading": "Get professional Patent Registration services in Varanasi. Online and reliable processing.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Why Choose Us for Patent Registration?",
+        "body": "<p>We provide top-notch <strong>Patent Registration</strong> services specifically tailored for businesses and individuals in <strong>Varanasi</strong>. Our team of experts ensures a hassle-free experience.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Our Advantages",
+        "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Varanasi.</p>",
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Common Questions",
+        "questions": [
+          {
+            "question": "Is physical presence required in Varanasi?",
+            "answer": "No, our process is completely online."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Typically 3-5 working days depending on government processing times."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Ready to start your Patent Registration?",
+        "description": "Contact our Varanasi team today.",
+        "cta_text": "Apply Now",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "Startup",
+  "tags": [
+    "patent",
+    "services",
+    "varanasi",
+    "startup"
+  ],
+  "last_modified": "2026-02-16T16:03:27.462Z",
+  "published": true
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "shop-and-establishment-license-in-vijayawada",
+  "page_name": "Shop and Establishment License in Vijayawada - Expert Service",
+  "title": "Shop and Establishment License in Vijayawada - Expert Service",
+  "meta": {
+    "description": "Best Shop and Establishment License services in Vijayawada. Expert, reliable and affordable. Contact us for expert assistance.",
+    "keywords": [
+      "shop",
+      "services",
+      "vijayawada",
+      "general"
+    ],
+    "canonical": "https://example.com/shop-and-establishment-license-in-vijayawada"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "Shop and Establishment License in Vijayawada",
+        "subheading": "Get professional Shop and Establishment License services in Vijayawada. Expert and reliable processing.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Why Choose Us for Shop and Establishment License?",
+        "body": "<p>We provide top-notch <strong>Shop and Establishment License</strong> services specifically tailored for businesses and individuals in <strong>Vijayawada</strong>. Our team of experts ensures a hassle-free experience.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Our Advantages",
+        "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Vijayawada.</p>",
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Common Questions",
+        "questions": [
+          {
+            "question": "Is physical presence required in Vijayawada?",
+            "answer": "No, our process is completely online."
+          },
+          {
+            "question": "How long does it take?",
+            "answer": "Typically 3-5 working days depending on government processing times."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Ready to start your Shop and Establishment License?",
+        "description": "Contact our Vijayawada team today.",
+        "cta_text": "Apply Now",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "General",
+  "tags": [
+    "shop",
+    "services",
+    "vijayawada",
+    "general"
+  ],
+  "last_modified": "2026-02-16T16:03:27.464Z",
+  "published": true
+}
