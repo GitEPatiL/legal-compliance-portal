@@ -4,7 +4,6 @@ import {
   Search,
   ArrowRight,
   ShieldCheck,
-  Briefcase,
   FileText,
   Globe,
   Calculator,
@@ -97,7 +96,7 @@ const categories = [
   },
 ];
 
-function RocketIcon(props: any) {
+function RocketIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -121,29 +120,28 @@ function RocketIcon(props: any) {
 
 export default function ServicesPage() {
   return (
-    <main className="min-h-screen bg-gray-50 dark:bg-slate-950">
+    <main className="min-h-screen bg-black text-white">
       <NavBar />
 
       {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-slate-900 text-white relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/50 to-slate-900 z-0"></div>
-        <div className="absolute top-0 right-0 w-1/2 h-full bg-blue-500/10 blur-[100px] rounded-full pointer-events-none"></div>
+      <section className="pt-32 pb-20 bg-gray-900 border-b border-gray-800 relative overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 to-black z-0"></div>
 
         <div className="max-w-7xl mx-auto px-6 relative z-10 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Explore Our Services</h1>
-          <p className="text-xl text-slate-300 max-w-2xl mx-auto mb-10">
+          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-white">Explore Our Services</h1>
+          <p className="text-xl text-gray-400 max-w-2xl mx-auto mb-10">
             From incorporation to compliance, we provide end-to-end legal solutions for businesses
             of all sizes.
           </p>
 
           <div className="max-w-2xl mx-auto relative">
             <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none">
-              <Search className="h-5 w-5 text-gray-400" />
+              <Search className="h-5 w-5 text-gray-500" />
             </div>
             <input
               type="text"
               placeholder="Search for a service (e.g. 'Private Limited', 'Trademark')"
-              className="w-full pl-12 pr-4 py-4 rounded-xl bg-white/10 border border-white/20 backdrop-blur-md text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all font-medium"
+              className="w-full pl-12 pr-4 py-4 rounded-xl bg-gray-800/50 border border-gray-700 backdrop-blur-md text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-600 transition-all font-medium"
             />
           </div>
         </div>
@@ -155,27 +153,23 @@ export default function ServicesPage() {
           {categories.map((category) => (
             <div
               key={category.id}
-              className="bg-white dark:bg-slate-900 rounded-2xl p-8 shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-slate-800 group"
+              className="bg-gray-900 rounded-2xl p-8 shadow-sm hover:shadow-xl hover:shadow-blue-900/10 transition-all duration-300 border border-gray-800 group"
             >
-              <div className="w-14 h-14 bg-blue-50 dark:bg-blue-900/20 rounded-xl flex items-center justify-center text-blue-600 dark:text-blue-400 mb-6 group-hover:scale-110 transition-transform">
+              <div className="w-14 h-14 bg-blue-900/20 rounded-xl flex items-center justify-center text-blue-400 mb-6 group-hover:scale-110 transition-transform">
                 <category.icon className="w-7 h-7" />
               </div>
 
-              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
-                {category.title}
-              </h3>
-              <p className="text-gray-500 dark:text-gray-400 mb-6 text-sm leading-relaxed">
-                {category.description}
-              </p>
+              <h3 className="text-xl font-bold text-white mb-3">{category.title}</h3>
+              <p className="text-gray-400 mb-6 text-sm leading-relaxed">{category.description}</p>
 
               <ul className="space-y-3 mb-8">
                 {category.services.map((service) => (
                   <li key={service}>
                     <Link
                       href={`/${service.toLowerCase().replace(/ /g, '-')}`}
-                      className="flex items-center text-sm text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                      className="flex items-center text-sm text-gray-400 hover:text-blue-400 transition-colors"
                     >
-                      <div className="w-1.5 h-1.5 rounded-full bg-gray-300 mr-2.5"></div>
+                      <div className="w-1.5 h-1.5 rounded-full bg-gray-600 mr-2.5"></div>
                       {service}
                     </Link>
                   </li>
@@ -184,7 +178,7 @@ export default function ServicesPage() {
 
               <Link
                 href={`/category/${category.id}`}
-                className="inline-flex items-center text-blue-600 dark:text-blue-400 font-semibold text-sm hover:underline"
+                className="inline-flex items-center text-blue-400 font-semibold text-sm hover:text-blue-300"
               >
                 View All {category.title} <ArrowRight className="w-4 h-4 ml-1.5" />
               </Link>
@@ -194,15 +188,15 @@ export default function ServicesPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 px-6 bg-white dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800">
+      <section className="py-20 px-6 bg-black border-t border-gray-800">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">
-            Cant find what you're looking for?
+          <h2 className="text-3xl font-bold text-white mb-6">
+            Can&apos;t find what you&apos;re looking for?
           </h2>
-          <p className="text-gray-500 dark:text-gray-400 mb-8 text-lg">
+          <p className="text-gray-400 mb-8 text-lg">
             Our legal experts are here to help you navigate specific requirements.
           </p>
-          <button className="px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/20">
+          <button className="px-8 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg shadow-blue-900/20">
             Talk to an Expert
           </button>
         </div>

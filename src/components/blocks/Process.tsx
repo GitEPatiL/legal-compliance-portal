@@ -2,12 +2,15 @@ import React from 'react';
 import { BlockProps } from '@/types/page';
 
 const Process: React.FC<BlockProps> = ({ content }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const { heading, steps } = content as any;
 
   return (
     <section className="py-16 px-6 bg-gray-50">
       <div className="max-w-5xl mx-auto">
-        {heading && <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">{heading}</h2>}
+        {heading && (
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">{heading}</h2>
+        )}
         <div className="space-y-8">
           {steps?.map((step: any, i: number) => (
             <div key={i} className="flex gap-6">

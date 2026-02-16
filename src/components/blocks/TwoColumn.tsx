@@ -25,8 +25,8 @@ const TwoColumn: React.FC<BlockProps> = ({ content, style, theme }) => {
 
   const cardClass =
     theme?.card_style === 'elevated'
-      ? 'bg-white rounded-xl shadow-lg p-8'
-      : 'bg-gray-50 rounded-lg p-8';
+      ? 'bg-gray-900 rounded-xl shadow-lg p-8 border border-gray-800'
+      : 'bg-gray-900/50 rounded-lg p-8 border border-gray-800';
 
   const hasCenter = !!center_content;
   const gridCols = hasCenter ? 'md:grid-cols-3' : 'md:grid-cols-2';

@@ -1,7 +1,6 @@
 import NavBar from '@/components/NavBar';
 import FooterSitemap from '@/components/FooterSitemap';
 import { Search, BookOpen, FileText, PlayCircle, Download, Tag } from 'lucide-react';
-import Link from 'next/link';
 
 const resources = [
   {

@@ -2,12 +2,15 @@ import React from 'react';
 import { BlockProps } from '@/types/page';
 
 const Gallery: React.FC<BlockProps> = ({ content }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const { heading, images } = content as any;
 
   return (
     <section className="py-16 px-6">
       <div className="max-w-7xl mx-auto">
-        {heading && <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">{heading}</h2>}
+        {heading && (
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">{heading}</h2>
+        )}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {images?.map((img: any, i: number) => (
             <div key={i} className="relative aspect-square overflow-hidden rounded-lg">

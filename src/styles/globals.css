@@ -3,38 +3,24 @@
 @tailwind utilities;
 
 :root {
-  /* Palette A (Trust): Deep Blue & Gold */
-  --color-primary: #0f172a;
-  --color-accent: #ca8a04;
-  --color-bg: #f8fafc;
-  --color-surface: #ffffff;
-  --text-primary: #1e293b;
-  --text-muted: #64748b;
+  /* Blue Accents + Black Background Theme */
+  --color-primary: #2563eb; /* Blue 600 */
+  --color-accent: #4f46e5;  /* Indigo 600 */
+  --color-bg: #000000;      /* Pure Black as requested */
+  --color-surface: #111827; /* Gray 900 */
+  --color-border: #1f2937;  /* Gray 800 */
+  --text-primary: #f9fafb;  /* Gray 50 */
+  --text-muted: #9ca3af;    /* Gray 400 */
 }
 
-[data-theme='warm'] {
-  /* Palette B (Warm): Burgundy & Teal */
-  --color-primary: #450a0a;
-  --color-accent: #0d9488;
-  --color-bg: #fffbf5;
-  --color-surface: #ffffff;
-  --text-primary: #292524;
-  --text-muted: #78716c;
-}
-
-.dark {
-  --color-primary: #f8fafc;
-  --color-accent: #fbbf24;
-  --color-bg: #0f172a;
-  --color-surface: #1e293b;
-  --text-primary: #e2e8f0;
-  --text-muted: #94a3b8;
-}
+/* Removed other themes to enforce consistency */
 
 body {
   color: var(--text-primary);
   background: var(--color-bg);
-  transition: color 0.2s ease, background 0.2s ease;
+  transition:
+    color 0.2s ease,
+    background 0.2s ease;
 }
 
 /* Custom Utilities */

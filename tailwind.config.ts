@@ -16,6 +16,7 @@ const config: Config = {
         surface: "var(--color-surface)",
         text: "var(--text-primary)",
         muted: "var(--text-muted)",
+        border: "var(--color-border)",
       },
       boxShadow: {
         'soft': '0 4px 20px -2px rgba(0, 0, 0, 0.05)',

@@ -2,6 +2,7 @@ import React from 'react';
 import { BlockProps } from '@/types/page';
 
 const TableBlock: React.FC<BlockProps> = ({ content }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const { heading, headers, rows } = content as any;
 
   return (
@@ -14,7 +15,10 @@ const TableBlock: React.FC<BlockProps> = ({ content }) => {
               <thead className="bg-gray-50">
                 <tr>
                   {headers.map((header: string, i: number) => (
-                    <th key={i} className="px-6 py-3 text-left text-sm font-semibold text-gray-900 border-b">
+                    <th
+                      key={i}
+                      className="px-6 py-3 text-left text-sm font-semibold text-gray-900 border-b"
+                    >
                       {header}
                     </th>
                   ))}

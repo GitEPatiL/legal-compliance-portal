@@ -7,7 +7,7 @@ interface TextContent {
   alignment?: 'left' | 'center' | 'right';
 }
 
-const TextBlock: React.FC<BlockProps> = ({ content, style }) => {
+const TextBlock: React.FC<BlockProps> = ({ content }) => {
   const { heading, body, alignment = 'left' } = content as TextContent;
   const alignClass = {
     left: 'text-left',
@@ -16,10 +16,13 @@ const TextBlock: React.FC<BlockProps> = ({ content, style }) => {
   }[alignment];
 
   return (
-    <section className={`py-16 px-6 ${alignClass}`}>
+    <section className={`py-16 px-6 ${alignClass} text-white`}>
       <div className="max-w-4xl mx-auto">
-        {heading && <h2 className="text-3xl md:text-4xl font-bold mb-8 text-gray-900">{heading}</h2>}
-        <div className="prose prose-lg max-w-none text-gray-700" dangerouslySetInnerHTML={{ __html: body }} />
+        {heading && <h2 className="text-3xl md:text-4xl font-bold mb-8 text-white">{heading}</h2>}
+        <div
+          className="prose prose-lg max-w-none text-gray-300 prose-headings:text-white prose-strong:text-white prose-a:text-blue-400"
+          dangerouslySetInnerHTML={{ __html: body }}
+        />
       </div>
     </section>
   );

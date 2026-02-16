@@ -43,22 +43,22 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
 
   if (style === 'split') {
     return (
-      <section className="grid md:grid-cols-2 gap-12 items-center max-w-7xl mx-auto px-6 py-20">
+      <section className="grid md:grid-cols-2 gap-12 items-center max-w-7xl mx-auto px-6 py-20 text-white">
         <div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">{heading}</h1>
-          {subheading && <p className="text-lg md:text-xl text-gray-600 mb-8">{subheading}</p>}
+          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-white">{heading}</h1>
+          {subheading && <p className="text-lg md:text-xl text-gray-400 mb-8">{subheading}</p>}
           {cta_text && cta_url && (
             <a
               href={cta_url}
               style={{ backgroundColor: primary }}
-              className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90"
+              className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90 transition-opacity"
             >
               {cta_text}
             </a>
           )}
         </div>
         {image && (
-          <div className="rounded-2xl overflow-hidden shadow-2xl">
+          <div className="rounded-2xl overflow-hidden shadow-2xl border border-gray-800">
             <img src={image} alt={image_alt || heading} className="w-full h-auto" />
           </div>
         )}
@@ -67,14 +67,14 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
   }
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 text-center">
-      <h1 className="text-4xl md:text-6xl font-bold mb-6 text-gray-900">{heading}</h1>
-      {subheading && <p className="text-lg md:text-xl text-gray-600 mb-8">{subheading}</p>}
+    <section className="max-w-4xl mx-auto px-6 py-20 text-center text-white">
+      <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">{heading}</h1>
+      {subheading && <p className="text-lg md:text-xl text-gray-400 mb-8">{subheading}</p>}
       {cta_text && cta_url && (
         <a
           href={cta_url}
           style={{ backgroundColor: primary }}
-          className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90"
+          className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90 transition-opacity"
         >
           {cta_text}
         </a>
