@@ -87998,5 +87998,353 @@
     ],
     "last_modified": "2026-02-16T16:03:27.466Z",
     "published": true
+  },
+  {
+    "slug": "private-limited-company",
+    "page_name": "Private Limited Company Registration",
+    "title": "Private Limited Company Registration",
+    "meta": {
+      "description": "Register your Private Limited Company in India entirely online. fast, affordable, and 100% compliant.",
+      "keywords": [
+        "Start Business",
+        "private limited company",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/private-limited-company"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Start Business",
+    "tags": [
+      "Start Business"
+    ],
+    "last_modified": "2026-02-16T16:55:35.913Z",
+    "published": true
+  },
+  {
+    "slug": "llp-registration",
+    "page_name": "LLP Registration",
+    "title": "LLP Registration",
+    "meta": {
+      "description": "Register your Limited Liability Partnership (LLP) online. Low compliance cost and limited liability protection.",
+      "keywords": [
+        "Start Business",
+        "llp registration",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/llp-registration"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Start Business",
+    "tags": [
+      "Start Business"
+    ],
+    "last_modified": "2026-02-16T16:55:35.916Z",
+    "published": true
+  },
+  {
+    "slug": "one-person-company",
+    "page_name": "One Person Company (OPC) Registration",
+    "title": "One Person Company (OPC) Registration",
+    "meta": {
+      "description": "Start a company with just one person. Get the benefits of a Private Limited Company with less compliance.",
+      "keywords": [
+        "Start Business",
+        "one person company",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/one-person-company"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Start Business",
+    "tags": [
+      "Start Business"
+    ],
+    "last_modified": "2026-02-16T16:55:35.918Z",
+    "published": true
+  },
+  {
+    "slug": "partnership-firm",
+    "page_name": "Partnership Firm Registration",
+    "title": "Partnership Firm Registration",
+    "meta": {
+      "description": "Register a partnership firm easily. Drafting of partnership deed and registration guidance.",
+      "keywords": [
+        "Start Business",
+        "partnership firm",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/partnership-firm"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Start Business",
+    "tags": [
+      "Start Business"
+    ],
+    "last_modified": "2026-02-16T16:55:35.921Z",
+    "published": true
+  },
+  {
+    "slug": "gst-registration",
+    "page_name": "GST Registration",
+    "title": "GST Registration",
+    "meta": {
+      "description": "Get your GSTIN number online. Mandatory for businesses with turnover above ₹20/40 Lakhs.",
+      "keywords": [
+        "Tax & GST",
+        "gst registration",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/gst-registration"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Tax & GST",
+    "tags": [
+      "Tax & GST"
+    ],
+    "last_modified": "2026-02-16T16:55:35.923Z",
+    "published": true
+  },
+  {
+    "slug": "income-tax-filing",
+    "page_name": "Income Tax Return Filing",
+    "title": "Income Tax Return Filing",
+    "meta": {
+      "description": "Expert assisted ITR filing for individuals and businesses. Maximize your refunds.",
+      "keywords": [
+        "Tax & GST",
+        "income tax filing",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/income-tax-filing"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Tax & GST",
+    "tags": [
+      "Tax & GST"
+    ],
+    "last_modified": "2026-02-16T16:55:35.925Z",
+    "published": true
+  },
+  {
+    "slug": "tds-return-filing",
+    "page_name": "TDS Return Filing",
+    "title": "TDS Return Filing",
+    "meta": {
+      "description": "Quarterly TDS return filing for businesses. Avoid penalties and interest.",
+      "keywords": [
+        "Tax & GST",
+        "tds return filing",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/tds-return-filing"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Tax & GST",
+    "tags": [
+      "Tax & GST"
+    ],
+    "last_modified": "2026-02-16T16:55:35.927Z",
+    "published": true
+  },
+  {
+    "slug": "professional-tax",
+    "page_name": "Professional Tax Registration",
+    "title": "Professional Tax Registration",
+    "meta": {
+      "description": "Professional Tax Registration and Enrolment (PTEC/PTRC) for employers and professionals.",
+      "keywords": [
+        "Tax & GST",
+        "professional tax",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/professional-tax"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Tax & GST",
+    "tags": [
+      "Tax & GST"
+    ],
+    "last_modified": "2026-02-16T16:55:35.930Z",
+    "published": true
+  },
+  {
+    "slug": "trademark-registration",
+    "page_name": "Trademark Registration",
+    "title": "Trademark Registration",
+    "meta": {
+      "description": "Protect your brand name and logo. File Trademark application online.",
+      "keywords": [
+        "Legal & IP",
+        "trademark registration",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/trademark-registration"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Legal & IP",
+    "tags": [
+      "Legal & IP"
+    ],
+    "last_modified": "2026-02-16T16:55:35.932Z",
+    "published": true
+  },
+  {
+    "slug": "copyright-registration",
+    "page_name": "Copyright Registration",
+    "title": "Copyright Registration",
+    "meta": {
+      "description": "Copyright your creative works - literary, artistic, musical, or software.",
+      "keywords": [
+        "Legal & IP",
+        "copyright registration",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/copyright-registration"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Legal & IP",
+    "tags": [
+      "Legal & IP"
+    ],
+    "last_modified": "2026-02-16T16:55:35.934Z",
+    "published": true
+  },
+  {
+    "slug": "patent-registration",
+    "page_name": "Patent Registration",
+    "title": "Patent Registration",
+    "meta": {
+      "description": "File provisional and complete patent specifications. Protect your inventions.",
+      "keywords": [
+        "Legal & IP",
+        "patent registration",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/patent-registration"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Legal & IP",
+    "tags": [
+      "Legal & IP"
+    ],
+    "last_modified": "2026-02-16T16:55:35.936Z",
+    "published": true
+  },
+  {
+    "slug": "legal-notice",
+    "page_name": "Send Legal Notice",
+    "title": "Send Legal Notice",
+    "meta": {
+      "description": "Draft and send professional legal notices for recovery, defamation, or disputes.",
+      "keywords": [
+        "Legal & IP",
+        "legal notice",
+        "legal services",
+        "India"
+      ],
+      "canonical": "http://localhost:3000/legal-notice"
+    },
+    "theme": {
+      "color_palette": [
+        "#1a56db",
+        "#7c3aed"
+      ],
+      "font_pair": "Inter",
+      "card_style": "elevated"
+    },
+    "category": "Legal & IP",
+    "tags": [
+      "Legal & IP"
+    ],
+    "last_modified": "2026-02-16T16:55:35.938Z",
+    "published": true
   }
 ]

@@ -3,7 +3,7 @@ import { readFile } from 'fs/promises';
 import { join } from 'path';
 import BlockRenderer from '@/components/BlockRenderer';
 import Seo from '@/components/Seo';
-import { Page, PageSchema } from '@/types/page';
+import { Page as PageType, PageSchema } from '@/types/page';
 
 interface PageProps {
   params: { slug: string };
@@ -19,7 +19,7 @@ export async function generateStaticParams() {
     const manifestContent = await readFile(manifestPath, 'utf-8');
     const manifest = JSON.parse(manifestContent);
 
-    return manifest.map((page: any) => ({
+    return manifest.map((page: { slug: string }) => ({
       slug: page.slug,
     }));
   } catch (error) {
@@ -29,7 +29,7 @@ export async function generateStaticParams() {
 }
 
 // Fetch page data from public/pages/{slug}.json
-async function getPageData(slug: string): Promise<Page | null> {
+async function getPageData(slug: string): Promise<PageType | null> {
   try {
     const pagePath = join(process.cwd(), 'public', 'pages', `${slug}.json`);
     const content = await readFile(pagePath, 'utf-8');

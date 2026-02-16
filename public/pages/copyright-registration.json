@@ -1,10 +1,118 @@
 {
   "slug": "copyright-registration",
+  "page_name": "Copyright Registration",
   "title": "Copyright Registration",
-  "category": "IP",
-  "tags": [
-    "creative",
-    "protection"
+  "meta": {
+    "description": "Copyright your creative works - literary, artistic, musical, or software.",
+    "keywords": [
+      "Legal & IP",
+      "copyright registration",
+      "legal services",
+      "India"
+    ],
+    "canonical": "http://localhost:3000/copyright-registration"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "default",
+      "content": {
+        "heading": "Copyright Registration",
+        "subheading": "Legal protection for your creative content and software.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us",
+        "image": "/images/hero-bg.jpg"
+      }
+    },
+    {
+      "type": "three_column",
+      "style": "card",
+      "content": {
+        "heading": "Why Choose This Service?",
+        "left_content": "<h3>Proof of Ownership</h3><p>Prima facie evidence in court.</p>",
+        "right_content": "<h3>Lifetime Validity</h3><p>Valid for author’s life + 60 years.</p>",
+        "center_content": "<h3>International Protection</h3><p>Protected in 170+ countries.</p>"
+      },
+      "props": {
+        "columns": 3,
+        "items": [
+          {
+            "title": "Proof of Ownership",
+            "desc": "Prima facie evidence in court."
+          },
+          {
+            "title": "Lifetime Validity",
+            "desc": "Valid for author’s life + 60 years."
+          },
+          {
+            "title": "International Protection",
+            "desc": "Protected in 170+ countries."
+          }
+        ]
+      }
+    },
+    {
+      "type": "process",
+      "style": "process",
+      "content": {
+        "heading": "Registration Process",
+        "steps": [
+          {
+            "title": "Submit Details",
+            "desc": "Fill our simple form."
+          },
+          {
+            "title": "Document Draft",
+            "desc": "We prepare the documents."
+          },
+          {
+            "title": "Filing",
+            "desc": "We file with the authority."
+          },
+          {
+            "title": "Approval",
+            "desc": "Get your certificate."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "style": "accordion",
+      "content": {
+        "heading": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "What can be copyrighted?",
+            "answer": "Books, music, software code, videos, paintings, etc."
+          },
+          {
+            "question": "Can I copyright an idea?",
+            "answer": "No, only the expression of an idea can be copyrighted."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "highlight",
+      "content": {
+        "heading": "Ready to move forward?",
+        "description": "Our experts are available to guide you.",
+        "cta_text": "Consult Now",
+        "cta_url": "/contact-us"
+      }
+    }
   ],
-  "last_modified": "2024-01-28"
+  "category": "Legal & IP",
+  "published": true,
+  "last_modified": "2026-02-16T16:55:35.932Z"
 }

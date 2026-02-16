@@ -1,10 +1,118 @@
 {
   "slug": "trademark-registration",
+  "page_name": "Trademark Registration",
   "title": "Trademark Registration",
-  "category": "IP",
-  "tags": [
-    "brand",
-    "legal"
+  "meta": {
+    "description": "Protect your brand name and logo. File Trademark application online.",
+    "keywords": [
+      "Legal & IP",
+      "trademark registration",
+      "legal services",
+      "India"
+    ],
+    "canonical": "http://localhost:3000/trademark-registration"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "default",
+      "content": {
+        "heading": "Online Trademark Registration",
+        "subheading": "Secure your brand identity within 24 hours (Application Filing).",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us",
+        "image": "/images/hero-bg.jpg"
+      }
+    },
+    {
+      "type": "three_column",
+      "style": "card",
+      "content": {
+        "heading": "Why Choose This Service?",
+        "left_content": "<h3>Brand Protection</h3><p>Exclusive rights to use your brand name.</p>",
+        "right_content": "<h3>Asset Creation</h3><p>Intangible asset improving valuation.</p>",
+        "center_content": "<h3>Legal Remedy</h3><p>Right to sue for infringement.</p>"
+      },
+      "props": {
+        "columns": 3,
+        "items": [
+          {
+            "title": "Brand Protection",
+            "desc": "Exclusive rights to use your brand name."
+          },
+          {
+            "title": "Asset Creation",
+            "desc": "Intangible asset improving valuation."
+          },
+          {
+            "title": "Legal Remedy",
+            "desc": "Right to sue for infringement."
+          }
+        ]
+      }
+    },
+    {
+      "type": "process",
+      "style": "process",
+      "content": {
+        "heading": "Registration Process",
+        "steps": [
+          {
+            "title": "Submit Details",
+            "desc": "Fill our simple form."
+          },
+          {
+            "title": "Document Draft",
+            "desc": "We prepare the documents."
+          },
+          {
+            "title": "Filing",
+            "desc": "We file with the authority."
+          },
+          {
+            "title": "Approval",
+            "desc": "Get your certificate."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "style": "accordion",
+      "content": {
+        "heading": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "What is a Trademark Class?",
+            "answer": "Goods/Services are categorized into 45 classes."
+          },
+          {
+            "question": "How long is it valid?",
+            "answer": "10 years, renewable indefinitely."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "highlight",
+      "content": {
+        "heading": "Ready to move forward?",
+        "description": "Our experts are available to guide you.",
+        "cta_text": "Consult Now",
+        "cta_url": "/contact-us"
+      }
+    }
   ],
-  "last_modified": "2024-01-20"
+  "category": "Legal & IP",
+  "published": true,
+  "last_modified": "2026-02-16T16:55:35.930Z"
 }

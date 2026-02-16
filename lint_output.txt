@@ -1,0 +1,72 @@
+
+> legal-compliance-portal@1.0.0 lint
+> next lint
+
+
+./src/app/compliance/page.tsx
+3:39  Warning: 'AlertTriangle' is defined but never used.  @typescript-eslint/no-unused-vars
+5:10  Warning: 'useState' is defined but never used.  @typescript-eslint/no-unused-vars
+
+./src/app/resources/page.tsx
+4:8  Warning: 'Link' is defined but never used.  @typescript-eslint/no-unused-vars
+
+./src/app/services/page.tsx
+7:3  Warning: 'Briefcase' is defined but never used.  @typescript-eslint/no-unused-vars
+100:28  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+200:31  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.  react/no-unescaped-entities
+
+./src/app/[slug]/page.tsx
+22:32  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/BlockRenderer.tsx
+30:61  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/blocks/Gallery.tsx
+5:42  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+12:30  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+14:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./src/components/blocks/GridCards.tsx
+5:41  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+12:30  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/blocks/Hero.tsx
+21:11  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+62:13  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./src/components/blocks/Process.tsx
+5:41  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+12:30  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/blocks/TableBlock.tsx
+5:49  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/blocks/Testimonial.tsx
+5:48  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+12:37  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+16:33  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./src/components/blocks/TextBlock.tsx
+10:53  Warning: 'style' is defined but never used. Allowed unused args must match /^_/u.  @typescript-eslint/no-unused-vars
+
+./src/components/blocks/TwoColumn.tsx
+4:11  Warning: 'TwoColumnContent' is defined but never used.  @typescript-eslint/no-unused-vars
+21:18  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+41:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+54:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+70:15  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./src/components/CategoryGrid.tsx
+7:32  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./src/components/HeroSearch.tsx
+84:86  Error: `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`.  react/no-unescaped-entities
+84:94  Error: `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`.  react/no-unescaped-entities
+
+./src/components/NavBar.tsx
+3:10  Warning: 'Search' is defined but never used.  @typescript-eslint/no-unused-vars
+
+./src/types/page.ts
+104:12  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules

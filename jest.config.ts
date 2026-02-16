@@ -16,7 +16,7 @@ const config: Config = {
     '!src/**/*.stories.{ts,tsx}',
     '!src/**/*.d.ts',
   ],
-  coverageThresholds: {
+  coverageThreshold: {
     global: {
       branches: 70,
       functions: 70,

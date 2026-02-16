@@ -1,16 +1,16 @@
 {
-  "slug": "patent-registration",
-  "page_name": "Patent Registration",
-  "title": "Patent Registration",
+  "slug": "legal-notice",
+  "page_name": "Send Legal Notice",
+  "title": "Send Legal Notice",
   "meta": {
-    "description": "File provisional and complete patent specifications. Protect your inventions.",
+    "description": "Draft and send professional legal notices for recovery, defamation, or disputes.",
     "keywords": [
       "Legal & IP",
-      "patent registration",
+      "legal notice",
       "legal services",
       "India"
     ],
-    "canonical": "http://localhost:3000/patent-registration"
+    "canonical": "http://localhost:3000/legal-notice"
   },
   "theme": {
     "color_palette": [
@@ -25,8 +25,8 @@
       "type": "hero",
       "style": "default",
       "content": {
-        "heading": "Patent Registration Service",
-        "subheading": "Protect your novel inventions and technology.",
+        "heading": "Draft & Send Legal Notice",
+        "subheading": "Formal communication to resolve disputes before litigation.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us",
         "image": "/images/hero-bg.jpg"
@@ -37,24 +37,24 @@
       "style": "card",
       "content": {
         "heading": "Why Choose This Service?",
-        "left_content": "<h3>Monopoly Rights</h3><p>Exclusive right to manufacture/sell for 20 years.</p>",
-        "right_content": "<h3>Highest Value</h3><p>Patents significantly increase company valuation.</p>",
-        "center_content": "<h3>Licensing Revenue</h3><p>Earn royalties by licensing your invention.</p>"
+        "left_content": "<h3>Formal Warning</h3><p>Shows seriousness to resolve the issue.</p>",
+        "right_content": "<h3>Evidence</h3><p>Critical evidence in court if case is filed.</p>",
+        "center_content": "<h3>Quick Settlement</h3><p>Often leads to settlement without court.</p>"
       },
       "props": {
         "columns": 3,
         "items": [
           {
-            "title": "Monopoly Rights",
-            "desc": "Exclusive right to manufacture/sell for 20 years."
+            "title": "Formal Warning",
+            "desc": "Shows seriousness to resolve the issue."
           },
           {
-            "title": "Highest Value",
-            "desc": "Patents significantly increase company valuation."
+            "title": "Evidence",
+            "desc": "Critical evidence in court if case is filed."
           },
           {
-            "title": "Licensing Revenue",
-            "desc": "Earn royalties by licensing your invention."
+            "title": "Quick Settlement",
+            "desc": "Often leads to settlement without court."
           }
         ]
       }
@@ -91,12 +91,12 @@
         "heading": "Frequently Asked Questions",
         "questions": [
           {
-            "question": "What is a provisional patent?",
-            "answer": "Specifically to secure a priority date before filing complete details."
+            "question": "When to send a notice?",
+            "answer": "Ideally before filing any civil suit."
           },
           {
-            "question": "How long does it take?",
-            "answer": "Grant usually takes 2-4 years in India."
+            "question": "Do I need a lawyer?",
+            "answer": "Yes, a notice sent by a lawyer carries more weight."
           }
         ]
       }
@@ -114,5 +114,5 @@
   ],
   "category": "Legal & IP",
   "published": true,
-  "last_modified": "2026-02-16T16:55:35.935Z"
+  "last_modified": "2026-02-16T16:55:35.936Z"
 }

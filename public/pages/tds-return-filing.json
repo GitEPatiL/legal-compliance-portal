@@ -1,16 +1,16 @@
 {
-  "slug": "patent-registration",
-  "page_name": "Patent Registration",
-  "title": "Patent Registration",
+  "slug": "tds-return-filing",
+  "page_name": "TDS Return Filing",
+  "title": "TDS Return Filing",
   "meta": {
-    "description": "File provisional and complete patent specifications. Protect your inventions.",
+    "description": "Quarterly TDS return filing for businesses. Avoid penalties and interest.",
     "keywords": [
-      "Legal & IP",
-      "patent registration",
+      "Tax & GST",
+      "tds return filing",
       "legal services",
       "India"
     ],
-    "canonical": "http://localhost:3000/patent-registration"
+    "canonical": "http://localhost:3000/tds-return-filing"
   },
   "theme": {
     "color_palette": [
@@ -25,8 +25,8 @@
       "type": "hero",
       "style": "default",
       "content": {
-        "heading": "Patent Registration Service",
-        "subheading": "Protect your novel inventions and technology.",
+        "heading": "TDS Return Filing Service",
+        "subheading": "Timely filing of Forms 24Q, 26Q, 27Q & 27EQ.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us",
         "image": "/images/hero-bg.jpg"
@@ -37,24 +37,24 @@
       "style": "card",
       "content": {
         "heading": "Why Choose This Service?",
-        "left_content": "<h3>Monopoly Rights</h3><p>Exclusive right to manufacture/sell for 20 years.</p>",
-        "right_content": "<h3>Highest Value</h3><p>Patents significantly increase company valuation.</p>",
-        "center_content": "<h3>Licensing Revenue</h3><p>Earn royalties by licensing your invention.</p>"
+        "left_content": "<h3>Penalty Protection</h3><p>Avoid late fees of ₹200 per day.</p>",
+        "right_content": "<h3>Reconciliation</h3><p>Match TDS with Challans.</p>",
+        "center_content": "<h3>Correction Filing</h3><p>Support for revising returns.</p>"
       },
       "props": {
         "columns": 3,
         "items": [
           {
-            "title": "Monopoly Rights",
-            "desc": "Exclusive right to manufacture/sell for 20 years."
+            "title": "Penalty Protection",
+            "desc": "Avoid late fees of ₹200 per day."
           },
           {
-            "title": "Highest Value",
-            "desc": "Patents significantly increase company valuation."
+            "title": "Reconciliation",
+            "desc": "Match TDS with Challans."
           },
           {
-            "title": "Licensing Revenue",
-            "desc": "Earn royalties by licensing your invention."
+            "title": "Correction Filing",
+            "desc": "Support for revising returns."
           }
         ]
       }
@@ -91,12 +91,12 @@
         "heading": "Frequently Asked Questions",
         "questions": [
           {
-            "question": "What is a provisional patent?",
-            "answer": "Specifically to secure a priority date before filing complete details."
+            "question": "Who prepares TDS return?",
+            "answer": "Anyone who deducts TDS must file returns quarterly."
           },
           {
-            "question": "How long does it take?",
-            "answer": "Grant usually takes 2-4 years in India."
+            "question": "What forms are used?",
+            "answer": "24Q (Salary), 26Q (Non-Salary), 27Q (NRIs)."
           }
         ]
       }
@@ -112,7 +112,7 @@
       }
     }
   ],
-  "category": "Legal & IP",
+  "category": "Tax & GST",
   "published": true,
-  "last_modified": "2026-02-16T16:55:35.935Z"
+  "last_modified": "2026-02-16T16:55:35.926Z"
 }

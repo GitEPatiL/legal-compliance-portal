@@ -1,10 +1,118 @@
 {
   "slug": "llp-registration",
+  "page_name": "LLP Registration",
   "title": "LLP Registration",
-  "category": "Services",
-  "tags": [
-    "partnership",
-    "business"
+  "meta": {
+    "description": "Register your Limited Liability Partnership (LLP) online. Low compliance cost and limited liability protection.",
+    "keywords": [
+      "Start Business",
+      "llp registration",
+      "legal services",
+      "India"
+    ],
+    "canonical": "http://localhost:3000/llp-registration"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "default",
+      "content": {
+        "heading": "Limited Liability Partnership (LLP) Registration",
+        "subheading": "Ideal for professional firms and small businesses. Enjoy low compliance costs.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us",
+        "image": "/images/hero-bg.jpg"
+      }
+    },
+    {
+      "type": "three_column",
+      "style": "card",
+      "content": {
+        "heading": "Why Choose This Service?",
+        "left_content": "<h3>Low Compliance</h3><p>Requires fewer annual filings compared to a Private Limited Company.</p>",
+        "right_content": "<h3>No Minimum Capital</h3><p>Start with any amount of capital.</p>",
+        "center_content": "<h3>Tax Benefits</h3><p>Save on dividend distribution tax.</p>"
+      },
+      "props": {
+        "columns": 3,
+        "items": [
+          {
+            "title": "Low Compliance",
+            "desc": "Requires fewer annual filings compared to a Private Limited Company."
+          },
+          {
+            "title": "No Minimum Capital",
+            "desc": "Start with any amount of capital."
+          },
+          {
+            "title": "Tax Benefits",
+            "desc": "Save on dividend distribution tax."
+          }
+        ]
+      }
+    },
+    {
+      "type": "process",
+      "style": "process",
+      "content": {
+        "heading": "Registration Process",
+        "steps": [
+          {
+            "title": "Submit Details",
+            "desc": "Fill our simple form."
+          },
+          {
+            "title": "Document Draft",
+            "desc": "We prepare the documents."
+          },
+          {
+            "title": "Filing",
+            "desc": "We file with the authority."
+          },
+          {
+            "title": "Approval",
+            "desc": "Get your certificate."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "style": "accordion",
+      "content": {
+        "heading": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "Is audit mandatory for LLP?",
+            "answer": "Audit is only mandatory if turnover exceeds ₹40 Lakhs or contribution exceeds ₹25 Lakhs."
+          },
+          {
+            "question": "Can an LLP convert to Pvt Ltd?",
+            "answer": "Yes, but the process is complex. It is better to start as Pvt Ltd if you plan to raise funds."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "highlight",
+      "content": {
+        "heading": "Ready to move forward?",
+        "description": "Our experts are available to guide you.",
+        "cta_text": "Consult Now",
+        "cta_url": "/contact-us"
+      }
+    }
   ],
-  "last_modified": "2024-02-05"
+  "category": "Start Business",
+  "published": true,
+  "last_modified": "2026-02-16T16:55:35.914Z"
 }
