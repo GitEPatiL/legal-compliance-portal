@@ -1,9 +1,9 @@
 {
   "slug": "copyright-registration-in-delhi",
-  "page_name": "Copyright Registration in Delhi - Trusted Service",
-  "title": "Copyright Registration in Delhi - Trusted Service",
+  "page_name": "Copyright Registration in Delhi - Expert Service",
+  "title": "Copyright Registration in Delhi - Expert Service",
   "meta": {
-    "description": "Best Copyright Registration services in Delhi. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Delhi. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Delhi",
-        "subheading": "Get professional Copyright Registration services in Delhi. Trusted and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Delhi. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "Copyright Registration services in Delhi"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Delhi.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -83,6 +87,6 @@
     "delhi",
     "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.118Z",
+  "last_modified": "2026-02-17T11:39:38.781Z",
   "published": true
 }

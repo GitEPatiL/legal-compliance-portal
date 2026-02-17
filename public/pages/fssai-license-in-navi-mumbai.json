@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-navi-mumbai",
-  "page_name": "FSSAI License in Navi Mumbai - Fast Service",
-  "title": "FSSAI License in Navi Mumbai - Fast Service",
+  "page_name": "FSSAI License in Navi Mumbai - Quick Service",
+  "title": "FSSAI License in Navi Mumbai - Quick Service",
   "meta": {
-    "description": "Best FSSAI License services in Navi Mumbai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Navi Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "navi mumbai",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/fssai-license-in-navi-mumbai"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Navi Mumbai",
-        "subheading": "Get professional FSSAI License services in Navi Mumbai. Fast and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Navi Mumbai. Quick and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1565514020176-db79330b6ea8",
+        "image_alt": "FSSAI License services in Navi Mumbai"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Navi Mumbai.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "fssai",
     "services",
     "navi mumbai",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.778Z",
   "published": true
 }

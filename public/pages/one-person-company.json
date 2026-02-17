@@ -1,0 +1,89 @@
+{
+  "slug": "one-person-company",
+  "page_name": "One Person Company - Professional Services",
+  "title": "One Person Company - Professional Services",
+  "meta": {
+    "description": "Expert One Person Company services. Fast, online, and affordable. Get started today.",
+    "keywords": [
+      "one person company",
+      "services",
+      "legal"
+    ],
+    "canonical": "https://example.com/one-person-company"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "One Person Company",
+        "subheading": "India's most trusted platform for One Person Company. 100% Online process.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1628172825852-6e273f55ba62",
+        "image_alt": "One Person Company services"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "About One Person Company",
+        "body": "<p>We offer comprehensive <strong>One Person Company</strong> solutions. Whether you are a startup or an established business, our team can help you with all your requirements.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Why Choose Us?",
+        "left_content": "<h3>Expert Team</h3><p>Qualified professionals handling your case.</p>",
+        "right_content": "<h3>Best Pricing</h3><p>Transparent pricing with no hidden charges.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "What documents are needed for One Person Company?",
+            "answer": "The documents vary based on specific requirements. Contact us for a detailed checklist."
+          },
+          {
+            "question": "How can I track my application?",
+            "answer": "You can track your application status through our online dashboard."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Get Expert Assistance",
+        "description": "Talk to our legal advisors today.",
+        "cta_text": "Contact Us",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "Finance",
+  "tags": [
+    "one",
+    "service"
+  ],
+  "last_modified": "2026-02-17T11:39:38.788Z",
+  "published": true
+}

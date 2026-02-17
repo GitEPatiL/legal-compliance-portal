@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-patna",
-  "page_name": "Nidhi Company in Patna - Best Service",
-  "title": "Nidhi Company in Patna - Best Service",
+  "page_name": "Nidhi Company in Patna - Quick Service",
+  "title": "Nidhi Company in Patna - Quick Service",
   "meta": {
-    "description": "Best Nidhi Company services in Patna. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Patna. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "patna",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/nidhi-company-in-patna"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Patna",
-        "subheading": "Get professional Nidhi Company services in Patna. Best and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Patna. Quick and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1565514020176-db79330b6ea8",
+        "image_alt": "Nidhi Company services in Patna"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Patna.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "nidhi",
     "services",
     "patna",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

@@ -1,4 +1,4 @@
-"use client";
+'use client';
 import { useState, useMemo } from 'react';
 import { ManifestItem } from '@/types/manifest';
 import PageCard from './PageCard';
@@ -27,13 +27,26 @@ export default function PageList({ items }: PageListProps) {
     );
   }
 
+  import { motion } from 'framer-motion';
+  import { staggerContainer, scaleIn } from '@/config/animations';
+
+  // ...
+
   return (
     <div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-8">
+      <motion.div
+        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-8"
+        variants={staggerContainer}
+        initial="hidden"
+        animate="visible"
+        key={page} // Re-trigger animation on page change
+      >
         {currentItems.map((item) => (
-          <PageCard key={item.slug} page={item} />
+          <motion.div key={item.slug} variants={scaleIn}>
+            <PageCard page={item} />
+          </motion.div>
         ))}
-      </div>
+      </motion.div>
 
       {totalPages > 1 && (
         <div className="flex justify-center items-center gap-4">

@@ -1,14 +1,14 @@
 {
   "slug": "partnership-firm-registration-in-coimbatore",
-  "page_name": "Partnership Firm Registration in Coimbatore - Expert Service",
-  "title": "Partnership Firm Registration in Coimbatore - Expert Service",
+  "page_name": "Partnership Firm Registration in Coimbatore - Affordable Service",
+  "title": "Partnership Firm Registration in Coimbatore - Affordable Service",
   "meta": {
-    "description": "Best Partnership Firm Registration services in Coimbatore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Partnership Firm Registration services in Coimbatore. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "partnership",
       "services",
       "coimbatore",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/partnership-firm-registration-in-coimbatore"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Partnership Firm Registration in Coimbatore",
-        "subheading": "Get professional Partnership Firm Registration services in Coimbatore. Expert and reliable processing.",
+        "subheading": "Get professional Partnership Firm Registration services in Coimbatore. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Partnership Firm Registration services in Coimbatore"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Coimbatore.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "partnership",
     "services",
     "coimbatore",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-17T06:39:48.120Z",
+  "last_modified": "2026-02-17T11:39:38.783Z",
   "published": true
 }

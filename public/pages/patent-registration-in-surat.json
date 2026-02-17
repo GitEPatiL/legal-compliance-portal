@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-surat",
-  "page_name": "Patent Registration in Surat - Affordable Service",
-  "title": "Patent Registration in Surat - Affordable Service",
+  "page_name": "Patent Registration in Surat - Trusted Service",
+  "title": "Patent Registration in Surat - Trusted Service",
   "meta": {
-    "description": "Best Patent Registration services in Surat. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Surat. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "surat",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/patent-registration-in-surat"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Surat",
-        "subheading": "Get professional Patent Registration services in Surat. Affordable and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Surat. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "image_alt": "Patent Registration services in Surat"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Surat.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "patent",
     "services",
     "surat",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-17T06:39:48.118Z",
+  "last_modified": "2026-02-17T11:39:38.781Z",
   "published": true
 }

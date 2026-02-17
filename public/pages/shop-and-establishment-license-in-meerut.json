@@ -1,14 +1,14 @@
 {
   "slug": "shop-and-establishment-license-in-meerut",
-  "page_name": "Shop and Establishment License in Meerut - Quick Service",
-  "title": "Shop and Establishment License in Meerut - Quick Service",
+  "page_name": "Shop and Establishment License in Meerut - Professional Service",
+  "title": "Shop and Establishment License in Meerut - Professional Service",
   "meta": {
-    "description": "Best Shop and Establishment License services in Meerut. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Shop and Establishment License services in Meerut. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "shop",
       "services",
       "meerut",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/shop-and-establishment-license-in-meerut"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Shop and Establishment License in Meerut",
-        "subheading": "Get professional Shop and Establishment License services in Meerut. Quick and reliable processing.",
+        "subheading": "Get professional Shop and Establishment License services in Meerut. Professional and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1579532557861-335ce87653bf",
+        "image_alt": "Shop and Establishment License services in Meerut"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Meerut.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "shop",
     "services",
     "meerut",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.120Z",
+  "last_modified": "2026-02-17T11:39:38.783Z",
   "published": true
 }

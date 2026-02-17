@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-bangalore",
-  "page_name": "FSSAI License in Bangalore - Professional Service",
-  "title": "FSSAI License in Bangalore - Professional Service",
+  "page_name": "FSSAI License in Bangalore - Best Service",
+  "title": "FSSAI License in Bangalore - Best Service",
   "meta": {
-    "description": "Best FSSAI License services in Bangalore. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Bangalore. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "bangalore",
-      "tax"
+      "legal"
     ],
     "canonical": "https://example.com/fssai-license-in-bangalore"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Bangalore",
-        "subheading": "Get professional FSSAI License services in Bangalore. Professional and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Bangalore. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+        "image_alt": "FSSAI License services in Bangalore"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Bangalore.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Legal",
   "tags": [
     "fssai",
     "services",
     "bangalore",
-    "tax"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.777Z",
   "published": true
 }

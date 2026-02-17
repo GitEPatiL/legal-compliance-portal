@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-kolkata",
-  "page_name": "One Person Company in Kolkata - Expert Service",
-  "title": "One Person Company in Kolkata - Expert Service",
+  "page_name": "One Person Company in Kolkata - Fast Service",
+  "title": "One Person Company in Kolkata - Fast Service",
   "meta": {
-    "description": "Best One Person Company services in Kolkata. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Kolkata. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "kolkata",
-      "finance"
+      "general"
     ],
     "canonical": "https://example.com/one-person-company-in-kolkata"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Kolkata",
-        "subheading": "Get professional One Person Company services in Kolkata. Expert and reliable processing.",
+        "subheading": "Get professional One Person Company services in Kolkata. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "One Person Company services in Kolkata"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Kolkata.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "General",
   "tags": [
     "one",
     "services",
     "kolkata",
-    "finance"
+    "general"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

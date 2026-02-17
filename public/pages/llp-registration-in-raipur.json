@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-raipur",
-  "page_name": "LLP Registration in Raipur - Fast Service",
-  "title": "LLP Registration in Raipur - Fast Service",
+  "page_name": "LLP Registration in Raipur - Online Service",
+  "title": "LLP Registration in Raipur - Online Service",
   "meta": {
-    "description": "Best LLP Registration services in Raipur. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Raipur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "raipur",
-      "general"
+      "compliance"
     ],
     "canonical": "https://example.com/llp-registration-in-raipur"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Raipur",
-        "subheading": "Get professional LLP Registration services in Raipur. Fast and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Raipur. Online and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "image_alt": "LLP Registration services in Raipur"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Raipur.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Compliance",
   "tags": [
     "llp",
     "services",
     "raipur",
-    "general"
+    "compliance"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

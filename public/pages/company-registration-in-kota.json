@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-kota",
-  "page_name": "Company Registration in Kota - Quick Service",
-  "title": "Company Registration in Kota - Quick Service",
+  "page_name": "Company Registration in Kota - Fast Service",
+  "title": "Company Registration in Kota - Fast Service",
   "meta": {
-    "description": "Best Company Registration services in Kota. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Kota. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "kota",
-      "general"
+      "legal"
     ],
     "canonical": "https://example.com/company-registration-in-kota"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Kota",
-        "subheading": "Get professional Company Registration services in Kota. Quick and reliable processing.",
+        "subheading": "Get professional Company Registration services in Kota. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744",
+        "image_alt": "Company Registration services in Kota"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Kota.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Legal",
   "tags": [
     "company",
     "services",
     "kota",
-    "general"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.111Z",
+  "last_modified": "2026-02-17T11:39:38.774Z",
   "published": true
 }

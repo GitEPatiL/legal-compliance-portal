@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-hyderabad",
-  "page_name": "Private Limited Company in Hyderabad - Professional Service",
-  "title": "Private Limited Company in Hyderabad - Professional Service",
+  "page_name": "Private Limited Company in Hyderabad - Online Service",
+  "title": "Private Limited Company in Hyderabad - Online Service",
   "meta": {
-    "description": "Best Private Limited Company services in Hyderabad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Hyderabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "hyderabad",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/private-limited-company-in-hyderabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Hyderabad",
-        "subheading": "Get professional Private Limited Company services in Hyderabad. Professional and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Hyderabad. Online and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Private Limited Company services in Hyderabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Hyderabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "private",
     "services",
     "hyderabad",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-17T06:39:48.109Z",
+  "last_modified": "2026-02-17T11:39:38.771Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "producer-company-in-faridabad",
-  "page_name": "Producer Company in Faridabad - Fast Service",
-  "title": "Producer Company in Faridabad - Fast Service",
+  "page_name": "Producer Company in Faridabad - Quick Service",
+  "title": "Producer Company in Faridabad - Quick Service",
   "meta": {
-    "description": "Best Producer Company services in Faridabad. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Producer Company services in Faridabad. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "producer",
       "services",
       "faridabad",
-      "services"
+      "tax"
     ],
     "canonical": "https://example.com/producer-company-in-faridabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Producer Company in Faridabad",
-        "subheading": "Get professional Producer Company services in Faridabad. Fast and reliable processing.",
+        "subheading": "Get professional Producer Company services in Faridabad. Quick and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1611974765270-ca12586343bb",
+        "image_alt": "Producer Company services in Faridabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Faridabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Tax",
   "tags": [
     "producer",
     "services",
     "faridabad",
-    "services"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

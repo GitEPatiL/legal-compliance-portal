@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-surat",
-  "page_name": "Trust Registration in Surat - Expert Service",
-  "title": "Trust Registration in Surat - Expert Service",
+  "page_name": "Trust Registration in Surat - Fast Service",
+  "title": "Trust Registration in Surat - Fast Service",
   "meta": {
-    "description": "Best Trust Registration services in Surat. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Surat. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "surat",
-      "services"
+      "tax"
     ],
     "canonical": "https://example.com/trust-registration-in-surat"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Surat",
-        "subheading": "Get professional Trust Registration services in Surat. Expert and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Surat. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1611974765270-ca12586343bb",
+        "image_alt": "Trust Registration services in Surat"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Surat.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Tax",
   "tags": [
     "trust",
     "services",
     "surat",
-    "services"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

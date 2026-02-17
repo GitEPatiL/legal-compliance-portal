@@ -1,14 +1,14 @@
 {
   "slug": "partnership-firm-registration-in-guwahati",
-  "page_name": "Partnership Firm Registration in Guwahati - Fast Service",
-  "title": "Partnership Firm Registration in Guwahati - Fast Service",
+  "page_name": "Partnership Firm Registration in Guwahati - Best Service",
+  "title": "Partnership Firm Registration in Guwahati - Best Service",
   "meta": {
-    "description": "Best Partnership Firm Registration services in Guwahati. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Partnership Firm Registration services in Guwahati. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "partnership",
       "services",
       "guwahati",
-      "ip"
+      "compliance"
     ],
     "canonical": "https://example.com/partnership-firm-registration-in-guwahati"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Partnership Firm Registration in Guwahati",
-        "subheading": "Get professional Partnership Firm Registration services in Guwahati. Fast and reliable processing.",
+        "subheading": "Get professional Partnership Firm Registration services in Guwahati. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Partnership Firm Registration services in Guwahati"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Guwahati.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Compliance",
   "tags": [
     "partnership",
     "services",
     "guwahati",
-    "ip"
+    "compliance"
   ],
-  "last_modified": "2026-02-17T06:39:48.120Z",
+  "last_modified": "2026-02-17T11:39:38.783Z",
   "published": true
 }

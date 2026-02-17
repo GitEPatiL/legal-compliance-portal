@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-dhanbad",
-  "page_name": "Nidhi Company in Dhanbad - Professional Service",
-  "title": "Nidhi Company in Dhanbad - Professional Service",
+  "page_name": "Nidhi Company in Dhanbad - Best Service",
+  "title": "Nidhi Company in Dhanbad - Best Service",
   "meta": {
-    "description": "Best Nidhi Company services in Dhanbad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Dhanbad. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "dhanbad",
-      "services"
+      "tax"
     ],
     "canonical": "https://example.com/nidhi-company-in-dhanbad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Dhanbad",
-        "subheading": "Get professional Nidhi Company services in Dhanbad. Professional and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Dhanbad. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "Nidhi Company services in Dhanbad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Dhanbad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Tax",
   "tags": [
     "nidhi",
     "services",
     "dhanbad",
-    "services"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

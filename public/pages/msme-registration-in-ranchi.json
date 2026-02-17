@@ -8,7 +8,7 @@
       "msme",
       "services",
       "ranchi",
-      "general"
+      "finance"
     ],
     "canonical": "https://example.com/msme-registration-in-ranchi"
   },
@@ -28,7 +28,9 @@
         "heading": "MSME Registration in Ranchi",
         "subheading": "Get professional MSME Registration services in Ranchi. Quick and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1628172825852-6e273f55ba62",
+        "image_alt": "MSME Registration services in Ranchi"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ranchi.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Finance",
   "tags": [
     "msme",
     "services",
     "ranchi",
-    "general"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.117Z",
+  "last_modified": "2026-02-17T11:39:38.780Z",
   "published": true
 }

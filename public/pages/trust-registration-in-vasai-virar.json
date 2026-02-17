@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-vasai-virar",
-  "page_name": "Trust Registration in Vasai-Virar - Best Service",
-  "title": "Trust Registration in Vasai-Virar - Best Service",
+  "page_name": "Trust Registration in Vasai-Virar - Fast Service",
+  "title": "Trust Registration in Vasai-Virar - Fast Service",
   "meta": {
-    "description": "Best Trust Registration services in Vasai-Virar. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Vasai-Virar. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "vasai-virar",
-      "ip"
+      "services"
     ],
     "canonical": "https://example.com/trust-registration-in-vasai-virar"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Vasai-Virar",
-        "subheading": "Get professional Trust Registration services in Vasai-Virar. Best and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Vasai-Virar. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "image_alt": "Trust Registration services in Vasai-Virar"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Vasai-Virar.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Services",
   "tags": [
     "trust",
     "services",
     "vasai-virar",
-    "ip"
+    "services"
   ],
-  "last_modified": "2026-02-17T06:39:48.123Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

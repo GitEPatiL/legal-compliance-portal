@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-ghaziabad",
-  "page_name": "Trust Registration in Ghaziabad - Trusted Service",
-  "title": "Trust Registration in Ghaziabad - Trusted Service",
+  "page_name": "Trust Registration in Ghaziabad - Affordable Service",
+  "title": "Trust Registration in Ghaziabad - Affordable Service",
   "meta": {
-    "description": "Best Trust Registration services in Ghaziabad. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Ghaziabad. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "ghaziabad",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-ghaziabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Ghaziabad",
-        "subheading": "Get professional Trust Registration services in Ghaziabad. Trusted and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Ghaziabad. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+        "image_alt": "Trust Registration services in Ghaziabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ghaziabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "ghaziabad",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-amritsar",
-  "page_name": "Trademark Registration in Amritsar - Online Service",
-  "title": "Trademark Registration in Amritsar - Online Service",
+  "page_name": "Trademark Registration in Amritsar - Affordable Service",
+  "title": "Trademark Registration in Amritsar - Affordable Service",
   "meta": {
-    "description": "Best Trademark Registration services in Amritsar. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Amritsar. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "amritsar",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/trademark-registration-in-amritsar"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Amritsar",
-        "subheading": "Get professional Trademark Registration services in Amritsar. Online and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Amritsar. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1565514020176-db79330b6ea8",
+        "image_alt": "Trademark Registration services in Amritsar"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Amritsar.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "trademark",
     "services",
     "amritsar",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.777Z",
   "published": true
 }

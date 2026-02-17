@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-rajkot",
-  "page_name": "FSSAI License in Rajkot - Expert Service",
-  "title": "FSSAI License in Rajkot - Expert Service",
+  "page_name": "FSSAI License in Rajkot - Affordable Service",
+  "title": "FSSAI License in Rajkot - Affordable Service",
   "meta": {
-    "description": "Best FSSAI License services in Rajkot. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Rajkot. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "rajkot",
-      "finance"
+      "tax"
     ],
     "canonical": "https://example.com/fssai-license-in-rajkot"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Rajkot",
-        "subheading": "Get professional FSSAI License services in Rajkot. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Rajkot. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "FSSAI License services in Rajkot"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Rajkot.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Tax",
   "tags": [
     "fssai",
     "services",
     "rajkot",
-    "finance"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.778Z",
   "published": true
 }

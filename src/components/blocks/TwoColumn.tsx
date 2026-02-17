@@ -1,5 +1,7 @@
+'use client';
 import React from 'react';
 import NextImage from 'next/image';
+import { motion } from 'framer-motion';
 import { BlockProps } from '@/types/page';
 
 interface TwoColumnContent {
@@ -40,7 +42,13 @@ const TwoColumn: React.FC<BlockProps> = ({ content, style, theme }) => {
           </h2>
         )}
         <div className={`grid ${gridCols} gap-8 md:gap-12`}>
-          <div className={style === 'card' ? cardClass : ''}>
+          <motion.div
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5, delay: 0.2 }}
+            className={style === 'card' ? cardClass : ''}
+          >
             {left_image && (
               <div className="relative w-full h-64 mb-6">
                 <NextImage
@@ -54,10 +62,16 @@ const TwoColumn: React.FC<BlockProps> = ({ content, style, theme }) => {
               </div>
             )}
             <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: left_content }} />
-          </div>
+          </motion.div>
 
           {hasCenter && (
-            <div className={style === 'card' ? cardClass : ''}>
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.3 }}
+              className={style === 'card' ? cardClass : ''}
+            >
               {center_image && (
                 <div className="relative w-full h-64 mb-6">
                   <NextImage
@@ -74,10 +88,16 @@ const TwoColumn: React.FC<BlockProps> = ({ content, style, theme }) => {
                 className="prose max-w-none"
                 dangerouslySetInnerHTML={{ __html: center_content }}
               />
-            </div>
+            </motion.div>
           )}
 
-          <div className={style === 'card' ? cardClass : ''}>
+          <motion.div
+            initial={{ opacity: 0, x: 30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5, delay: 0.4 }}
+            className={style === 'card' ? cardClass : ''}
+          >
             {right_image && (
               <div className="relative w-full h-64 mb-6">
                 <NextImage
@@ -91,7 +111,7 @@ const TwoColumn: React.FC<BlockProps> = ({ content, style, theme }) => {
               </div>
             )}
             <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: right_content }} />
-          </div>
+          </motion.div>
         </div>
       </div>
     </section>

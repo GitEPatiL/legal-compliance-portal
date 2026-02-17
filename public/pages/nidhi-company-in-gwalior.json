@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-gwalior",
-  "page_name": "Nidhi Company in Gwalior - Online Service",
-  "title": "Nidhi Company in Gwalior - Online Service",
+  "page_name": "Nidhi Company in Gwalior - Expert Service",
+  "title": "Nidhi Company in Gwalior - Expert Service",
   "meta": {
-    "description": "Best Nidhi Company services in Gwalior. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Gwalior. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "gwalior",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/nidhi-company-in-gwalior"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Gwalior",
-        "subheading": "Get professional Nidhi Company services in Gwalior. Online and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Gwalior. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "Nidhi Company services in Gwalior"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Gwalior.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "nidhi",
     "services",
     "gwalior",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

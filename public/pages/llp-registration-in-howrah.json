@@ -8,7 +8,7 @@
       "llp",
       "services",
       "howrah",
-      "general"
+      "finance"
     ],
     "canonical": "https://example.com/llp-registration-in-howrah"
   },
@@ -28,7 +28,9 @@
         "heading": "LLP Registration in Howrah",
         "subheading": "Get professional LLP Registration services in Howrah. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1565514020176-db79330b6ea8",
+        "image_alt": "LLP Registration services in Howrah"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Howrah.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Finance",
   "tags": [
     "llp",
     "services",
     "howrah",
-    "general"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

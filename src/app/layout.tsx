@@ -8,10 +8,13 @@ export const metadata: Metadata = {
   description: 'Dynamic pages generated from JSON manifest',
 };
 
+import ProgressBar from '@/components/ui/ProgressBar';
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body>
+        <ProgressBar />
         <NavBar />
         {children}
       </body>

@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-navi-mumbai",
-  "page_name": "Private Limited Company in Navi Mumbai - Affordable Service",
-  "title": "Private Limited Company in Navi Mumbai - Affordable Service",
+  "page_name": "Private Limited Company in Navi Mumbai - Best Service",
+  "title": "Private Limited Company in Navi Mumbai - Best Service",
   "meta": {
-    "description": "Best Private Limited Company services in Navi Mumbai. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Navi Mumbai. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "navi mumbai",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/private-limited-company-in-navi-mumbai"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Navi Mumbai",
-        "subheading": "Get professional Private Limited Company services in Navi Mumbai. Affordable and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Navi Mumbai. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f",
+        "image_alt": "Private Limited Company services in Navi Mumbai"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Navi Mumbai.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "private",
     "services",
     "navi mumbai",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.109Z",
+  "last_modified": "2026-02-17T11:39:38.771Z",
   "published": true
 }

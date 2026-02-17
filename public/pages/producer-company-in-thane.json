@@ -1,14 +1,14 @@
 {
   "slug": "producer-company-in-thane",
-  "page_name": "Producer Company in Thane - Best Service",
-  "title": "Producer Company in Thane - Best Service",
+  "page_name": "Producer Company in Thane - Expert Service",
+  "title": "Producer Company in Thane - Expert Service",
   "meta": {
-    "description": "Best Producer Company services in Thane. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Producer Company services in Thane. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "producer",
       "services",
       "thane",
-      "legal"
+      "tax"
     ],
     "canonical": "https://example.com/producer-company-in-thane"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Producer Company in Thane",
-        "subheading": "Get professional Producer Company services in Thane. Best and reliable processing.",
+        "subheading": "Get professional Producer Company services in Thane. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f",
+        "image_alt": "Producer Company services in Thane"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Thane.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Tax",
   "tags": [
     "producer",
     "services",
     "thane",
-    "legal"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

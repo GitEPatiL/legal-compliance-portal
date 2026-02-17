@@ -1,0 +1,45 @@
+{
+  "slug": "sitemap",
+  "page_name": "Sitemap",
+  "title": "Sitemap",
+  "meta": {
+    "description": "Site navigation.",
+    "keywords": [
+      "sitemap",
+      "legal"
+    ],
+    "canonical": "https://example.com/sitemap"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "simple"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "simple",
+      "content": {
+        "heading": "Sitemap",
+        "subheading": "Site navigation."
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Sitemap",
+        "body": "<p>This is the Sitemap page content. Coming soon.</p>"
+      }
+    }
+  ],
+  "category": "General",
+  "tags": [
+    "general"
+  ],
+  "last_modified": "2026-02-17T11:39:38.789Z",
+  "published": true
+}

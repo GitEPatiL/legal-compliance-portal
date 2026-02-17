@@ -1,9 +1,9 @@
 {
   "slug": "fssai-license-in-lucknow",
-  "page_name": "FSSAI License in Lucknow - Fast Service",
-  "title": "FSSAI License in Lucknow - Fast Service",
+  "page_name": "FSSAI License in Lucknow - Affordable Service",
+  "title": "FSSAI License in Lucknow - Affordable Service",
   "meta": {
-    "description": "Best FSSAI License services in Lucknow. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Lucknow. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Lucknow",
-        "subheading": "Get professional FSSAI License services in Lucknow. Fast and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Lucknow. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1627993079870-13f86e336e4f",
+        "image_alt": "FSSAI License services in Lucknow"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Lucknow.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -83,6 +87,6 @@
     "lucknow",
     "ip"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.777Z",
   "published": true
 }

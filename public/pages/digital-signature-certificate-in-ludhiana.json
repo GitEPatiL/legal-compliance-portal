@@ -1,14 +1,14 @@
 {
   "slug": "digital-signature-certificate-in-ludhiana",
-  "page_name": "Digital Signature Certificate in Ludhiana - Trusted Service",
-  "title": "Digital Signature Certificate in Ludhiana - Trusted Service",
+  "page_name": "Digital Signature Certificate in Ludhiana - Professional Service",
+  "title": "Digital Signature Certificate in Ludhiana - Professional Service",
   "meta": {
-    "description": "Best Digital Signature Certificate services in Ludhiana. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Digital Signature Certificate services in Ludhiana. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "digital",
       "services",
       "ludhiana",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/digital-signature-certificate-in-ludhiana"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Digital Signature Certificate in Ludhiana",
-        "subheading": "Get professional Digital Signature Certificate services in Ludhiana. Trusted and reliable processing.",
+        "subheading": "Get professional Digital Signature Certificate services in Ludhiana. Professional and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1611974765270-ca12586343bb",
+        "image_alt": "Digital Signature Certificate services in Ludhiana"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ludhiana.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "digital",
     "services",
     "ludhiana",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.121Z",
+  "last_modified": "2026-02-17T11:39:38.784Z",
   "published": true
 }

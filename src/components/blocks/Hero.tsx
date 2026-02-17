@@ -1,6 +1,9 @@
+'use client';
 import React from 'react';
 import Image from 'next/image';
+import { motion } from 'framer-motion';
 import { BlockProps } from '@/types/page';
+import { fadeInUp, staggerContainer, scaleIn } from '@/config/animations';
 
 interface HeroContent {
   heading: string;
@@ -17,28 +20,50 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
 
   if (style === 'image-background') {
     return (
-      <section className="relative h-[600px] flex items-center justify-center text-white overflow-hidden">
+      <section className="relative h-[600px] flex items-center justify-center text-white overflow-hidden group">
         {image && (
-          <Image
-            src={image}
-            alt={image_alt || heading}
-            fill
-            className="absolute inset-0 w-full h-full object-cover"
-          />
+          <div className="absolute inset-0">
+            <Image
+              src={image}
+              alt={image_alt || heading}
+              fill
+              className="object-cover transition-transform duration-700 group-hover:scale-105"
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40" />
+          </div>
         )}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/30" />
-        <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">{heading}</h1>
-          {subheading && <p className="text-xl md:text-2xl mb-8 opacity-90">{subheading}</p>}
+        <motion.div
+          className="relative z-10 max-w-4xl mx-auto px-6 text-center"
+          variants={staggerContainer}
+          initial="hidden"
+          animate="visible"
+        >
+          <motion.h1
+            variants={fadeInUp}
+            className="text-5xl md:text-7xl font-bold mb-6 leading-tight"
+          >
+            {heading}
+          </motion.h1>
+          {subheading && (
+            <motion.p
+              variants={fadeInUp}
+              className="text-xl md:text-2xl mb-8 opacity-90 font-light"
+            >
+              {subheading}
+            </motion.p>
+          )}
           {cta_text && cta_url && (
-            <a
+            <motion.a
               href={cta_url}
-              className="inline-block px-8 py-4 bg-white text-gray-900 font-semibold rounded-lg hover:bg-gray-100"
+              variants={scaleIn}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="inline-block px-8 py-4 bg-white text-gray-900 font-bold rounded-full hover:bg-gray-100 shadow-lg"
             >
               {cta_text}
-            </a>
+            </motion.a>
           )}
-        </div>
+        </motion.div>
       </section>
     );
   }
@@ -46,29 +71,48 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
   if (style === 'split') {
     return (
       <section className="grid md:grid-cols-2 gap-12 items-center max-w-7xl mx-auto px-6 py-20 text-white">
-        <div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-6 text-white">{heading}</h1>
-          {subheading && <p className="text-lg md:text-xl text-gray-400 mb-8">{subheading}</p>}
+        <motion.div
+          variants={staggerContainer}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+        >
+          <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold mb-6 text-white">
+            {heading}
+          </motion.h1>
+          {subheading && (
+            <motion.p variants={fadeInUp} className="text-lg md:text-xl text-gray-400 mb-8">
+              {subheading}
+            </motion.p>
+          )}
           {cta_text && cta_url && (
-            <a
+            <motion.a
               href={cta_url}
               style={{ backgroundColor: primary }}
-              className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90 transition-opacity"
+              variants={fadeInUp}
+              whileHover={{ scale: 1.05, filter: 'brightness(1.1)' }}
+              className="inline-block px-8 py-4 text-white font-semibold rounded-lg shadow-lg hover:shadow-blue-500/25"
             >
               {cta_text}
-            </a>
+            </motion.a>
           )}
-        </div>
+        </motion.div>
         {image && (
-          <div className="rounded-2xl overflow-hidden shadow-2xl border border-gray-800 relative h-64 md:h-auto">
+          <motion.div
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            variants={scaleIn}
+            className="rounded-2xl overflow-hidden shadow-2xl border border-gray-800 relative h-64 md:h-auto"
+          >
             <Image
               src={image}
               alt={image_alt || heading}
               width={800}
               height={600}
-              className="w-full h-auto"
+              className="w-full h-auto transition-transform duration-700 hover:scale-105"
             />
-          </div>
+          </motion.div>
         )}
       </section>
     );
@@ -76,17 +120,32 @@ const Hero: React.FC<BlockProps> = ({ content, style, theme }) => {
 
   return (
     <section className="max-w-4xl mx-auto px-6 py-20 text-center text-white">
-      <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">{heading}</h1>
-      {subheading && <p className="text-lg md:text-xl text-gray-400 mb-8">{subheading}</p>}
-      {cta_text && cta_url && (
-        <a
-          href={cta_url}
-          style={{ backgroundColor: primary }}
-          className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90 transition-opacity"
-        >
-          {cta_text}
-        </a>
-      )}
+      <motion.div
+        variants={staggerContainer}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+      >
+        <motion.h1 variants={fadeInUp} className="text-4xl md:text-6xl font-bold mb-6 text-white">
+          {heading}
+        </motion.h1>
+        {subheading && (
+          <motion.p variants={fadeInUp} className="text-lg md:text-xl text-gray-400 mb-8">
+            {subheading}
+          </motion.p>
+        )}
+        {cta_text && cta_url && (
+          <motion.a
+            href={cta_url}
+            style={{ backgroundColor: primary }}
+            variants={scaleIn}
+            whileHover={{ scale: 1.05 }}
+            className="inline-block px-8 py-4 text-white font-semibold rounded-lg hover:opacity-90 transition-opacity"
+          >
+            {cta_text}
+          </motion.a>
+        )}
+      </motion.div>
     </section>
   );
 };

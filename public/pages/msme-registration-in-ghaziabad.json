@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-ghaziabad",
-  "page_name": "MSME Registration in Ghaziabad - Professional Service",
-  "title": "MSME Registration in Ghaziabad - Professional Service",
+  "page_name": "MSME Registration in Ghaziabad - Best Service",
+  "title": "MSME Registration in Ghaziabad - Best Service",
   "meta": {
-    "description": "Best MSME Registration services in Ghaziabad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Ghaziabad. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "ghaziabad",
-      "startup"
+      "ip"
     ],
     "canonical": "https://example.com/msme-registration-in-ghaziabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Ghaziabad",
-        "subheading": "Get professional MSME Registration services in Ghaziabad. Professional and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Ghaziabad. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+        "image_alt": "MSME Registration services in Ghaziabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ghaziabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "IP",
   "tags": [
     "msme",
     "services",
     "ghaziabad",
-    "startup"
+    "ip"
   ],
-  "last_modified": "2026-02-17T06:39:48.117Z",
+  "last_modified": "2026-02-17T11:39:38.780Z",
   "published": true
 }

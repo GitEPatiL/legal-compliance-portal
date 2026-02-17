@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-hyderabad",
-  "page_name": "One Person Company in Hyderabad - Best Service",
-  "title": "One Person Company in Hyderabad - Best Service",
+  "page_name": "One Person Company in Hyderabad - Online Service",
+  "title": "One Person Company in Hyderabad - Online Service",
   "meta": {
-    "description": "Best One Person Company services in Hyderabad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Hyderabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "hyderabad",
-      "tax"
+      "services"
     ],
     "canonical": "https://example.com/one-person-company-in-hyderabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Hyderabad",
-        "subheading": "Get professional One Person Company services in Hyderabad. Best and reliable processing.",
+        "subheading": "Get professional One Person Company services in Hyderabad. Online and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "image_alt": "One Person Company services in Hyderabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Hyderabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Services",
   "tags": [
     "one",
     "services",
     "hyderabad",
-    "tax"
+    "services"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

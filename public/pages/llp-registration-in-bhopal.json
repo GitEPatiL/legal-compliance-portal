@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-bhopal",
-  "page_name": "LLP Registration in Bhopal - Online Service",
-  "title": "LLP Registration in Bhopal - Online Service",
+  "page_name": "LLP Registration in Bhopal - Professional Service",
+  "title": "LLP Registration in Bhopal - Professional Service",
   "meta": {
-    "description": "Best LLP Registration services in Bhopal. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Bhopal. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "bhopal",
-      "startup"
+      "services"
     ],
     "canonical": "https://example.com/llp-registration-in-bhopal"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Bhopal",
-        "subheading": "Get professional LLP Registration services in Bhopal. Online and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Bhopal. Professional and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "LLP Registration services in Bhopal"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Bhopal.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Services",
   "tags": [
     "llp",
     "services",
     "bhopal",
-    "startup"
+    "services"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

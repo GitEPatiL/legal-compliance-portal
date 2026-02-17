@@ -1,9 +1,9 @@
 {
   "slug": "fssai-license-in-agra",
-  "page_name": "FSSAI License in Agra - Fast Service",
-  "title": "FSSAI License in Agra - Fast Service",
+  "page_name": "FSSAI License in Agra - Affordable Service",
+  "title": "FSSAI License in Agra - Affordable Service",
   "meta": {
-    "description": "Best FSSAI License services in Agra. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Agra. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Agra",
-        "subheading": "Get professional FSSAI License services in Agra. Fast and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Agra. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1579532557861-335ce87653bf",
+        "image_alt": "FSSAI License services in Agra"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Agra.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -83,6 +87,6 @@
     "agra",
     "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.114Z",
+  "last_modified": "2026-02-17T11:39:38.778Z",
   "published": true
 }

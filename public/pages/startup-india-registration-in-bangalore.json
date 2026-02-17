@@ -8,7 +8,7 @@
       "startup",
       "services",
       "bangalore",
-      "legal"
+      "tax"
     ],
     "canonical": "https://example.com/startup-india-registration-in-bangalore"
   },
@@ -28,7 +28,9 @@
         "heading": "Startup India Registration in Bangalore",
         "subheading": "Get professional Startup India Registration services in Bangalore. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f",
+        "image_alt": "Startup India Registration services in Bangalore"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Bangalore.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Tax",
   "tags": [
     "startup",
     "services",
     "bangalore",
-    "legal"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.117Z",
+  "last_modified": "2026-02-17T11:39:38.779Z",
   "published": true
 }

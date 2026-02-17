@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-ranchi",
-  "page_name": "Section 8 Company in Ranchi - Trusted Service",
-  "title": "Section 8 Company in Ranchi - Trusted Service",
+  "page_name": "Section 8 Company in Ranchi - Online Service",
+  "title": "Section 8 Company in Ranchi - Online Service",
   "meta": {
-    "description": "Best Section 8 Company services in Ranchi. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Ranchi. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "ranchi",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/section-8-company-in-ranchi"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Ranchi",
-        "subheading": "Get professional Section 8 Company services in Ranchi. Trusted and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Ranchi. Online and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Section 8 Company services in Ranchi"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ranchi.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "section",
     "services",
     "ranchi",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-17T06:39:48.121Z",
+  "last_modified": "2026-02-17T11:39:38.784Z",
   "published": true
 }

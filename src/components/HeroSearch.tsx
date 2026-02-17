@@ -1,6 +1,7 @@
 'use client';
 import { Search, ArrowRight, Command } from 'lucide-react';
 import { useSearchIndex } from '@/hooks/useSearchIndex';
+import { transitions } from '@/config/animations';
 import { ManifestItem } from '@/types/manifest';
 import { useRouter } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
@@ -46,7 +47,6 @@ export default function HeroSearch({ items }: { items: ManifestItem[] }) {
           <Command className="w-3 h-3" /> K
         </div>
       </motion.div>
-
       {/* Dropdown Results */}
       <AnimatePresence>
         {isFocused && query.length > 0 && (
@@ -54,7 +54,7 @@ export default function HeroSearch({ items }: { items: ManifestItem[] }) {
             initial={{ opacity: 0, y: 10, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 10, scale: 0.95 }}
-            transition={{ duration: 0.2 }}
+            transition={transitions.fast}
             className="absolute top-full left-0 right-0 mt-4 bg-white dark:bg-slate-800 rounded-2xl shadow-2xl border border-gray-100 dark:border-slate-700 overflow-hidden z-20"
           >
             {results.length > 0 ? (

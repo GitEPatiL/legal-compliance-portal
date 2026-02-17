@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-indore",
-  "page_name": "MSME Registration in Indore - Trusted Service",
-  "title": "MSME Registration in Indore - Trusted Service",
+  "page_name": "MSME Registration in Indore - Best Service",
+  "title": "MSME Registration in Indore - Best Service",
   "meta": {
-    "description": "Best MSME Registration services in Indore. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Indore. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "indore",
-      "compliance"
+      "startup"
     ],
     "canonical": "https://example.com/msme-registration-in-indore"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Indore",
-        "subheading": "Get professional MSME Registration services in Indore. Trusted and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Indore. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+        "image_alt": "MSME Registration services in Indore"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Indore.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Startup",
   "tags": [
     "msme",
     "services",
     "indore",
-    "compliance"
+    "startup"
   ],
-  "last_modified": "2026-02-17T06:39:48.117Z",
+  "last_modified": "2026-02-17T11:39:38.780Z",
   "published": true
 }

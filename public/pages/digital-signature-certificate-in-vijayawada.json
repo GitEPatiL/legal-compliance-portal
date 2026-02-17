@@ -1,14 +1,14 @@
 {
   "slug": "digital-signature-certificate-in-vijayawada",
-  "page_name": "Digital Signature Certificate in Vijayawada - Quick Service",
-  "title": "Digital Signature Certificate in Vijayawada - Quick Service",
+  "page_name": "Digital Signature Certificate in Vijayawada - Affordable Service",
+  "title": "Digital Signature Certificate in Vijayawada - Affordable Service",
   "meta": {
-    "description": "Best Digital Signature Certificate services in Vijayawada. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Digital Signature Certificate services in Vijayawada. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "digital",
       "services",
       "vijayawada",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/digital-signature-certificate-in-vijayawada"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Digital Signature Certificate in Vijayawada",
-        "subheading": "Get professional Digital Signature Certificate services in Vijayawada. Quick and reliable processing.",
+        "subheading": "Get professional Digital Signature Certificate services in Vijayawada. Affordable and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1627993079870-13f86e336e4f",
+        "image_alt": "Digital Signature Certificate services in Vijayawada"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Vijayawada.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "digital",
     "services",
     "vijayawada",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-17T06:39:48.121Z",
+  "last_modified": "2026-02-17T11:39:38.784Z",
   "published": true
 }

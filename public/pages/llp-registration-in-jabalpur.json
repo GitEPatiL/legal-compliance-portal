@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-jabalpur",
-  "page_name": "LLP Registration in Jabalpur - Expert Service",
-  "title": "LLP Registration in Jabalpur - Expert Service",
+  "page_name": "LLP Registration in Jabalpur - Fast Service",
+  "title": "LLP Registration in Jabalpur - Fast Service",
   "meta": {
-    "description": "Best LLP Registration services in Jabalpur. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Jabalpur. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "jabalpur",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/llp-registration-in-jabalpur"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Jabalpur",
-        "subheading": "Get professional LLP Registration services in Jabalpur. Expert and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Jabalpur. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "LLP Registration services in Jabalpur"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Jabalpur.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "llp",
     "services",
     "jabalpur",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.110Z",
+  "last_modified": "2026-02-17T11:39:38.772Z",
   "published": true
 }

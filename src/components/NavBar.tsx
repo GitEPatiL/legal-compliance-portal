@@ -1,40 +1,39 @@
 'use client';
 import Link from 'next/link';
 import { ShieldCheck, ChevronDown, Rocket, Menu, X } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import ThemeSwitcher from './ThemeSwitcher';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useScrollDirection } from '@/hooks/useScrollUtils';
+import { navbarVariants } from '@/config/animations';
 
 export default function NavBar() {
   const [isMegaMenuOpen, setIsMegaMenuOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 20);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+  const { scrollDirection, isScrolled } = useScrollDirection();
 
   const toggleMobileMenu = () => setIsMobileMenuOpen(!isMobileMenuOpen);
 
   return (
-    <nav
+    <motion.nav
+      variants={navbarVariants}
+      initial="visible"
+      animate={scrollDirection === 'down' ? 'hidden' : 'visible'}
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
-        scrolled
-          ? 'bg-white/90 dark:bg-slate-900/90 backdrop-blur-md shadow-sm border-b border-gray-200 dark:border-slate-800'
-          : 'bg-transparent'
+        isScrolled
+          ? 'bg-white/90 dark:bg-slate-900/90 backdrop-blur-md shadow-sm border-b border-gray-200 dark:border-slate-800 h-16'
+          : 'bg-transparent h-20'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full">
+        <div className="flex justify-between items-center h-full">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
             <div className="p-2 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-lg text-white shadow-lg group-hover:shadow-blue-500/30 transition-shadow">
               <ShieldCheck className="h-6 w-6" />
             </div>
             <span
-              className={`font-bold text-xl tracking-tight transition-colors ${scrolled ? 'text-gray-900 dark:text-white' : 'text-white'}`}
+              className={`font-bold text-xl tracking-tight transition-colors ${isScrolled ? 'text-gray-900 dark:text-white' : 'text-white'}`}
             >
               Legal<span className="text-blue-600 dark:text-blue-400">Hub</span>
             </span>
@@ -44,7 +43,7 @@ export default function NavBar() {
           <div className="hidden md:flex items-center gap-8">
             <Link
               href="/"
-              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${scrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
+              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${isScrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
             >
               Home
             </Link>
@@ -54,7 +53,7 @@ export default function NavBar() {
               onMouseLeave={() => setIsMegaMenuOpen(false)}
             >
               <button
-                className={`group flex items-center gap-1 text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors py-2 ${scrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
+                className={`group flex items-center gap-1 text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors py-2 ${isScrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
               >
                 Services{' '}
                 <ChevronDown className="w-4 h-4 group-hover:rotate-180 transition-transform duration-300" />
@@ -158,13 +157,13 @@ export default function NavBar() {
 
             <Link
               href="/compliance"
-              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${scrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
+              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${isScrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
             >
               Compliance Hub
             </Link>
             <Link
               href="/resources"
-              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${scrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
+              className={`text-sm font-medium hover:text-blue-600 dark:hover:text-blue-400 transition-colors ${isScrolled ? 'text-gray-700 dark:text-gray-200' : 'text-blue-50'}`}
             >
               Resources
             </Link>
@@ -233,6 +232,6 @@ export default function NavBar() {
           </motion.div>
         )}
       </AnimatePresence>
-    </nav>
+    </motion.nav>
   );
 }

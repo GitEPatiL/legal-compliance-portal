@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-dhanbad",
-  "page_name": "Patent Registration in Dhanbad - Online Service",
-  "title": "Patent Registration in Dhanbad - Online Service",
+  "page_name": "Patent Registration in Dhanbad - Trusted Service",
+  "title": "Patent Registration in Dhanbad - Trusted Service",
   "meta": {
-    "description": "Best Patent Registration services in Dhanbad. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Dhanbad. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "dhanbad",
-      "compliance"
+      "legal"
     ],
     "canonical": "https://example.com/patent-registration-in-dhanbad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Dhanbad",
-        "subheading": "Get professional Patent Registration services in Dhanbad. Online and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Dhanbad. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+        "image_alt": "Patent Registration services in Dhanbad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Dhanbad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Legal",
   "tags": [
     "patent",
     "services",
     "dhanbad",
-    "compliance"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.118Z",
+  "last_modified": "2026-02-17T11:39:38.781Z",
   "published": true
 }

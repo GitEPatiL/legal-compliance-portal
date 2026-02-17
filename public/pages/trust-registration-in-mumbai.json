@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-mumbai",
-  "page_name": "Trust Registration in Mumbai - Quick Service",
-  "title": "Trust Registration in Mumbai - Quick Service",
+  "page_name": "Trust Registration in Mumbai - Trusted Service",
+  "title": "Trust Registration in Mumbai - Trusted Service",
   "meta": {
-    "description": "Best Trust Registration services in Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Mumbai. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "mumbai",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/trust-registration-in-mumbai"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Mumbai",
-        "subheading": "Get professional Trust Registration services in Mumbai. Quick and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Mumbai. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+        "image_alt": "Trust Registration services in Mumbai"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Mumbai.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "trust",
     "services",
     "mumbai",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "disclaimer",
+  "page_name": "Disclaimer",
+  "title": "Disclaimer",
+  "meta": {
+    "description": "Legal disclaimer.",
+    "keywords": [
+      "disclaimer",
+      "legal"
+    ],
+    "canonical": "https://example.com/disclaimer"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "simple"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "simple",
+      "content": {
+        "heading": "Disclaimer",
+        "subheading": "Legal disclaimer."
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Disclaimer",
+        "body": "<p>This is the Disclaimer page content. Coming soon.</p>"
+      }
+    }
+  ],
+  "category": "General",
+  "tags": [
+    "general"
+  ],
+  "last_modified": "2026-02-17T11:39:38.789Z",
+  "published": true
+}

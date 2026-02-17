@@ -1,14 +1,14 @@
 {
   "slug": "producer-company-in-pune",
-  "page_name": "Producer Company in Pune - Affordable Service",
-  "title": "Producer Company in Pune - Affordable Service",
+  "page_name": "Producer Company in Pune - Expert Service",
+  "title": "Producer Company in Pune - Expert Service",
   "meta": {
-    "description": "Best Producer Company services in Pune. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Producer Company services in Pune. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "producer",
       "services",
       "pune",
-      "tax"
+      "startup"
     ],
     "canonical": "https://example.com/producer-company-in-pune"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Producer Company in Pune",
-        "subheading": "Get professional Producer Company services in Pune. Affordable and reliable processing.",
+        "subheading": "Get professional Producer Company services in Pune. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "image_alt": "Producer Company services in Pune"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Pune.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Startup",
   "tags": [
     "producer",
     "services",
     "pune",
-    "tax"
+    "startup"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

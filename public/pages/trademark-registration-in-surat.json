@@ -1,9 +1,9 @@
 {
   "slug": "trademark-registration-in-surat",
-  "page_name": "Trademark Registration in Surat - Trusted Service",
-  "title": "Trademark Registration in Surat - Trusted Service",
+  "page_name": "Trademark Registration in Surat - Online Service",
+  "title": "Trademark Registration in Surat - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Surat. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Surat. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Surat",
-        "subheading": "Get professional Trademark Registration services in Surat. Trusted and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Surat. Online and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Trademark Registration services in Surat"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Surat.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -83,6 +87,6 @@
     "surat",
     "compliance"
   ],
-  "last_modified": "2026-02-17T06:39:48.112Z",
+  "last_modified": "2026-02-17T11:39:38.777Z",
   "published": true
 }

@@ -1,9 +1,9 @@
 {
   "slug": "copyright-registration-in-vadodara",
-  "page_name": "Copyright Registration in Vadodara - Trusted Service",
-  "title": "Copyright Registration in Vadodara - Trusted Service",
+  "page_name": "Copyright Registration in Vadodara - Quick Service",
+  "title": "Copyright Registration in Vadodara - Quick Service",
   "meta": {
-    "description": "Best Copyright Registration services in Vadodara. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Vadodara. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Vadodara",
-        "subheading": "Get professional Copyright Registration services in Vadodara. Trusted and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Vadodara. Quick and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1627993079870-13f86e336e4f",
+        "image_alt": "Copyright Registration services in Vadodara"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Vadodara.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -83,6 +87,6 @@
     "vadodara",
     "ip"
   ],
-  "last_modified": "2026-02-17T06:39:48.118Z",
+  "last_modified": "2026-02-17T11:39:38.781Z",
   "published": true
 }

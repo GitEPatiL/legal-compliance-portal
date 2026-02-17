@@ -1,4 +1,6 @@
+'use client';
 import React from 'react';
+import { motion } from 'framer-motion';
 import { ContentBlock, Theme } from '@/types/page';
 import Hero from './blocks/Hero';
 import TextBlock from './blocks/TextBlock';
@@ -63,13 +65,20 @@ const BlockRenderer: React.FC<BlockRendererProps> = ({ blocks, theme = defaultTh
 
         try {
           return (
-            <Component
+            <motion.div
               key={`block-${block.type}-${index}`}
-              content={block.content}
-              style={block.style}
-              theme={theme}
-              {...(block.props || {})}
-            />
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, margin: '-100px' }}
+              transition={{ duration: 0.5, delay: index * 0.1 }}
+            >
+              <Component
+                content={block.content}
+                style={block.style}
+                theme={theme}
+                {...(block.props || {})}
+              />
+            </motion.div>
           );
         } catch (error) {
           console.error(`Error rendering block ${block.type}:`, error);

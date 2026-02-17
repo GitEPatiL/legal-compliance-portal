@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-ahmedabad",
-  "page_name": "Section 8 Company in Ahmedabad - Online Service",
-  "title": "Section 8 Company in Ahmedabad - Online Service",
+  "page_name": "Section 8 Company in Ahmedabad - Fast Service",
+  "title": "Section 8 Company in Ahmedabad - Fast Service",
   "meta": {
-    "description": "Best Section 8 Company services in Ahmedabad. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Ahmedabad. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "ahmedabad",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/section-8-company-in-ahmedabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Ahmedabad",
-        "subheading": "Get professional Section 8 Company services in Ahmedabad. Online and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Ahmedabad. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "image_alt": "Section 8 Company services in Ahmedabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ahmedabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "section",
     "services",
     "ahmedabad",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-17T06:39:48.121Z",
+  "last_modified": "2026-02-17T11:39:38.784Z",
   "published": true
 }

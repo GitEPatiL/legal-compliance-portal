@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-meerut",
-  "page_name": "Private Limited Company in Meerut - Professional Service",
-  "title": "Private Limited Company in Meerut - Professional Service",
+  "page_name": "Private Limited Company in Meerut - Best Service",
+  "title": "Private Limited Company in Meerut - Best Service",
   "meta": {
-    "description": "Best Private Limited Company services in Meerut. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Meerut. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "meerut",
-      "tax"
+      "ip"
     ],
     "canonical": "https://example.com/private-limited-company-in-meerut"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Meerut",
-        "subheading": "Get professional Private Limited Company services in Meerut. Professional and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Meerut. Best and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1627993079870-13f86e336e4f",
+        "image_alt": "Private Limited Company services in Meerut"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Meerut.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "IP",
   "tags": [
     "private",
     "services",
     "meerut",
-    "tax"
+    "ip"
   ],
-  "last_modified": "2026-02-17T06:39:48.109Z",
+  "last_modified": "2026-02-17T11:39:38.771Z",
   "published": true
 }

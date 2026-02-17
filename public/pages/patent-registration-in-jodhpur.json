@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-jodhpur",
-  "page_name": "Patent Registration in Jodhpur - Quick Service",
-  "title": "Patent Registration in Jodhpur - Quick Service",
+  "page_name": "Patent Registration in Jodhpur - Expert Service",
+  "title": "Patent Registration in Jodhpur - Expert Service",
   "meta": {
-    "description": "Best Patent Registration services in Jodhpur. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Jodhpur. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "jodhpur",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/patent-registration-in-jodhpur"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Jodhpur",
-        "subheading": "Get professional Patent Registration services in Jodhpur. Quick and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Jodhpur. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+        "image_alt": "Patent Registration services in Jodhpur"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Jodhpur.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "patent",
     "services",
     "jodhpur",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.118Z",
+  "last_modified": "2026-02-17T11:39:38.781Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-ahmedabad",
-  "page_name": "Trust Registration in Ahmedabad - Trusted Service",
-  "title": "Trust Registration in Ahmedabad - Trusted Service",
+  "page_name": "Trust Registration in Ahmedabad - Fast Service",
+  "title": "Trust Registration in Ahmedabad - Fast Service",
   "meta": {
-    "description": "Best Trust Registration services in Ahmedabad. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Ahmedabad. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "ahmedabad",
-      "legal"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-ahmedabad"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Ahmedabad",
-        "subheading": "Get professional Trust Registration services in Ahmedabad. Trusted and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Ahmedabad. Fast and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1556742046-63b1157125c1",
+        "image_alt": "Trust Registration services in Ahmedabad"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Ahmedabad.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "ahmedabad",
-    "legal"
+    "startup"
   ],
-  "last_modified": "2026-02-17T06:39:48.122Z",
+  "last_modified": "2026-02-17T11:39:38.785Z",
   "published": true
 }

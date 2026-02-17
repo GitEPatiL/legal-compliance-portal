@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-navi-mumbai",
-  "page_name": "One Person Company in Navi Mumbai - Online Service",
-  "title": "One Person Company in Navi Mumbai - Online Service",
+  "page_name": "One Person Company in Navi Mumbai - Trusted Service",
+  "title": "One Person Company in Navi Mumbai - Trusted Service",
   "meta": {
-    "description": "Best One Person Company services in Navi Mumbai. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Navi Mumbai. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "navi mumbai",
-      "general"
+      "finance"
     ],
     "canonical": "https://example.com/one-person-company-in-navi-mumbai"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Navi Mumbai",
-        "subheading": "Get professional One Person Company services in Navi Mumbai. Online and reliable processing.",
+        "subheading": "Get professional One Person Company services in Navi Mumbai. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1565514020176-db79330b6ea8",
+        "image_alt": "One Person Company services in Navi Mumbai"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Navi Mumbai.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Finance",
   "tags": [
     "one",
     "services",
     "navi mumbai",
-    "general"
+    "finance"
   ],
-  "last_modified": "2026-02-17T06:39:48.111Z",
+  "last_modified": "2026-02-17T11:39:38.773Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-patna",
-  "page_name": "MSME Registration in Patna - Quick Service",
-  "title": "MSME Registration in Patna - Quick Service",
+  "page_name": "MSME Registration in Patna - Trusted Service",
+  "title": "MSME Registration in Patna - Trusted Service",
   "meta": {
-    "description": "Best MSME Registration services in Patna. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Patna. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "patna",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/msme-registration-in-patna"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Patna",
-        "subheading": "Get professional MSME Registration services in Patna. Quick and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Patna. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_alt": "MSME Registration services in Patna"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Patna.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1556742046-63b1157125c1"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "msme",
     "services",
     "patna",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.117Z",
+  "last_modified": "2026-02-17T11:39:38.780Z",
   "published": true
 }

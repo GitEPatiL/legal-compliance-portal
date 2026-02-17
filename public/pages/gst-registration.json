@@ -1,0 +1,89 @@
+{
+  "slug": "gst-registration",
+  "page_name": "GST Registration - Professional Services",
+  "title": "GST Registration - Professional Services",
+  "meta": {
+    "description": "Expert GST Registration services. Fast, online, and affordable. Get started today.",
+    "keywords": [
+      "gst registration",
+      "services",
+      "legal"
+    ],
+    "canonical": "https://example.com/gst-registration"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "elevated"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "split",
+      "content": {
+        "heading": "GST Registration",
+        "subheading": "India's most trusted platform for GST Registration. 100% Online process.",
+        "cta_text": "Get Started",
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1556742046-63b1157125c1",
+        "image_alt": "GST Registration services"
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "About GST Registration",
+        "body": "<p>We offer comprehensive <strong>GST Registration</strong> solutions. Whether you are a startup or an established business, our team can help you with all your requirements.</p>"
+      }
+    },
+    {
+      "type": "two_column",
+      "style": "card",
+      "content": {
+        "heading": "Why Choose Us?",
+        "left_content": "<h3>Expert Team</h3><p>Qualified professionals handling your case.</p>",
+        "right_content": "<h3>Best Pricing</h3><p>Transparent pricing with no hidden charges.</p>",
+        "left_image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+      }
+    },
+    {
+      "type": "faq",
+      "style": "default",
+      "content": {
+        "heading": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "What documents are needed for GST Registration?",
+            "answer": "The documents vary based on specific requirements. Contact us for a detailed checklist."
+          },
+          {
+            "question": "How can I track my application?",
+            "answer": "You can track your application status through our online dashboard."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "style": "default",
+      "content": {
+        "heading": "Get Expert Assistance",
+        "description": "Talk to our legal advisors today.",
+        "cta_text": "Contact Us",
+        "cta_url": "/contact-us"
+      }
+    }
+  ],
+  "category": "Startup",
+  "tags": [
+    "gst",
+    "service"
+  ],
+  "last_modified": "2026-02-17T11:39:38.788Z",
+  "published": true
+}

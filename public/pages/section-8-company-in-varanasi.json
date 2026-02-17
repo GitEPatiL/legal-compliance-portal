@@ -8,7 +8,7 @@
       "section",
       "services",
       "varanasi",
-      "general"
+      "legal"
     ],
     "canonical": "https://example.com/section-8-company-in-varanasi"
   },
@@ -28,7 +28,9 @@
         "heading": "Section 8 Company in Varanasi",
         "subheading": "Get professional Section 8 Company services in Varanasi. Expert and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1589578527966-fdac0f44566c",
+        "image_alt": "Section 8 Company services in Varanasi"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Varanasi.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Legal",
   "tags": [
     "section",
     "services",
     "varanasi",
-    "general"
+    "legal"
   ],
-  "last_modified": "2026-02-17T06:39:48.121Z",
+  "last_modified": "2026-02-17T11:39:38.784Z",
   "published": true
 }

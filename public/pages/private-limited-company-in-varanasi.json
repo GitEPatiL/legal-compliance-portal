@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-varanasi",
-  "page_name": "Private Limited Company in Varanasi - Professional Service",
-  "title": "Private Limited Company in Varanasi - Professional Service",
+  "page_name": "Private Limited Company in Varanasi - Trusted Service",
+  "title": "Private Limited Company in Varanasi - Trusted Service",
   "meta": {
-    "description": "Best Private Limited Company services in Varanasi. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Varanasi. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "varanasi",
-      "finance"
+      "tax"
     ],
     "canonical": "https://example.com/private-limited-company-in-varanasi"
   },
@@ -26,9 +26,11 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Varanasi",
-        "subheading": "Get professional Private Limited Company services in Varanasi. Professional and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Varanasi. Trusted and reliable processing.",
         "cta_text": "Get Started",
-        "cta_url": "/contact-us"
+        "cta_url": "/contact-us",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f",
+        "image_alt": "Private Limited Company services in Varanasi"
       }
     },
     {
@@ -45,7 +47,9 @@
       "content": {
         "heading": "Our Advantages",
         "left_content": "<h3>Local Expertise</h3><p>We understand the local regulations and requirements in Varanasi.</p>",
-        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>"
+        "right_content": "<h3>Online Process</h3><p>Complete the entire process from the comfort of your home or office.</p>",
+        "left_image": "https://images.unsplash.com/photo-1486406140926-c627a92ad1ab",
+        "right_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
       }
     },
     {
@@ -76,13 +80,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Tax",
   "tags": [
     "private",
     "services",
     "varanasi",
-    "finance"
+    "tax"
   ],
-  "last_modified": "2026-02-17T06:39:48.109Z",
+  "last_modified": "2026-02-17T11:39:38.771Z",
   "published": true
 }
