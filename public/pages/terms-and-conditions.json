@@ -1,9 +1,45 @@
 {
   "slug": "terms-and-conditions",
+  "page_name": "Terms and Conditions",
   "title": "Terms and Conditions",
-  "category": "Legal",
-  "tags": [
-    "agreement"
+  "meta": {
+    "description": "Terms of service.",
+    "keywords": [
+      "terms and conditions",
+      "legal"
+    ],
+    "canonical": "https://example.com/terms-and-conditions"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "simple"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "simple",
+      "content": {
+        "heading": "Terms and Conditions",
+        "subheading": "Terms of service."
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Terms and Conditions",
+        "body": "<p>This is the Terms and Conditions page content.</p>"
+      }
+    }
   ],
-  "last_modified": "2024-01-05"
+  "category": "General",
+  "tags": [
+    "general"
+  ],
+  "last_modified": "2026-02-17T06:39:48.123Z",
+  "published": true
 }

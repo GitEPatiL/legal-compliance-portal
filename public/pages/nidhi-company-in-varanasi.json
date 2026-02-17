@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-varanasi",
-  "page_name": "Nidhi Company in Varanasi - Expert Service",
-  "title": "Nidhi Company in Varanasi - Expert Service",
+  "page_name": "Nidhi Company in Varanasi - Quick Service",
+  "title": "Nidhi Company in Varanasi - Quick Service",
   "meta": {
-    "description": "Best Nidhi Company services in Varanasi. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Varanasi. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "varanasi",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/nidhi-company-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Varanasi",
-        "subheading": "Get professional Nidhi Company services in Varanasi. Expert and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Varanasi. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "nidhi",
     "services",
     "varanasi",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-gwalior",
-  "page_name": "GST Registration in Gwalior - Online Service",
-  "title": "GST Registration in Gwalior - Online Service",
+  "page_name": "GST Registration in Gwalior - Quick Service",
+  "title": "GST Registration in Gwalior - Quick Service",
   "meta": {
-    "description": "Best GST Registration services in Gwalior. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Gwalior. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "gwalior",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/gst-registration-in-gwalior"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Gwalior",
-        "subheading": "Get professional GST Registration services in Gwalior. Online and reliable processing.",
+        "subheading": "Get professional GST Registration services in Gwalior. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "gst",
     "services",
     "gwalior",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-bhopal",
-  "page_name": "Private Limited Company in Bhopal - Trusted Service",
-  "title": "Private Limited Company in Bhopal - Trusted Service",
+  "page_name": "Private Limited Company in Bhopal - Quick Service",
+  "title": "Private Limited Company in Bhopal - Quick Service",
   "meta": {
-    "description": "Best Private Limited Company services in Bhopal. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Bhopal. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "bhopal",
-      "services"
+      "legal"
     ],
     "canonical": "https://example.com/private-limited-company-in-bhopal"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Bhopal",
-        "subheading": "Get professional Private Limited Company services in Bhopal. Trusted and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Bhopal. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Legal",
   "tags": [
     "private",
     "services",
     "bhopal",
-    "services"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

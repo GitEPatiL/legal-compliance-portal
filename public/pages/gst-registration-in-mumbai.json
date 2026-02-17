@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-mumbai",
-  "page_name": "GST Registration in Mumbai - Expert Service",
-  "title": "GST Registration in Mumbai - Expert Service",
+  "page_name": "GST Registration in Mumbai - Trusted Service",
+  "title": "GST Registration in Mumbai - Trusted Service",
   "meta": {
-    "description": "Best GST Registration services in Mumbai. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Mumbai. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "mumbai",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/gst-registration-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Mumbai",
-        "subheading": "Get professional GST Registration services in Mumbai. Expert and reliable processing.",
+        "subheading": "Get professional GST Registration services in Mumbai. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "gst",
     "services",
     "mumbai",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

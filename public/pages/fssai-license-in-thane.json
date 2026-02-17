@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-thane",
-  "page_name": "FSSAI License in Thane - Online Service",
-  "title": "FSSAI License in Thane - Online Service",
+  "page_name": "FSSAI License in Thane - Fast Service",
+  "title": "FSSAI License in Thane - Fast Service",
   "meta": {
-    "description": "Best FSSAI License services in Thane. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Thane. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "thane",
-      "tax"
+      "legal"
     ],
     "canonical": "https://example.com/fssai-license-in-thane"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Thane",
-        "subheading": "Get professional FSSAI License services in Thane. Online and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Thane. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Legal",
   "tags": [
     "fssai",
     "services",
     "thane",
-    "tax"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

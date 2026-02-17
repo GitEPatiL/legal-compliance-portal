@@ -1,14 +1,14 @@
 {
   "slug": "startup-india-registration-in-kota",
-  "page_name": "Startup India Registration in Kota - Fast Service",
-  "title": "Startup India Registration in Kota - Fast Service",
+  "page_name": "Startup India Registration in Kota - Trusted Service",
+  "title": "Startup India Registration in Kota - Trusted Service",
   "meta": {
-    "description": "Best Startup India Registration services in Kota. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Startup India Registration services in Kota. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "startup",
       "services",
       "kota",
-      "services"
+      "tax"
     ],
     "canonical": "https://example.com/startup-india-registration-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Startup India Registration in Kota",
-        "subheading": "Get professional Startup India Registration services in Kota. Fast and reliable processing.",
+        "subheading": "Get professional Startup India Registration services in Kota. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Tax",
   "tags": [
     "startup",
     "services",
     "kota",
-    "services"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

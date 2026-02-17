@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-indore",
-  "page_name": "Private Limited Company in Indore - Expert Service",
-  "title": "Private Limited Company in Indore - Expert Service",
+  "page_name": "Private Limited Company in Indore - Affordable Service",
+  "title": "Private Limited Company in Indore - Affordable Service",
   "meta": {
-    "description": "Best Private Limited Company services in Indore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Indore. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "indore",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/private-limited-company-in-indore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Indore",
-        "subheading": "Get professional Private Limited Company services in Indore. Expert and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Indore. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "private",
     "services",
     "indore",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

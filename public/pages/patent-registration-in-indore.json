@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-indore",
-  "page_name": "Patent Registration in Indore - Expert Service",
-  "title": "Patent Registration in Indore - Expert Service",
+  "page_name": "Patent Registration in Indore - Quick Service",
+  "title": "Patent Registration in Indore - Quick Service",
   "meta": {
-    "description": "Best Patent Registration services in Indore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Indore. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "indore",
-      "tax"
+      "services"
     ],
     "canonical": "https://example.com/patent-registration-in-indore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Indore",
-        "subheading": "Get professional Patent Registration services in Indore. Expert and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Indore. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Services",
   "tags": [
     "patent",
     "services",
     "indore",
-    "tax"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

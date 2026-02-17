@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-jodhpur",
-  "page_name": "Copyright Registration in Jodhpur - Online Service",
-  "title": "Copyright Registration in Jodhpur - Online Service",
+  "page_name": "Copyright Registration in Jodhpur - Trusted Service",
+  "title": "Copyright Registration in Jodhpur - Trusted Service",
   "meta": {
-    "description": "Best Copyright Registration services in Jodhpur. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Jodhpur. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "jodhpur",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/copyright-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Jodhpur",
-        "subheading": "Get professional Copyright Registration services in Jodhpur. Online and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Jodhpur. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "copyright",
     "services",
     "jodhpur",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

@@ -8,7 +8,7 @@
       "startup",
       "services",
       "bhopal",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/startup-india-registration-in-bhopal"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "startup",
     "services",
     "bhopal",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-hubli-dharwad",
-  "page_name": "Patent Registration in Hubli-Dharwad - Quick Service",
-  "title": "Patent Registration in Hubli-Dharwad - Quick Service",
+  "page_name": "Patent Registration in Hubli-Dharwad - Professional Service",
+  "title": "Patent Registration in Hubli-Dharwad - Professional Service",
   "meta": {
-    "description": "Best Patent Registration services in Hubli-Dharwad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Hubli-Dharwad. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "hubli-dharwad",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/patent-registration-in-hubli-dharwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Hubli-Dharwad",
-        "subheading": "Get professional Patent Registration services in Hubli-Dharwad. Quick and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Hubli-Dharwad. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "patent",
     "services",
     "hubli-dharwad",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-mumbai",
-  "page_name": "Trademark Registration in Mumbai - Fast Service",
-  "title": "Trademark Registration in Mumbai - Fast Service",
+  "page_name": "Trademark Registration in Mumbai - Online Service",
+  "title": "Trademark Registration in Mumbai - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Mumbai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Mumbai. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "mumbai",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/trademark-registration-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Mumbai",
-        "subheading": "Get professional Trademark Registration services in Mumbai. Fast and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Mumbai. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "trademark",
     "services",
     "mumbai",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

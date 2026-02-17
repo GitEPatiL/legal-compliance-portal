@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-srinagar",
-  "page_name": "MSME Registration in Srinagar - Expert Service",
-  "title": "MSME Registration in Srinagar - Expert Service",
+  "page_name": "MSME Registration in Srinagar - Best Service",
+  "title": "MSME Registration in Srinagar - Best Service",
   "meta": {
-    "description": "Best MSME Registration services in Srinagar. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Srinagar. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "srinagar",
-      "startup"
+      "services"
     ],
     "canonical": "https://example.com/msme-registration-in-srinagar"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Srinagar",
-        "subheading": "Get professional MSME Registration services in Srinagar. Expert and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Srinagar. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Services",
   "tags": [
     "msme",
     "services",
     "srinagar",
-    "startup"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

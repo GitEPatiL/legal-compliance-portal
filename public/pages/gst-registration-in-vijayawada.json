@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-vijayawada",
-  "page_name": "GST Registration in Vijayawada - Expert Service",
-  "title": "GST Registration in Vijayawada - Expert Service",
+  "page_name": "GST Registration in Vijayawada - Online Service",
+  "title": "GST Registration in Vijayawada - Online Service",
   "meta": {
-    "description": "Best GST Registration services in Vijayawada. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Vijayawada. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "vijayawada",
-      "finance"
+      "ip"
     ],
     "canonical": "https://example.com/gst-registration-in-vijayawada"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Vijayawada",
-        "subheading": "Get professional GST Registration services in Vijayawada. Expert and reliable processing.",
+        "subheading": "Get professional GST Registration services in Vijayawada. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "IP",
   "tags": [
     "gst",
     "services",
     "vijayawada",
-    "finance"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

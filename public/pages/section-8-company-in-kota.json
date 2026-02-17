@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-kota",
-  "page_name": "Section 8 Company in Kota - Best Service",
-  "title": "Section 8 Company in Kota - Best Service",
+  "page_name": "Section 8 Company in Kota - Affordable Service",
+  "title": "Section 8 Company in Kota - Affordable Service",
   "meta": {
-    "description": "Best Section 8 Company services in Kota. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Kota. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "kota",
-      "ip"
+      "finance"
     ],
     "canonical": "https://example.com/section-8-company-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Kota",
-        "subheading": "Get professional Section 8 Company services in Kota. Best and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Kota. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Finance",
   "tags": [
     "section",
     "services",
     "kota",
-    "ip"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-navi-mumbai",
-  "page_name": "One Person Company in Navi Mumbai - Quick Service",
-  "title": "One Person Company in Navi Mumbai - Quick Service",
+  "page_name": "One Person Company in Navi Mumbai - Online Service",
+  "title": "One Person Company in Navi Mumbai - Online Service",
   "meta": {
-    "description": "Best One Person Company services in Navi Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Navi Mumbai. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "navi mumbai",
-      "ip"
+      "general"
     ],
     "canonical": "https://example.com/one-person-company-in-navi-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Navi Mumbai",
-        "subheading": "Get professional One Person Company services in Navi Mumbai. Quick and reliable processing.",
+        "subheading": "Get professional One Person Company services in Navi Mumbai. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "General",
   "tags": [
     "one",
     "services",
     "navi mumbai",
-    "ip"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

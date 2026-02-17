@@ -8,7 +8,7 @@
       "patent",
       "services",
       "patna",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/patent-registration-in-patna"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "patent",
     "services",
     "patna",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

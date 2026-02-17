@@ -1,9 +1,45 @@
 {
   "slug": "contact-us",
+  "page_name": "Contact Us",
   "title": "Contact Us",
+  "meta": {
+    "description": "Get in touch with us.",
+    "keywords": [
+      "contact us",
+      "legal"
+    ],
+    "canonical": "https://example.com/contact-us"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "simple"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "simple",
+      "content": {
+        "heading": "Contact Us",
+        "subheading": "Get in touch with us."
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Contact Us",
+        "body": "<p>This is the Contact Us page content.</p>"
+      }
+    }
+  ],
   "category": "General",
   "tags": [
-    "support"
+    "general"
   ],
-  "last_modified": "2024-01-10"
+  "last_modified": "2026-02-17T06:39:48.123Z",
+  "published": true
 }

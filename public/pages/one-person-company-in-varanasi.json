@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-varanasi",
-  "page_name": "One Person Company in Varanasi - Trusted Service",
-  "title": "One Person Company in Varanasi - Trusted Service",
+  "page_name": "One Person Company in Varanasi - Professional Service",
+  "title": "One Person Company in Varanasi - Professional Service",
   "meta": {
-    "description": "Best One Person Company services in Varanasi. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Varanasi. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "varanasi",
-      "finance"
+      "services"
     ],
     "canonical": "https://example.com/one-person-company-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Varanasi",
-        "subheading": "Get professional One Person Company services in Varanasi. Trusted and reliable processing.",
+        "subheading": "Get professional One Person Company services in Varanasi. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Services",
   "tags": [
     "one",
     "services",
     "varanasi",
-    "finance"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

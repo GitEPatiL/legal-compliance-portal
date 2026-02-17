@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-ludhiana",
-  "page_name": "MSME Registration in Ludhiana - Professional Service",
-  "title": "MSME Registration in Ludhiana - Professional Service",
+  "page_name": "MSME Registration in Ludhiana - Affordable Service",
+  "title": "MSME Registration in Ludhiana - Affordable Service",
   "meta": {
-    "description": "Best MSME Registration services in Ludhiana. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Ludhiana. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "ludhiana",
-      "tax"
+      "startup"
     ],
     "canonical": "https://example.com/msme-registration-in-ludhiana"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Ludhiana",
-        "subheading": "Get professional MSME Registration services in Ludhiana. Professional and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Ludhiana. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Startup",
   "tags": [
     "msme",
     "services",
     "ludhiana",
-    "tax"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

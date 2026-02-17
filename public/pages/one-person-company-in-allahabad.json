@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-allahabad",
-  "page_name": "One Person Company in Allahabad - Fast Service",
-  "title": "One Person Company in Allahabad - Fast Service",
+  "page_name": "One Person Company in Allahabad - Expert Service",
+  "title": "One Person Company in Allahabad - Expert Service",
   "meta": {
-    "description": "Best One Person Company services in Allahabad. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Allahabad. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "allahabad",
-      "startup"
+      "compliance"
     ],
     "canonical": "https://example.com/one-person-company-in-allahabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Allahabad",
-        "subheading": "Get professional One Person Company services in Allahabad. Fast and reliable processing.",
+        "subheading": "Get professional One Person Company services in Allahabad. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Compliance",
   "tags": [
     "one",
     "services",
     "allahabad",
-    "startup"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

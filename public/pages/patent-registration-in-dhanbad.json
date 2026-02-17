@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-dhanbad",
-  "page_name": "Patent Registration in Dhanbad - Affordable Service",
-  "title": "Patent Registration in Dhanbad - Affordable Service",
+  "page_name": "Patent Registration in Dhanbad - Online Service",
+  "title": "Patent Registration in Dhanbad - Online Service",
   "meta": {
-    "description": "Best Patent Registration services in Dhanbad. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Dhanbad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "dhanbad",
-      "ip"
+      "compliance"
     ],
     "canonical": "https://example.com/patent-registration-in-dhanbad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Dhanbad",
-        "subheading": "Get professional Patent Registration services in Dhanbad. Affordable and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Dhanbad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Compliance",
   "tags": [
     "patent",
     "services",
     "dhanbad",
-    "ip"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

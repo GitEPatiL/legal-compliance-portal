@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-vadodara",
-  "page_name": "FSSAI License in Vadodara - Fast Service",
-  "title": "FSSAI License in Vadodara - Fast Service",
+  "page_name": "FSSAI License in Vadodara - Quick Service",
+  "title": "FSSAI License in Vadodara - Quick Service",
   "meta": {
-    "description": "Best FSSAI License services in Vadodara. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Vadodara. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "vadodara",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/fssai-license-in-vadodara"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Vadodara",
-        "subheading": "Get professional FSSAI License services in Vadodara. Fast and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Vadodara. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "fssai",
     "services",
     "vadodara",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

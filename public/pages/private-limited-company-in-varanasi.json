@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-varanasi",
-  "page_name": "Private Limited Company in Varanasi - Affordable Service",
-  "title": "Private Limited Company in Varanasi - Affordable Service",
+  "page_name": "Private Limited Company in Varanasi - Professional Service",
+  "title": "Private Limited Company in Varanasi - Professional Service",
   "meta": {
-    "description": "Best Private Limited Company services in Varanasi. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Varanasi. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "varanasi",
-      "tax"
+      "finance"
     ],
     "canonical": "https://example.com/private-limited-company-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Varanasi",
-        "subheading": "Get professional Private Limited Company services in Varanasi. Affordable and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Varanasi. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Finance",
   "tags": [
     "private",
     "services",
     "varanasi",
-    "tax"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

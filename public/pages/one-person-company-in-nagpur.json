@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-nagpur",
-  "page_name": "One Person Company in Nagpur - Expert Service",
-  "title": "One Person Company in Nagpur - Expert Service",
+  "page_name": "One Person Company in Nagpur - Fast Service",
+  "title": "One Person Company in Nagpur - Fast Service",
   "meta": {
-    "description": "Best One Person Company services in Nagpur. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Nagpur. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "nagpur",
-      "ip"
+      "compliance"
     ],
     "canonical": "https://example.com/one-person-company-in-nagpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Nagpur",
-        "subheading": "Get professional One Person Company services in Nagpur. Expert and reliable processing.",
+        "subheading": "Get professional One Person Company services in Nagpur. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Compliance",
   "tags": [
     "one",
     "services",
     "nagpur",
-    "ip"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

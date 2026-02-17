@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-hubli-dharwad",
-  "page_name": "One Person Company in Hubli-Dharwad - Best Service",
-  "title": "One Person Company in Hubli-Dharwad - Best Service",
+  "page_name": "One Person Company in Hubli-Dharwad - Professional Service",
+  "title": "One Person Company in Hubli-Dharwad - Professional Service",
   "meta": {
-    "description": "Best One Person Company services in Hubli-Dharwad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Hubli-Dharwad. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "hubli-dharwad",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/one-person-company-in-hubli-dharwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Hubli-Dharwad",
-        "subheading": "Get professional One Person Company services in Hubli-Dharwad. Best and reliable processing.",
+        "subheading": "Get professional One Person Company services in Hubli-Dharwad. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "one",
     "services",
     "hubli-dharwad",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

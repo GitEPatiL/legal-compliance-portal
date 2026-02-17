@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-chandigarh",
-  "page_name": "MSME Registration in Chandigarh - Affordable Service",
-  "title": "MSME Registration in Chandigarh - Affordable Service",
+  "page_name": "MSME Registration in Chandigarh - Quick Service",
+  "title": "MSME Registration in Chandigarh - Quick Service",
   "meta": {
-    "description": "Best MSME Registration services in Chandigarh. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Chandigarh. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "chandigarh",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/msme-registration-in-chandigarh"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Chandigarh",
-        "subheading": "Get professional MSME Registration services in Chandigarh. Affordable and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Chandigarh. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "msme",
     "services",
     "chandigarh",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

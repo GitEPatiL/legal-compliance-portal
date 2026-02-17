@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-agra",
-  "page_name": "One Person Company in Agra - Expert Service",
-  "title": "One Person Company in Agra - Expert Service",
+  "page_name": "One Person Company in Agra - Quick Service",
+  "title": "One Person Company in Agra - Quick Service",
   "meta": {
-    "description": "Best One Person Company services in Agra. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Agra. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "agra",
-      "finance"
+      "tax"
     ],
     "canonical": "https://example.com/one-person-company-in-agra"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Agra",
-        "subheading": "Get professional One Person Company services in Agra. Expert and reliable processing.",
+        "subheading": "Get professional One Person Company services in Agra. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Tax",
   "tags": [
     "one",
     "services",
     "agra",
-    "finance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

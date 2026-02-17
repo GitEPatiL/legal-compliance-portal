@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-hyderabad",
-  "page_name": "LLP Registration in Hyderabad - Professional Service",
-  "title": "LLP Registration in Hyderabad - Professional Service",
+  "page_name": "LLP Registration in Hyderabad - Expert Service",
+  "title": "LLP Registration in Hyderabad - Expert Service",
   "meta": {
-    "description": "Best LLP Registration services in Hyderabad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Hyderabad. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "hyderabad",
-      "tax"
+      "general"
     ],
     "canonical": "https://example.com/llp-registration-in-hyderabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Hyderabad",
-        "subheading": "Get professional LLP Registration services in Hyderabad. Professional and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Hyderabad. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "General",
   "tags": [
     "llp",
     "services",
     "hyderabad",
-    "tax"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

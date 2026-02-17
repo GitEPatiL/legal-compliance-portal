@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-kanpur",
-  "page_name": "Patent Registration in Kanpur - Fast Service",
-  "title": "Patent Registration in Kanpur - Fast Service",
+  "page_name": "Patent Registration in Kanpur - Online Service",
+  "title": "Patent Registration in Kanpur - Online Service",
   "meta": {
-    "description": "Best Patent Registration services in Kanpur. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Kanpur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "kanpur",
-      "services"
+      "ip"
     ],
     "canonical": "https://example.com/patent-registration-in-kanpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Kanpur",
-        "subheading": "Get professional Patent Registration services in Kanpur. Fast and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Kanpur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "IP",
   "tags": [
     "patent",
     "services",
     "kanpur",
-    "services"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

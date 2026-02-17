@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-pune",
-  "page_name": "Copyright Registration in Pune - Online Service",
-  "title": "Copyright Registration in Pune - Online Service",
+  "page_name": "Copyright Registration in Pune - Professional Service",
+  "title": "Copyright Registration in Pune - Professional Service",
   "meta": {
-    "description": "Best Copyright Registration services in Pune. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Pune. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "pune",
-      "services"
+      "ip"
     ],
     "canonical": "https://example.com/copyright-registration-in-pune"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Pune",
-        "subheading": "Get professional Copyright Registration services in Pune. Online and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Pune. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "IP",
   "tags": [
     "copyright",
     "services",
     "pune",
-    "services"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

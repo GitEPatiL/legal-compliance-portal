@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-ludhiana",
-  "page_name": "Trademark Registration in Ludhiana - Expert Service",
-  "title": "Trademark Registration in Ludhiana - Expert Service",
+  "page_name": "Trademark Registration in Ludhiana - Online Service",
+  "title": "Trademark Registration in Ludhiana - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Ludhiana. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Ludhiana. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "ludhiana",
-      "startup"
+      "ip"
     ],
     "canonical": "https://example.com/trademark-registration-in-ludhiana"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Ludhiana",
-        "subheading": "Get professional Trademark Registration services in Ludhiana. Expert and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Ludhiana. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "IP",
   "tags": [
     "trademark",
     "services",
     "ludhiana",
-    "startup"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

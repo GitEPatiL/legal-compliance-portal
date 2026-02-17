@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-vijayawada",
-  "page_name": "LLP Registration in Vijayawada - Online Service",
-  "title": "LLP Registration in Vijayawada - Online Service",
+  "page_name": "LLP Registration in Vijayawada - Trusted Service",
+  "title": "LLP Registration in Vijayawada - Trusted Service",
   "meta": {
-    "description": "Best LLP Registration services in Vijayawada. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Vijayawada. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "vijayawada",
-      "legal"
+      "services"
     ],
     "canonical": "https://example.com/llp-registration-in-vijayawada"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Vijayawada",
-        "subheading": "Get professional LLP Registration services in Vijayawada. Online and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Vijayawada. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Services",
   "tags": [
     "llp",
     "services",
     "vijayawada",
-    "legal"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

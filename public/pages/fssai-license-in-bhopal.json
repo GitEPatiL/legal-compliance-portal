@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-bhopal",
-  "page_name": "FSSAI License in Bhopal - Affordable Service",
-  "title": "FSSAI License in Bhopal - Affordable Service",
+  "page_name": "FSSAI License in Bhopal - Trusted Service",
+  "title": "FSSAI License in Bhopal - Trusted Service",
   "meta": {
-    "description": "Best FSSAI License services in Bhopal. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Bhopal. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "bhopal",
-      "tax"
+      "ip"
     ],
     "canonical": "https://example.com/fssai-license-in-bhopal"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Bhopal",
-        "subheading": "Get professional FSSAI License services in Bhopal. Affordable and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Bhopal. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "IP",
   "tags": [
     "fssai",
     "services",
     "bhopal",
-    "tax"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

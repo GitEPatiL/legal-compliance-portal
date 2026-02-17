@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-jaipur",
-  "page_name": "MSME Registration in Jaipur - Best Service",
-  "title": "MSME Registration in Jaipur - Best Service",
+  "page_name": "MSME Registration in Jaipur - Online Service",
+  "title": "MSME Registration in Jaipur - Online Service",
   "meta": {
-    "description": "Best MSME Registration services in Jaipur. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Jaipur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "jaipur",
-      "general"
+      "startup"
     ],
     "canonical": "https://example.com/msme-registration-in-jaipur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Jaipur",
-        "subheading": "Get professional MSME Registration services in Jaipur. Best and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Jaipur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Startup",
   "tags": [
     "msme",
     "services",
     "jaipur",
-    "general"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

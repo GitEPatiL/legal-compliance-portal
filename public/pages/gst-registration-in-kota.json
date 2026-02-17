@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-kota",
-  "page_name": "GST Registration in Kota - Affordable Service",
-  "title": "GST Registration in Kota - Affordable Service",
+  "page_name": "GST Registration in Kota - Quick Service",
+  "title": "GST Registration in Kota - Quick Service",
   "meta": {
-    "description": "Best GST Registration services in Kota. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Kota. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "kota",
-      "legal"
+      "tax"
     ],
     "canonical": "https://example.com/gst-registration-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Kota",
-        "subheading": "Get professional GST Registration services in Kota. Affordable and reliable processing.",
+        "subheading": "Get professional GST Registration services in Kota. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Tax",
   "tags": [
     "gst",
     "services",
     "kota",
-    "legal"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

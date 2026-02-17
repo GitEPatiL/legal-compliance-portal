@@ -1,14 +1,14 @@
 {
   "slug": "import-export-code-in-dhanbad",
-  "page_name": "Import Export Code in Dhanbad - Best Service",
-  "title": "Import Export Code in Dhanbad - Best Service",
+  "page_name": "Import Export Code in Dhanbad - Online Service",
+  "title": "Import Export Code in Dhanbad - Online Service",
   "meta": {
-    "description": "Best Import Export Code services in Dhanbad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Import Export Code services in Dhanbad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "import",
       "services",
       "dhanbad",
-      "services"
+      "legal"
     ],
     "canonical": "https://example.com/import-export-code-in-dhanbad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Import Export Code in Dhanbad",
-        "subheading": "Get professional Import Export Code services in Dhanbad. Best and reliable processing.",
+        "subheading": "Get professional Import Export Code services in Dhanbad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Legal",
   "tags": [
     "import",
     "services",
     "dhanbad",
-    "services"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

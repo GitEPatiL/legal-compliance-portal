@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-vasai-virar",
-  "page_name": "Nidhi Company in Vasai-Virar - Professional Service",
-  "title": "Nidhi Company in Vasai-Virar - Professional Service",
+  "page_name": "Nidhi Company in Vasai-Virar - Online Service",
+  "title": "Nidhi Company in Vasai-Virar - Online Service",
   "meta": {
-    "description": "Best Nidhi Company services in Vasai-Virar. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Vasai-Virar. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "vasai-virar",
-      "compliance"
+      "tax"
     ],
     "canonical": "https://example.com/nidhi-company-in-vasai-virar"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Vasai-Virar",
-        "subheading": "Get professional Nidhi Company services in Vasai-Virar. Professional and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Vasai-Virar. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Tax",
   "tags": [
     "nidhi",
     "services",
     "vasai-virar",
-    "compliance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

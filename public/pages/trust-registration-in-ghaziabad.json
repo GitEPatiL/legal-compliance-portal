@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-ghaziabad",
-  "page_name": "Trust Registration in Ghaziabad - Affordable Service",
-  "title": "Trust Registration in Ghaziabad - Affordable Service",
+  "page_name": "Trust Registration in Ghaziabad - Trusted Service",
+  "title": "Trust Registration in Ghaziabad - Trusted Service",
   "meta": {
-    "description": "Best Trust Registration services in Ghaziabad. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Ghaziabad. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "ghaziabad",
-      "startup"
+      "ip"
     ],
     "canonical": "https://example.com/trust-registration-in-ghaziabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Ghaziabad",
-        "subheading": "Get professional Trust Registration services in Ghaziabad. Affordable and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Ghaziabad. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "IP",
   "tags": [
     "trust",
     "services",
     "ghaziabad",
-    "startup"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

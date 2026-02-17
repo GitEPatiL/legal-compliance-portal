@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-pune",
-  "page_name": "Private Limited Company in Pune - Quick Service",
-  "title": "Private Limited Company in Pune - Quick Service",
+  "page_name": "Private Limited Company in Pune - Trusted Service",
+  "title": "Private Limited Company in Pune - Trusted Service",
   "meta": {
-    "description": "Best Private Limited Company services in Pune. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Pune. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "pune",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/private-limited-company-in-pune"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Pune",
-        "subheading": "Get professional Private Limited Company services in Pune. Quick and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Pune. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "private",
     "services",
     "pune",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

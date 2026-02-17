@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-chennai",
-  "page_name": "Nidhi Company in Chennai - Trusted Service",
-  "title": "Nidhi Company in Chennai - Trusted Service",
+  "page_name": "Nidhi Company in Chennai - Fast Service",
+  "title": "Nidhi Company in Chennai - Fast Service",
   "meta": {
-    "description": "Best Nidhi Company services in Chennai. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Chennai. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "chennai",
-      "ip"
+      "general"
     ],
     "canonical": "https://example.com/nidhi-company-in-chennai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Chennai",
-        "subheading": "Get professional Nidhi Company services in Chennai. Trusted and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Chennai. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "General",
   "tags": [
     "nidhi",
     "services",
     "chennai",
-    "ip"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

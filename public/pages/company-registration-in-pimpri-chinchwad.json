@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-pimpri-chinchwad",
-  "page_name": "Company Registration in Pimpri-Chinchwad - Quick Service",
-  "title": "Company Registration in Pimpri-Chinchwad - Quick Service",
+  "page_name": "Company Registration in Pimpri-Chinchwad - Best Service",
+  "title": "Company Registration in Pimpri-Chinchwad - Best Service",
   "meta": {
-    "description": "Best Company Registration services in Pimpri-Chinchwad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Pimpri-Chinchwad. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "pimpri-chinchwad",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/company-registration-in-pimpri-chinchwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Pimpri-Chinchwad",
-        "subheading": "Get professional Company Registration services in Pimpri-Chinchwad. Quick and reliable processing.",
+        "subheading": "Get professional Company Registration services in Pimpri-Chinchwad. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "company",
     "services",
     "pimpri-chinchwad",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

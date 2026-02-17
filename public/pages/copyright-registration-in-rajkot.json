@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-rajkot",
-  "page_name": "Copyright Registration in Rajkot - Trusted Service",
-  "title": "Copyright Registration in Rajkot - Trusted Service",
+  "page_name": "Copyright Registration in Rajkot - Quick Service",
+  "title": "Copyright Registration in Rajkot - Quick Service",
   "meta": {
-    "description": "Best Copyright Registration services in Rajkot. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Rajkot. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "rajkot",
-      "legal"
+      "general"
     ],
     "canonical": "https://example.com/copyright-registration-in-rajkot"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Rajkot",
-        "subheading": "Get professional Copyright Registration services in Rajkot. Trusted and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Rajkot. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "General",
   "tags": [
     "copyright",
     "services",
     "rajkot",
-    "legal"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

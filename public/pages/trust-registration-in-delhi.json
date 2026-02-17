@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-delhi",
-  "page_name": "Trust Registration in Delhi - Trusted Service",
-  "title": "Trust Registration in Delhi - Trusted Service",
+  "page_name": "Trust Registration in Delhi - Affordable Service",
+  "title": "Trust Registration in Delhi - Affordable Service",
   "meta": {
-    "description": "Best Trust Registration services in Delhi. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Delhi. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "delhi",
-      "ip"
+      "tax"
     ],
     "canonical": "https://example.com/trust-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Delhi",
-        "subheading": "Get professional Trust Registration services in Delhi. Trusted and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Delhi. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Tax",
   "tags": [
     "trust",
     "services",
     "delhi",
-    "ip"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

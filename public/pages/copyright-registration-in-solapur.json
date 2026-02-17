@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-solapur",
-  "page_name": "Copyright Registration in Solapur - Quick Service",
-  "title": "Copyright Registration in Solapur - Quick Service",
+  "page_name": "Copyright Registration in Solapur - Online Service",
+  "title": "Copyright Registration in Solapur - Online Service",
   "meta": {
-    "description": "Best Copyright Registration services in Solapur. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Solapur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "solapur",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/copyright-registration-in-solapur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Solapur",
-        "subheading": "Get professional Copyright Registration services in Solapur. Quick and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Solapur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "copyright",
     "services",
     "solapur",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

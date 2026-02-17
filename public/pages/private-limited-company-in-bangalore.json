@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-bangalore",
-  "page_name": "Private Limited Company in Bangalore - Best Service",
-  "title": "Private Limited Company in Bangalore - Best Service",
+  "page_name": "Private Limited Company in Bangalore - Affordable Service",
+  "title": "Private Limited Company in Bangalore - Affordable Service",
   "meta": {
-    "description": "Best Private Limited Company services in Bangalore. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Bangalore. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "bangalore",
-      "legal"
+      "general"
     ],
     "canonical": "https://example.com/private-limited-company-in-bangalore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Bangalore",
-        "subheading": "Get professional Private Limited Company services in Bangalore. Best and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Bangalore. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "General",
   "tags": [
     "private",
     "services",
     "bangalore",
-    "legal"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

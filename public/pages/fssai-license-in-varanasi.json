@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-varanasi",
-  "page_name": "FSSAI License in Varanasi - Expert Service",
-  "title": "FSSAI License in Varanasi - Expert Service",
+  "page_name": "FSSAI License in Varanasi - Best Service",
+  "title": "FSSAI License in Varanasi - Best Service",
   "meta": {
-    "description": "Best FSSAI License services in Varanasi. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Varanasi. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "varanasi",
-      "startup"
+      "general"
     ],
     "canonical": "https://example.com/fssai-license-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Varanasi",
-        "subheading": "Get professional FSSAI License services in Varanasi. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Varanasi. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "General",
   "tags": [
     "fssai",
     "services",
     "varanasi",
-    "startup"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

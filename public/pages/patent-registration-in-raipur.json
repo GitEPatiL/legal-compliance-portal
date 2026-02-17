@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-raipur",
-  "page_name": "Patent Registration in Raipur - Fast Service",
-  "title": "Patent Registration in Raipur - Fast Service",
+  "page_name": "Patent Registration in Raipur - Quick Service",
+  "title": "Patent Registration in Raipur - Quick Service",
   "meta": {
-    "description": "Best Patent Registration services in Raipur. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Raipur. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "raipur",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/patent-registration-in-raipur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Raipur",
-        "subheading": "Get professional Patent Registration services in Raipur. Fast and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Raipur. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "patent",
     "services",
     "raipur",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

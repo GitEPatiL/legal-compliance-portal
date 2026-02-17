@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-jodhpur",
-  "page_name": "MSME Registration in Jodhpur - Online Service",
-  "title": "MSME Registration in Jodhpur - Online Service",
+  "page_name": "MSME Registration in Jodhpur - Best Service",
+  "title": "MSME Registration in Jodhpur - Best Service",
   "meta": {
-    "description": "Best MSME Registration services in Jodhpur. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Jodhpur. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "jodhpur",
-      "legal"
+      "compliance"
     ],
     "canonical": "https://example.com/msme-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Jodhpur",
-        "subheading": "Get professional MSME Registration services in Jodhpur. Online and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Jodhpur. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Compliance",
   "tags": [
     "msme",
     "services",
     "jodhpur",
-    "legal"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

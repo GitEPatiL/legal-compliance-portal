@@ -8,7 +8,7 @@
       "startup",
       "services",
       "vadodara",
-      "legal"
+      "compliance"
     ],
     "canonical": "https://example.com/startup-india-registration-in-vadodara"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Compliance",
   "tags": [
     "startup",
     "services",
     "vadodara",
-    "legal"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

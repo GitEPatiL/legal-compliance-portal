@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-madurai",
-  "page_name": "Company Registration in Madurai - Fast Service",
-  "title": "Company Registration in Madurai - Fast Service",
+  "page_name": "Company Registration in Madurai - Online Service",
+  "title": "Company Registration in Madurai - Online Service",
   "meta": {
-    "description": "Best Company Registration services in Madurai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Madurai. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "madurai",
-      "tax"
+      "finance"
     ],
     "canonical": "https://example.com/company-registration-in-madurai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Madurai",
-        "subheading": "Get professional Company Registration services in Madurai. Fast and reliable processing.",
+        "subheading": "Get professional Company Registration services in Madurai. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Finance",
   "tags": [
     "company",
     "services",
     "madurai",
-    "tax"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

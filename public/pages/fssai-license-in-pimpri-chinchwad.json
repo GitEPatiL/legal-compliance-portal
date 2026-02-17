@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-pimpri-chinchwad",
-  "page_name": "FSSAI License in Pimpri-Chinchwad - Best Service",
-  "title": "FSSAI License in Pimpri-Chinchwad - Best Service",
+  "page_name": "FSSAI License in Pimpri-Chinchwad - Online Service",
+  "title": "FSSAI License in Pimpri-Chinchwad - Online Service",
   "meta": {
-    "description": "Best FSSAI License services in Pimpri-Chinchwad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Pimpri-Chinchwad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "pimpri-chinchwad",
-      "legal"
+      "services"
     ],
     "canonical": "https://example.com/fssai-license-in-pimpri-chinchwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Pimpri-Chinchwad",
-        "subheading": "Get professional FSSAI License services in Pimpri-Chinchwad. Best and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Pimpri-Chinchwad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Services",
   "tags": [
     "fssai",
     "services",
     "pimpri-chinchwad",
-    "legal"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

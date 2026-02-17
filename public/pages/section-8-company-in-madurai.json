@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-madurai",
-  "page_name": "Section 8 Company in Madurai - Trusted Service",
-  "title": "Section 8 Company in Madurai - Trusted Service",
+  "page_name": "Section 8 Company in Madurai - Fast Service",
+  "title": "Section 8 Company in Madurai - Fast Service",
   "meta": {
-    "description": "Best Section 8 Company services in Madurai. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Madurai. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "madurai",
-      "finance"
+      "startup"
     ],
     "canonical": "https://example.com/section-8-company-in-madurai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Madurai",
-        "subheading": "Get professional Section 8 Company services in Madurai. Trusted and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Madurai. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Startup",
   "tags": [
     "section",
     "services",
     "madurai",
-    "finance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

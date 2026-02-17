@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-kolkata",
-  "page_name": "Nidhi Company in Kolkata - Professional Service",
-  "title": "Nidhi Company in Kolkata - Professional Service",
+  "page_name": "Nidhi Company in Kolkata - Best Service",
+  "title": "Nidhi Company in Kolkata - Best Service",
   "meta": {
-    "description": "Best Nidhi Company services in Kolkata. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Kolkata. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "kolkata",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/nidhi-company-in-kolkata"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Kolkata",
-        "subheading": "Get professional Nidhi Company services in Kolkata. Professional and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Kolkata. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "nidhi",
     "services",
     "kolkata",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

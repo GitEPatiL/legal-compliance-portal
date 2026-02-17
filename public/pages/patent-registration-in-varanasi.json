@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-varanasi",
-  "page_name": "Patent Registration in Varanasi - Online Service",
-  "title": "Patent Registration in Varanasi - Online Service",
+  "page_name": "Patent Registration in Varanasi - Affordable Service",
+  "title": "Patent Registration in Varanasi - Affordable Service",
   "meta": {
-    "description": "Best Patent Registration services in Varanasi. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Varanasi. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "varanasi",
-      "startup"
+      "ip"
     ],
     "canonical": "https://example.com/patent-registration-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Varanasi",
-        "subheading": "Get professional Patent Registration services in Varanasi. Online and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Varanasi. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "IP",
   "tags": [
     "patent",
     "services",
     "varanasi",
-    "startup"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

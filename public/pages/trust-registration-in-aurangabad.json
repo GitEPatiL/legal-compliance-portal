@@ -8,7 +8,7 @@
       "trust",
       "services",
       "aurangabad",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/trust-registration-in-aurangabad"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "trust",
     "services",
     "aurangabad",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-chennai",
-  "page_name": "Trust Registration in Chennai - Fast Service",
-  "title": "Trust Registration in Chennai - Fast Service",
+  "page_name": "Trust Registration in Chennai - Expert Service",
+  "title": "Trust Registration in Chennai - Expert Service",
   "meta": {
-    "description": "Best Trust Registration services in Chennai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Chennai. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "chennai",
-      "legal"
+      "services"
     ],
     "canonical": "https://example.com/trust-registration-in-chennai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Chennai",
-        "subheading": "Get professional Trust Registration services in Chennai. Fast and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Chennai. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Services",
   "tags": [
     "trust",
     "services",
     "chennai",
-    "legal"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-chandigarh",
-  "page_name": "Company Registration in Chandigarh - Fast Service",
-  "title": "Company Registration in Chandigarh - Fast Service",
+  "page_name": "Company Registration in Chandigarh - Quick Service",
+  "title": "Company Registration in Chandigarh - Quick Service",
   "meta": {
-    "description": "Best Company Registration services in Chandigarh. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Chandigarh. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "chandigarh",
-      "startup"
+      "ip"
     ],
     "canonical": "https://example.com/company-registration-in-chandigarh"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Chandigarh",
-        "subheading": "Get professional Company Registration services in Chandigarh. Fast and reliable processing.",
+        "subheading": "Get professional Company Registration services in Chandigarh. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "IP",
   "tags": [
     "company",
     "services",
     "chandigarh",
-    "startup"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

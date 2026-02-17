@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-mumbai",
-  "page_name": "Private Limited Company in Mumbai - Affordable Service",
-  "title": "Private Limited Company in Mumbai - Affordable Service",
+  "page_name": "Private Limited Company in Mumbai - Online Service",
+  "title": "Private Limited Company in Mumbai - Online Service",
   "meta": {
-    "description": "Best Private Limited Company services in Mumbai. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Mumbai. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "mumbai",
-      "compliance"
+      "services"
     ],
     "canonical": "https://example.com/private-limited-company-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Mumbai",
-        "subheading": "Get professional Private Limited Company services in Mumbai. Affordable and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Mumbai. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Services",
   "tags": [
     "private",
     "services",
     "mumbai",
-    "compliance"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

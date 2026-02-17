@@ -8,7 +8,7 @@
       "section",
       "services",
       "ranchi",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/section-8-company-in-ranchi"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "section",
     "services",
     "ranchi",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

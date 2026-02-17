@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-faridabad",
-  "page_name": "One Person Company in Faridabad - Best Service",
-  "title": "One Person Company in Faridabad - Best Service",
+  "page_name": "One Person Company in Faridabad - Online Service",
+  "title": "One Person Company in Faridabad - Online Service",
   "meta": {
-    "description": "Best One Person Company services in Faridabad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Faridabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "faridabad",
-      "general"
+      "legal"
     ],
     "canonical": "https://example.com/one-person-company-in-faridabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Faridabad",
-        "subheading": "Get professional One Person Company services in Faridabad. Best and reliable processing.",
+        "subheading": "Get professional One Person Company services in Faridabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Legal",
   "tags": [
     "one",
     "services",
     "faridabad",
-    "general"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

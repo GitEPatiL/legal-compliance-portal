@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-gwalior",
-  "page_name": "FSSAI License in Gwalior - Expert Service",
-  "title": "FSSAI License in Gwalior - Expert Service",
+  "page_name": "FSSAI License in Gwalior - Quick Service",
+  "title": "FSSAI License in Gwalior - Quick Service",
   "meta": {
-    "description": "Best FSSAI License services in Gwalior. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Gwalior. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "gwalior",
-      "compliance"
+      "tax"
     ],
     "canonical": "https://example.com/fssai-license-in-gwalior"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Gwalior",
-        "subheading": "Get professional FSSAI License services in Gwalior. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Gwalior. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Tax",
   "tags": [
     "fssai",
     "services",
     "gwalior",
-    "compliance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

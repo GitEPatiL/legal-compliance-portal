@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-delhi",
-  "page_name": "Patent Registration in Delhi - Online Service",
-  "title": "Patent Registration in Delhi - Online Service",
+  "page_name": "Patent Registration in Delhi - Fast Service",
+  "title": "Patent Registration in Delhi - Fast Service",
   "meta": {
-    "description": "Best Patent Registration services in Delhi. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Delhi. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "delhi",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/patent-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Delhi",
-        "subheading": "Get professional Patent Registration services in Delhi. Online and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Delhi. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "patent",
     "services",
     "delhi",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

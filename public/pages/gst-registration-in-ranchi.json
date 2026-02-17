@@ -8,7 +8,7 @@
       "gst",
       "services",
       "ranchi",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/gst-registration-in-ranchi"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "gst",
     "services",
     "ranchi",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-hubli-dharwad",
-  "page_name": "Nidhi Company in Hubli-Dharwad - Professional Service",
-  "title": "Nidhi Company in Hubli-Dharwad - Professional Service",
+  "page_name": "Nidhi Company in Hubli-Dharwad - Expert Service",
+  "title": "Nidhi Company in Hubli-Dharwad - Expert Service",
   "meta": {
-    "description": "Best Nidhi Company services in Hubli-Dharwad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Hubli-Dharwad. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "hubli-dharwad",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/nidhi-company-in-hubli-dharwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Hubli-Dharwad",
-        "subheading": "Get professional Nidhi Company services in Hubli-Dharwad. Professional and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Hubli-Dharwad. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "nidhi",
     "services",
     "hubli-dharwad",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

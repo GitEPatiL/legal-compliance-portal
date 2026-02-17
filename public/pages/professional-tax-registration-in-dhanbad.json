@@ -1,14 +1,14 @@
 {
   "slug": "professional-tax-registration-in-dhanbad",
-  "page_name": "Professional Tax Registration in Dhanbad - Quick Service",
-  "title": "Professional Tax Registration in Dhanbad - Quick Service",
+  "page_name": "Professional Tax Registration in Dhanbad - Best Service",
+  "title": "Professional Tax Registration in Dhanbad - Best Service",
   "meta": {
-    "description": "Best Professional Tax Registration services in Dhanbad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Professional Tax Registration services in Dhanbad. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "professional",
       "services",
       "dhanbad",
-      "legal"
+      "services"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-dhanbad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Professional Tax Registration in Dhanbad",
-        "subheading": "Get professional Professional Tax Registration services in Dhanbad. Quick and reliable processing.",
+        "subheading": "Get professional Professional Tax Registration services in Dhanbad. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Services",
   "tags": [
     "professional",
     "services",
     "dhanbad",
-    "legal"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

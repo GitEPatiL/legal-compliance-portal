@@ -8,7 +8,7 @@
       "private",
       "services",
       "madurai",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/private-limited-company-in-madurai"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "private",
     "services",
     "madurai",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-jodhpur",
-  "page_name": "Patent Registration in Jodhpur - Affordable Service",
-  "title": "Patent Registration in Jodhpur - Affordable Service",
+  "page_name": "Patent Registration in Jodhpur - Quick Service",
+  "title": "Patent Registration in Jodhpur - Quick Service",
   "meta": {
-    "description": "Best Patent Registration services in Jodhpur. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Jodhpur. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "jodhpur",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/patent-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Jodhpur",
-        "subheading": "Get professional Patent Registration services in Jodhpur. Affordable and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Jodhpur. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "patent",
     "services",
     "jodhpur",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

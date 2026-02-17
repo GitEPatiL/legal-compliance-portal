@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-kota",
-  "page_name": "Trademark Registration in Kota - Fast Service",
-  "title": "Trademark Registration in Kota - Fast Service",
+  "page_name": "Trademark Registration in Kota - Online Service",
+  "title": "Trademark Registration in Kota - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Kota. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Kota. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "kota",
-      "startup"
+      "legal"
     ],
     "canonical": "https://example.com/trademark-registration-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Kota",
-        "subheading": "Get professional Trademark Registration services in Kota. Fast and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Kota. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Legal",
   "tags": [
     "trademark",
     "services",
     "kota",
-    "startup"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

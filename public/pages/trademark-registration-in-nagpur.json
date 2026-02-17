@@ -8,7 +8,7 @@
       "trademark",
       "services",
       "nagpur",
-      "legal"
+      "general"
     ],
     "canonical": "https://example.com/trademark-registration-in-nagpur"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "General",
   "tags": [
     "trademark",
     "services",
     "nagpur",
-    "legal"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.112Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-kolkata",
-  "page_name": "Patent Registration in Kolkata - Fast Service",
-  "title": "Patent Registration in Kolkata - Fast Service",
+  "page_name": "Patent Registration in Kolkata - Best Service",
+  "title": "Patent Registration in Kolkata - Best Service",
   "meta": {
-    "description": "Best Patent Registration services in Kolkata. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Kolkata. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "kolkata",
-      "ip"
+      "general"
     ],
     "canonical": "https://example.com/patent-registration-in-kolkata"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Kolkata",
-        "subheading": "Get professional Patent Registration services in Kolkata. Fast and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Kolkata. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "General",
   "tags": [
     "patent",
     "services",
     "kolkata",
-    "ip"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

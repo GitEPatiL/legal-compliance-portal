@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-thane",
-  "page_name": "Copyright Registration in Thane - Quick Service",
-  "title": "Copyright Registration in Thane - Quick Service",
+  "page_name": "Copyright Registration in Thane - Expert Service",
+  "title": "Copyright Registration in Thane - Expert Service",
   "meta": {
-    "description": "Best Copyright Registration services in Thane. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Thane. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "thane",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/copyright-registration-in-thane"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Thane",
-        "subheading": "Get professional Copyright Registration services in Thane. Quick and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Thane. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "copyright",
     "services",
     "thane",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

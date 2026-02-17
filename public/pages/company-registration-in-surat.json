@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-surat",
-  "page_name": "Company Registration in Surat - Professional Service",
-  "title": "Company Registration in Surat - Professional Service",
+  "page_name": "Company Registration in Surat - Online Service",
+  "title": "Company Registration in Surat - Online Service",
   "meta": {
-    "description": "Best Company Registration services in Surat. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Surat. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "surat",
-      "finance"
+      "startup"
     ],
     "canonical": "https://example.com/company-registration-in-surat"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Surat",
-        "subheading": "Get professional Company Registration services in Surat. Professional and reliable processing.",
+        "subheading": "Get professional Company Registration services in Surat. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Startup",
   "tags": [
     "company",
     "services",
     "surat",
-    "finance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

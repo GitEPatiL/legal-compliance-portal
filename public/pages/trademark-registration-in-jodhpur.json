@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-jodhpur",
-  "page_name": "Trademark Registration in Jodhpur - Fast Service",
-  "title": "Trademark Registration in Jodhpur - Fast Service",
+  "page_name": "Trademark Registration in Jodhpur - Online Service",
+  "title": "Trademark Registration in Jodhpur - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Jodhpur. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Jodhpur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "jodhpur",
-      "compliance"
+      "startup"
     ],
     "canonical": "https://example.com/trademark-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Jodhpur",
-        "subheading": "Get professional Trademark Registration services in Jodhpur. Fast and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Jodhpur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Startup",
   "tags": [
     "trademark",
     "services",
     "jodhpur",
-    "compliance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

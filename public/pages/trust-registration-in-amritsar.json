@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-amritsar",
-  "page_name": "Trust Registration in Amritsar - Affordable Service",
-  "title": "Trust Registration in Amritsar - Affordable Service",
+  "page_name": "Trust Registration in Amritsar - Fast Service",
+  "title": "Trust Registration in Amritsar - Fast Service",
   "meta": {
-    "description": "Best Trust Registration services in Amritsar. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Amritsar. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "amritsar",
-      "legal"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-amritsar"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Amritsar",
-        "subheading": "Get professional Trust Registration services in Amritsar. Affordable and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Amritsar. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "amritsar",
-    "legal"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

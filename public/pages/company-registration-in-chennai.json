@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-chennai",
-  "page_name": "Company Registration in Chennai - Quick Service",
-  "title": "Company Registration in Chennai - Quick Service",
+  "page_name": "Company Registration in Chennai - Best Service",
+  "title": "Company Registration in Chennai - Best Service",
   "meta": {
-    "description": "Best Company Registration services in Chennai. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Chennai. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "chennai",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/company-registration-in-chennai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Chennai",
-        "subheading": "Get professional Company Registration services in Chennai. Quick and reliable processing.",
+        "subheading": "Get professional Company Registration services in Chennai. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "company",
     "services",
     "chennai",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

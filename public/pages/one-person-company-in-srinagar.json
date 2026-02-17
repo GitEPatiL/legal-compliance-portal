@@ -8,7 +8,7 @@
       "one",
       "services",
       "srinagar",
-      "tax"
+      "compliance"
     ],
     "canonical": "https://example.com/one-person-company-in-srinagar"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Compliance",
   "tags": [
     "one",
     "services",
     "srinagar",
-    "tax"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

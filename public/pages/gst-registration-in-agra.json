@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-agra",
-  "page_name": "GST Registration in Agra - Trusted Service",
-  "title": "GST Registration in Agra - Trusted Service",
+  "page_name": "GST Registration in Agra - Best Service",
+  "title": "GST Registration in Agra - Best Service",
   "meta": {
-    "description": "Best GST Registration services in Agra. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Agra. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "agra",
-      "tax"
+      "legal"
     ],
     "canonical": "https://example.com/gst-registration-in-agra"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Agra",
-        "subheading": "Get professional GST Registration services in Agra. Trusted and reliable processing.",
+        "subheading": "Get professional GST Registration services in Agra. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Legal",
   "tags": [
     "gst",
     "services",
     "agra",
-    "tax"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-bhopal",
-  "page_name": "Company Registration in Bhopal - Professional Service",
-  "title": "Company Registration in Bhopal - Professional Service",
+  "page_name": "Company Registration in Bhopal - Best Service",
+  "title": "Company Registration in Bhopal - Best Service",
   "meta": {
-    "description": "Best Company Registration services in Bhopal. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Bhopal. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "bhopal",
-      "general"
+      "compliance"
     ],
     "canonical": "https://example.com/company-registration-in-bhopal"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Bhopal",
-        "subheading": "Get professional Company Registration services in Bhopal. Professional and reliable processing.",
+        "subheading": "Get professional Company Registration services in Bhopal. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Compliance",
   "tags": [
     "company",
     "services",
     "bhopal",
-    "general"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

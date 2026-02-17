@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-thane",
-  "page_name": "MSME Registration in Thane - Quick Service",
-  "title": "MSME Registration in Thane - Quick Service",
+  "page_name": "MSME Registration in Thane - Professional Service",
+  "title": "MSME Registration in Thane - Professional Service",
   "meta": {
-    "description": "Best MSME Registration services in Thane. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Thane. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "thane",
-      "tax"
+      "finance"
     ],
     "canonical": "https://example.com/msme-registration-in-thane"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Thane",
-        "subheading": "Get professional MSME Registration services in Thane. Quick and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Thane. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Finance",
   "tags": [
     "msme",
     "services",
     "thane",
-    "tax"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

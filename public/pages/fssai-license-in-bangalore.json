@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-bangalore",
-  "page_name": "FSSAI License in Bangalore - Expert Service",
-  "title": "FSSAI License in Bangalore - Expert Service",
+  "page_name": "FSSAI License in Bangalore - Professional Service",
+  "title": "FSSAI License in Bangalore - Professional Service",
   "meta": {
-    "description": "Best FSSAI License services in Bangalore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Bangalore. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "bangalore",
-      "general"
+      "tax"
     ],
     "canonical": "https://example.com/fssai-license-in-bangalore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Bangalore",
-        "subheading": "Get professional FSSAI License services in Bangalore. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Bangalore. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Tax",
   "tags": [
     "fssai",
     "services",
     "bangalore",
-    "general"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

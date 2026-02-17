@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-gwalior",
-  "page_name": "Trust Registration in Gwalior - Quick Service",
-  "title": "Trust Registration in Gwalior - Quick Service",
+  "page_name": "Trust Registration in Gwalior - Expert Service",
+  "title": "Trust Registration in Gwalior - Expert Service",
   "meta": {
-    "description": "Best Trust Registration services in Gwalior. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Gwalior. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "gwalior",
-      "startup"
+      "services"
     ],
     "canonical": "https://example.com/trust-registration-in-gwalior"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Gwalior",
-        "subheading": "Get professional Trust Registration services in Gwalior. Quick and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Gwalior. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Services",
   "tags": [
     "trust",
     "services",
     "gwalior",
-    "startup"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

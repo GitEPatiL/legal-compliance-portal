@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-coimbatore",
-  "page_name": "FSSAI License in Coimbatore - Expert Service",
-  "title": "FSSAI License in Coimbatore - Expert Service",
+  "page_name": "FSSAI License in Coimbatore - Fast Service",
+  "title": "FSSAI License in Coimbatore - Fast Service",
   "meta": {
-    "description": "Best FSSAI License services in Coimbatore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Coimbatore. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "coimbatore",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/fssai-license-in-coimbatore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Coimbatore",
-        "subheading": "Get professional FSSAI License services in Coimbatore. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Coimbatore. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "fssai",
     "services",
     "coimbatore",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

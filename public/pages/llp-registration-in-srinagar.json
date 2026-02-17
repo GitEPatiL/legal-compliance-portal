@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-srinagar",
-  "page_name": "LLP Registration in Srinagar - Trusted Service",
-  "title": "LLP Registration in Srinagar - Trusted Service",
+  "page_name": "LLP Registration in Srinagar - Online Service",
+  "title": "LLP Registration in Srinagar - Online Service",
   "meta": {
-    "description": "Best LLP Registration services in Srinagar. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Srinagar. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "srinagar",
-      "services"
+      "ip"
     ],
     "canonical": "https://example.com/llp-registration-in-srinagar"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Srinagar",
-        "subheading": "Get professional LLP Registration services in Srinagar. Trusted and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Srinagar. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "IP",
   "tags": [
     "llp",
     "services",
     "srinagar",
-    "services"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

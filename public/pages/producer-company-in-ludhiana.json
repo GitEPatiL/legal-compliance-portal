@@ -1,14 +1,14 @@
 {
   "slug": "producer-company-in-ludhiana",
-  "page_name": "Producer Company in Ludhiana - Affordable Service",
-  "title": "Producer Company in Ludhiana - Affordable Service",
+  "page_name": "Producer Company in Ludhiana - Online Service",
+  "title": "Producer Company in Ludhiana - Online Service",
   "meta": {
-    "description": "Best Producer Company services in Ludhiana. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Producer Company services in Ludhiana. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "producer",
       "services",
       "ludhiana",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/producer-company-in-ludhiana"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Producer Company in Ludhiana",
-        "subheading": "Get professional Producer Company services in Ludhiana. Affordable and reliable processing.",
+        "subheading": "Get professional Producer Company services in Ludhiana. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "producer",
     "services",
     "ludhiana",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

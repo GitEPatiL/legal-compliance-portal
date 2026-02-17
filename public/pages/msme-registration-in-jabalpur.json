@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-jabalpur",
-  "page_name": "MSME Registration in Jabalpur - Professional Service",
-  "title": "MSME Registration in Jabalpur - Professional Service",
+  "page_name": "MSME Registration in Jabalpur - Trusted Service",
+  "title": "MSME Registration in Jabalpur - Trusted Service",
   "meta": {
-    "description": "Best MSME Registration services in Jabalpur. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Jabalpur. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "jabalpur",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/msme-registration-in-jabalpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Jabalpur",
-        "subheading": "Get professional MSME Registration services in Jabalpur. Professional and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Jabalpur. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "msme",
     "services",
     "jabalpur",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

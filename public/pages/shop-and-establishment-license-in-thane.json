@@ -8,7 +8,7 @@
       "shop",
       "services",
       "thane",
-      "compliance"
+      "startup"
     ],
     "canonical": "https://example.com/shop-and-establishment-license-in-thane"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Startup",
   "tags": [
     "shop",
     "services",
     "thane",
-    "compliance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.120Z",
   "published": true
 }

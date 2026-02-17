@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-jodhpur",
-  "page_name": "LLP Registration in Jodhpur - Affordable Service",
-  "title": "LLP Registration in Jodhpur - Affordable Service",
+  "page_name": "LLP Registration in Jodhpur - Expert Service",
+  "title": "LLP Registration in Jodhpur - Expert Service",
   "meta": {
-    "description": "Best LLP Registration services in Jodhpur. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Jodhpur. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "jodhpur",
-      "general"
+      "finance"
     ],
     "canonical": "https://example.com/llp-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Jodhpur",
-        "subheading": "Get professional LLP Registration services in Jodhpur. Affordable and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Jodhpur. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Finance",
   "tags": [
     "llp",
     "services",
     "jodhpur",
-    "general"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

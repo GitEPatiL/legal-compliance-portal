@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-solapur",
-  "page_name": "Private Limited Company in Solapur - Online Service",
-  "title": "Private Limited Company in Solapur - Online Service",
+  "page_name": "Private Limited Company in Solapur - Professional Service",
+  "title": "Private Limited Company in Solapur - Professional Service",
   "meta": {
-    "description": "Best Private Limited Company services in Solapur. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Solapur. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "solapur",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/private-limited-company-in-solapur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Solapur",
-        "subheading": "Get professional Private Limited Company services in Solapur. Online and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Solapur. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "private",
     "services",
     "solapur",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

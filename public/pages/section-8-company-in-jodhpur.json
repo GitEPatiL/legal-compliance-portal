@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-jodhpur",
-  "page_name": "Section 8 Company in Jodhpur - Expert Service",
-  "title": "Section 8 Company in Jodhpur - Expert Service",
+  "page_name": "Section 8 Company in Jodhpur - Trusted Service",
+  "title": "Section 8 Company in Jodhpur - Trusted Service",
   "meta": {
-    "description": "Best Section 8 Company services in Jodhpur. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Jodhpur. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "jodhpur",
-      "services"
+      "startup"
     ],
     "canonical": "https://example.com/section-8-company-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Jodhpur",
-        "subheading": "Get professional Section 8 Company services in Jodhpur. Expert and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Jodhpur. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Startup",
   "tags": [
     "section",
     "services",
     "jodhpur",
-    "services"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

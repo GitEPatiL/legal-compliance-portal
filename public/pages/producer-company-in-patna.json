@@ -8,7 +8,7 @@
       "producer",
       "services",
       "patna",
-      "startup"
+      "services"
     ],
     "canonical": "https://example.com/producer-company-in-patna"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Services",
   "tags": [
     "producer",
     "services",
     "patna",
-    "startup"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

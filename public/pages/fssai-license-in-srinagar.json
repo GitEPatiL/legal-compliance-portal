@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-srinagar",
-  "page_name": "FSSAI License in Srinagar - Trusted Service",
-  "title": "FSSAI License in Srinagar - Trusted Service",
+  "page_name": "FSSAI License in Srinagar - Fast Service",
+  "title": "FSSAI License in Srinagar - Fast Service",
   "meta": {
-    "description": "Best FSSAI License services in Srinagar. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Srinagar. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "srinagar",
-      "startup"
+      "general"
     ],
     "canonical": "https://example.com/fssai-license-in-srinagar"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Srinagar",
-        "subheading": "Get professional FSSAI License services in Srinagar. Trusted and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Srinagar. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "General",
   "tags": [
     "fssai",
     "services",
     "srinagar",
-    "startup"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

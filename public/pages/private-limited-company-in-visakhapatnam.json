@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-visakhapatnam",
-  "page_name": "Private Limited Company in Visakhapatnam - Expert Service",
-  "title": "Private Limited Company in Visakhapatnam - Expert Service",
+  "page_name": "Private Limited Company in Visakhapatnam - Professional Service",
+  "title": "Private Limited Company in Visakhapatnam - Professional Service",
   "meta": {
-    "description": "Best Private Limited Company services in Visakhapatnam. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Visakhapatnam. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "visakhapatnam",
-      "finance"
+      "compliance"
     ],
     "canonical": "https://example.com/private-limited-company-in-visakhapatnam"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Visakhapatnam",
-        "subheading": "Get professional Private Limited Company services in Visakhapatnam. Expert and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Visakhapatnam. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Compliance",
   "tags": [
     "private",
     "services",
     "visakhapatnam",
-    "finance"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

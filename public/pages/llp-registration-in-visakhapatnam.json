@@ -8,7 +8,7 @@
       "llp",
       "services",
       "visakhapatnam",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/llp-registration-in-visakhapatnam"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "llp",
     "services",
     "visakhapatnam",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

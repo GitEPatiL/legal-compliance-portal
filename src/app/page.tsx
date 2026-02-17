@@ -10,11 +10,11 @@ import { ArrowRight } from 'lucide-react';
 export default async function Page() {
   let items: ManifestItem[] = [];
   try {
-    const filePath = path.join(process.cwd(), 'data', 'pages_manifest.json');
+    const filePath = path.join(process.cwd(), 'data', 'search_index.json');
     const fileContents = await fs.readFile(filePath, 'utf8');
     items = JSON.parse(fileContents);
   } catch (error) {
-    console.error('Failed to load manifest:', error);
+    console.error('Failed to load search index:', error);
   }
 
   return (

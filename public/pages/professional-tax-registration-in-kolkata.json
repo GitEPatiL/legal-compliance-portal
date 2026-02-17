@@ -1,14 +1,14 @@
 {
   "slug": "professional-tax-registration-in-kolkata",
-  "page_name": "Professional Tax Registration in Kolkata - Quick Service",
-  "title": "Professional Tax Registration in Kolkata - Quick Service",
+  "page_name": "Professional Tax Registration in Kolkata - Online Service",
+  "title": "Professional Tax Registration in Kolkata - Online Service",
   "meta": {
-    "description": "Best Professional Tax Registration services in Kolkata. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Professional Tax Registration services in Kolkata. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "professional",
       "services",
       "kolkata",
-      "finance"
+      "compliance"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-kolkata"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Professional Tax Registration in Kolkata",
-        "subheading": "Get professional Professional Tax Registration services in Kolkata. Quick and reliable processing.",
+        "subheading": "Get professional Professional Tax Registration services in Kolkata. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Compliance",
   "tags": [
     "professional",
     "services",
     "kolkata",
-    "finance"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

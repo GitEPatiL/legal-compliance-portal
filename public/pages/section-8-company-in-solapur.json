@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-solapur",
-  "page_name": "Section 8 Company in Solapur - Professional Service",
-  "title": "Section 8 Company in Solapur - Professional Service",
+  "page_name": "Section 8 Company in Solapur - Online Service",
+  "title": "Section 8 Company in Solapur - Online Service",
   "meta": {
-    "description": "Best Section 8 Company services in Solapur. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Solapur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "solapur",
-      "ip"
+      "services"
     ],
     "canonical": "https://example.com/section-8-company-in-solapur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Solapur",
-        "subheading": "Get professional Section 8 Company services in Solapur. Professional and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Solapur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Services",
   "tags": [
     "section",
     "services",
     "solapur",
-    "ip"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

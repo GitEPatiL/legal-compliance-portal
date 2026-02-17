@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-ahmedabad",
-  "page_name": "Section 8 Company in Ahmedabad - Trusted Service",
-  "title": "Section 8 Company in Ahmedabad - Trusted Service",
+  "page_name": "Section 8 Company in Ahmedabad - Online Service",
+  "title": "Section 8 Company in Ahmedabad - Online Service",
   "meta": {
-    "description": "Best Section 8 Company services in Ahmedabad. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Ahmedabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "ahmedabad",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/section-8-company-in-ahmedabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Ahmedabad",
-        "subheading": "Get professional Section 8 Company services in Ahmedabad. Trusted and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Ahmedabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "section",
     "services",
     "ahmedabad",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

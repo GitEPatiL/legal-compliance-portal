@@ -8,7 +8,7 @@
       "nidhi",
       "services",
       "bhopal",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/nidhi-company-in-bhopal"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "nidhi",
     "services",
     "bhopal",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

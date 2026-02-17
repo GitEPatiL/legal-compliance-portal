@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-pune",
-  "page_name": "Trust Registration in Pune - Best Service",
-  "title": "Trust Registration in Pune - Best Service",
+  "page_name": "Trust Registration in Pune - Online Service",
+  "title": "Trust Registration in Pune - Online Service",
   "meta": {
-    "description": "Best Trust Registration services in Pune. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Pune. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "pune",
-      "general"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-pune"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Pune",
-        "subheading": "Get professional Trust Registration services in Pune. Best and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Pune. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "pune",
-    "general"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

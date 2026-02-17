@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-bhopal",
-  "page_name": "Trust Registration in Bhopal - Best Service",
-  "title": "Trust Registration in Bhopal - Best Service",
+  "page_name": "Trust Registration in Bhopal - Trusted Service",
+  "title": "Trust Registration in Bhopal - Trusted Service",
   "meta": {
-    "description": "Best Trust Registration services in Bhopal. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Bhopal. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "bhopal",
-      "startup"
+      "general"
     ],
     "canonical": "https://example.com/trust-registration-in-bhopal"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Bhopal",
-        "subheading": "Get professional Trust Registration services in Bhopal. Best and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Bhopal. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "General",
   "tags": [
     "trust",
     "services",
     "bhopal",
-    "startup"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

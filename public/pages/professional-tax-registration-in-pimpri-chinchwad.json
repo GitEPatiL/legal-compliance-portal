@@ -8,7 +8,7 @@
       "professional",
       "services",
       "pimpri-chinchwad",
-      "services"
+      "finance"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-pimpri-chinchwad"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Finance",
   "tags": [
     "professional",
     "services",
     "pimpri-chinchwad",
-    "services"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

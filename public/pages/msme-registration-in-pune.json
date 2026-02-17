@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-pune",
-  "page_name": "MSME Registration in Pune - Expert Service",
-  "title": "MSME Registration in Pune - Expert Service",
+  "page_name": "MSME Registration in Pune - Affordable Service",
+  "title": "MSME Registration in Pune - Affordable Service",
   "meta": {
-    "description": "Best MSME Registration services in Pune. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Pune. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "pune",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/msme-registration-in-pune"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Pune",
-        "subheading": "Get professional MSME Registration services in Pune. Expert and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Pune. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "msme",
     "services",
     "pune",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

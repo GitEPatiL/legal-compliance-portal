@@ -1,14 +1,14 @@
 {
   "slug": "import-export-code-in-bangalore",
-  "page_name": "Import Export Code in Bangalore - Professional Service",
-  "title": "Import Export Code in Bangalore - Professional Service",
+  "page_name": "Import Export Code in Bangalore - Online Service",
+  "title": "Import Export Code in Bangalore - Online Service",
   "meta": {
-    "description": "Best Import Export Code services in Bangalore. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Import Export Code services in Bangalore. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "import",
       "services",
       "bangalore",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/import-export-code-in-bangalore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Import Export Code in Bangalore",
-        "subheading": "Get professional Import Export Code services in Bangalore. Professional and reliable processing.",
+        "subheading": "Get professional Import Export Code services in Bangalore. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "import",
     "services",
     "bangalore",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

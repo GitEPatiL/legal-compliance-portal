@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-patna",
-  "page_name": "Nidhi Company in Patna - Professional Service",
-  "title": "Nidhi Company in Patna - Professional Service",
+  "page_name": "Nidhi Company in Patna - Best Service",
+  "title": "Nidhi Company in Patna - Best Service",
   "meta": {
-    "description": "Best Nidhi Company services in Patna. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Patna. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "patna",
-      "legal"
+      "services"
     ],
     "canonical": "https://example.com/nidhi-company-in-patna"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Patna",
-        "subheading": "Get professional Nidhi Company services in Patna. Professional and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Patna. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Services",
   "tags": [
     "nidhi",
     "services",
     "patna",
-    "legal"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

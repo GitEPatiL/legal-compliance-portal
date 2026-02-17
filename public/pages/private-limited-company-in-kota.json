@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-kota",
-  "page_name": "Private Limited Company in Kota - Online Service",
-  "title": "Private Limited Company in Kota - Online Service",
+  "page_name": "Private Limited Company in Kota - Affordable Service",
+  "title": "Private Limited Company in Kota - Affordable Service",
   "meta": {
-    "description": "Best Private Limited Company services in Kota. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Kota. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "kota",
-      "legal"
+      "tax"
     ],
     "canonical": "https://example.com/private-limited-company-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Kota",
-        "subheading": "Get professional Private Limited Company services in Kota. Online and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Kota. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Tax",
   "tags": [
     "private",
     "services",
     "kota",
-    "legal"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

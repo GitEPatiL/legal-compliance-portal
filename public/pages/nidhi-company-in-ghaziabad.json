@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-ghaziabad",
-  "page_name": "Nidhi Company in Ghaziabad - Quick Service",
-  "title": "Nidhi Company in Ghaziabad - Quick Service",
+  "page_name": "Nidhi Company in Ghaziabad - Online Service",
+  "title": "Nidhi Company in Ghaziabad - Online Service",
   "meta": {
-    "description": "Best Nidhi Company services in Ghaziabad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Ghaziabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "ghaziabad",
-      "general"
+      "compliance"
     ],
     "canonical": "https://example.com/nidhi-company-in-ghaziabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Ghaziabad",
-        "subheading": "Get professional Nidhi Company services in Ghaziabad. Quick and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Ghaziabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Compliance",
   "tags": [
     "nidhi",
     "services",
     "ghaziabad",
-    "general"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

@@ -1,9 +1,45 @@
 {
   "slug": "privacy-policy",
+  "page_name": "Privacy Policy",
   "title": "Privacy Policy",
-  "category": "Legal",
-  "tags": [
-    "compliance"
+  "meta": {
+    "description": "Our privacy policy.",
+    "keywords": [
+      "privacy policy",
+      "legal"
+    ],
+    "canonical": "https://example.com/privacy-policy"
+  },
+  "theme": {
+    "color_palette": [
+      "#1a56db",
+      "#7c3aed"
+    ],
+    "font_pair": "Inter",
+    "card_style": "simple"
+  },
+  "content_blocks": [
+    {
+      "type": "hero",
+      "style": "simple",
+      "content": {
+        "heading": "Privacy Policy",
+        "subheading": "Our privacy policy."
+      }
+    },
+    {
+      "type": "text",
+      "style": "default",
+      "content": {
+        "heading": "Privacy Policy",
+        "body": "<p>This is the Privacy Policy page content.</p>"
+      }
+    }
   ],
-  "last_modified": "2024-01-05"
+  "category": "General",
+  "tags": [
+    "general"
+  ],
+  "last_modified": "2026-02-17T06:39:48.123Z",
+  "published": true
 }

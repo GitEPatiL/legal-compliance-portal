@@ -1,14 +1,14 @@
 {
   "slug": "professional-tax-registration-in-mumbai",
-  "page_name": "Professional Tax Registration in Mumbai - Affordable Service",
-  "title": "Professional Tax Registration in Mumbai - Affordable Service",
+  "page_name": "Professional Tax Registration in Mumbai - Quick Service",
+  "title": "Professional Tax Registration in Mumbai - Quick Service",
   "meta": {
-    "description": "Best Professional Tax Registration services in Mumbai. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Professional Tax Registration services in Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "professional",
       "services",
       "mumbai",
-      "finance"
+      "startup"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Professional Tax Registration in Mumbai",
-        "subheading": "Get professional Professional Tax Registration services in Mumbai. Affordable and reliable processing.",
+        "subheading": "Get professional Professional Tax Registration services in Mumbai. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Startup",
   "tags": [
     "professional",
     "services",
     "mumbai",
-    "finance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-hyderabad",
-  "page_name": "Trust Registration in Hyderabad - Trusted Service",
-  "title": "Trust Registration in Hyderabad - Trusted Service",
+  "page_name": "Trust Registration in Hyderabad - Online Service",
+  "title": "Trust Registration in Hyderabad - Online Service",
   "meta": {
-    "description": "Best Trust Registration services in Hyderabad. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Hyderabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "hyderabad",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/trust-registration-in-hyderabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Hyderabad",
-        "subheading": "Get professional Trust Registration services in Hyderabad. Trusted and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Hyderabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "trust",
     "services",
     "hyderabad",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

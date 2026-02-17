@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-nashik",
-  "page_name": "FSSAI License in Nashik - Quick Service",
-  "title": "FSSAI License in Nashik - Quick Service",
+  "page_name": "FSSAI License in Nashik - Professional Service",
+  "title": "FSSAI License in Nashik - Professional Service",
   "meta": {
-    "description": "Best FSSAI License services in Nashik. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Nashik. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "nashik",
-      "general"
+      "startup"
     ],
     "canonical": "https://example.com/fssai-license-in-nashik"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Nashik",
-        "subheading": "Get professional FSSAI License services in Nashik. Quick and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Nashik. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Startup",
   "tags": [
     "fssai",
     "services",
     "nashik",
-    "general"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

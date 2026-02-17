@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-pune",
-  "page_name": "Patent Registration in Pune - Best Service",
-  "title": "Patent Registration in Pune - Best Service",
+  "page_name": "Patent Registration in Pune - Trusted Service",
+  "title": "Patent Registration in Pune - Trusted Service",
   "meta": {
-    "description": "Best Patent Registration services in Pune. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Pune. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "pune",
-      "compliance"
+      "tax"
     ],
     "canonical": "https://example.com/patent-registration-in-pune"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Pune",
-        "subheading": "Get professional Patent Registration services in Pune. Best and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Pune. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Tax",
   "tags": [
     "patent",
     "services",
     "pune",
-    "compliance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

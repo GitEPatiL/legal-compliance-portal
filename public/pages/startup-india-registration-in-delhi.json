@@ -1,14 +1,14 @@
 {
   "slug": "startup-india-registration-in-delhi",
-  "page_name": "Startup India Registration in Delhi - Professional Service",
-  "title": "Startup India Registration in Delhi - Professional Service",
+  "page_name": "Startup India Registration in Delhi - Quick Service",
+  "title": "Startup India Registration in Delhi - Quick Service",
   "meta": {
-    "description": "Best Startup India Registration services in Delhi. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Startup India Registration services in Delhi. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "startup",
       "services",
       "delhi",
-      "legal"
+      "compliance"
     ],
     "canonical": "https://example.com/startup-india-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Startup India Registration in Delhi",
-        "subheading": "Get professional Startup India Registration services in Delhi. Professional and reliable processing.",
+        "subheading": "Get professional Startup India Registration services in Delhi. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Compliance",
   "tags": [
     "startup",
     "services",
     "delhi",
-    "legal"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

@@ -8,7 +8,7 @@
       "llp",
       "services",
       "raipur",
-      "compliance"
+      "general"
     ],
     "canonical": "https://example.com/llp-registration-in-raipur"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "General",
   "tags": [
     "llp",
     "services",
     "raipur",
-    "compliance"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

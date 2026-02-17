@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-hyderabad",
-  "page_name": "Trademark Registration in Hyderabad - Expert Service",
-  "title": "Trademark Registration in Hyderabad - Expert Service",
+  "page_name": "Trademark Registration in Hyderabad - Online Service",
+  "title": "Trademark Registration in Hyderabad - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Hyderabad. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Hyderabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "hyderabad",
-      "ip"
+      "tax"
     ],
     "canonical": "https://example.com/trademark-registration-in-hyderabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Hyderabad",
-        "subheading": "Get professional Trademark Registration services in Hyderabad. Expert and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Hyderabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Tax",
   "tags": [
     "trademark",
     "services",
     "hyderabad",
-    "ip"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.112Z",
   "published": true
 }

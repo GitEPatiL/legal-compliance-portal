@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-patna",
-  "page_name": "FSSAI License in Patna - Expert Service",
-  "title": "FSSAI License in Patna - Expert Service",
+  "page_name": "FSSAI License in Patna - Fast Service",
+  "title": "FSSAI License in Patna - Fast Service",
   "meta": {
-    "description": "Best FSSAI License services in Patna. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Patna. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "patna",
-      "general"
+      "startup"
     ],
     "canonical": "https://example.com/fssai-license-in-patna"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Patna",
-        "subheading": "Get professional FSSAI License services in Patna. Expert and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Patna. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Startup",
   "tags": [
     "fssai",
     "services",
     "patna",
-    "general"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

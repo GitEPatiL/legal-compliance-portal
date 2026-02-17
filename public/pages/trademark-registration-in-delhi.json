@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-delhi",
-  "page_name": "Trademark Registration in Delhi - Expert Service",
-  "title": "Trademark Registration in Delhi - Expert Service",
+  "page_name": "Trademark Registration in Delhi - Fast Service",
+  "title": "Trademark Registration in Delhi - Fast Service",
   "meta": {
-    "description": "Best Trademark Registration services in Delhi. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Delhi. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "delhi",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/trademark-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Delhi",
-        "subheading": "Get professional Trademark Registration services in Delhi. Expert and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Delhi. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "trademark",
     "services",
     "delhi",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

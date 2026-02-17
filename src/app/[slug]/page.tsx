@@ -84,11 +84,14 @@ export default async function Page({ params }: PageProps) {
     );
   }
 
-  const hasFAQ = pageData.content_blocks.some((block) => block.type === 'faq');
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const faqBlock = pageData.content_blocks.find((block) => block.type === 'faq');
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const faqData = faqBlock?.content?.questions;
 
   return (
     <main>
-      <Seo meta={pageData.meta} title={pageData.title} hasFAQ={hasFAQ} />
+      <Seo meta={pageData.meta} title={pageData.title} faq={faqData} />
       <BlockRenderer blocks={pageData.content_blocks} theme={pageData.theme} />
     </main>
   );

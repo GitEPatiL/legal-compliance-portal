@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-jabalpur",
-  "page_name": "Patent Registration in Jabalpur - Fast Service",
-  "title": "Patent Registration in Jabalpur - Fast Service",
+  "page_name": "Patent Registration in Jabalpur - Online Service",
+  "title": "Patent Registration in Jabalpur - Online Service",
   "meta": {
-    "description": "Best Patent Registration services in Jabalpur. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Jabalpur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "jabalpur",
-      "services"
+      "startup"
     ],
     "canonical": "https://example.com/patent-registration-in-jabalpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Jabalpur",
-        "subheading": "Get professional Patent Registration services in Jabalpur. Fast and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Jabalpur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Startup",
   "tags": [
     "patent",
     "services",
     "jabalpur",
-    "services"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-lucknow",
-  "page_name": "Nidhi Company in Lucknow - Affordable Service",
-  "title": "Nidhi Company in Lucknow - Affordable Service",
+  "page_name": "Nidhi Company in Lucknow - Expert Service",
+  "title": "Nidhi Company in Lucknow - Expert Service",
   "meta": {
-    "description": "Best Nidhi Company services in Lucknow. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Lucknow. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "lucknow",
-      "legal"
+      "compliance"
     ],
     "canonical": "https://example.com/nidhi-company-in-lucknow"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Lucknow",
-        "subheading": "Get professional Nidhi Company services in Lucknow. Affordable and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Lucknow. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Compliance",
   "tags": [
     "nidhi",
     "services",
     "lucknow",
-    "legal"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

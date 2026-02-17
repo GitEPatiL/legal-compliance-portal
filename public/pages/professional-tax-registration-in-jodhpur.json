@@ -1,14 +1,14 @@
 {
   "slug": "professional-tax-registration-in-jodhpur",
-  "page_name": "Professional Tax Registration in Jodhpur - Expert Service",
-  "title": "Professional Tax Registration in Jodhpur - Expert Service",
+  "page_name": "Professional Tax Registration in Jodhpur - Professional Service",
+  "title": "Professional Tax Registration in Jodhpur - Professional Service",
   "meta": {
-    "description": "Best Professional Tax Registration services in Jodhpur. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Professional Tax Registration services in Jodhpur. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "professional",
       "services",
       "jodhpur",
-      "compliance"
+      "services"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-jodhpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Professional Tax Registration in Jodhpur",
-        "subheading": "Get professional Professional Tax Registration services in Jodhpur. Expert and reliable processing.",
+        "subheading": "Get professional Professional Tax Registration services in Jodhpur. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Services",
   "tags": [
     "professional",
     "services",
     "jodhpur",
-    "compliance"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-delhi",
-  "page_name": "LLP Registration in Delhi - Professional Service",
-  "title": "LLP Registration in Delhi - Professional Service",
+  "page_name": "LLP Registration in Delhi - Affordable Service",
+  "title": "LLP Registration in Delhi - Affordable Service",
   "meta": {
-    "description": "Best LLP Registration services in Delhi. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Delhi. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "delhi",
-      "compliance"
+      "general"
     ],
     "canonical": "https://example.com/llp-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Delhi",
-        "subheading": "Get professional LLP Registration services in Delhi. Professional and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Delhi. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "General",
   "tags": [
     "llp",
     "services",
     "delhi",
-    "compliance"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

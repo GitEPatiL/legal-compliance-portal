@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-bangalore",
-  "page_name": "GST Registration in Bangalore - Professional Service",
-  "title": "GST Registration in Bangalore - Professional Service",
+  "page_name": "GST Registration in Bangalore - Expert Service",
+  "title": "GST Registration in Bangalore - Expert Service",
   "meta": {
-    "description": "Best GST Registration services in Bangalore. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Bangalore. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "bangalore",
-      "services"
+      "startup"
     ],
     "canonical": "https://example.com/gst-registration-in-bangalore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Bangalore",
-        "subheading": "Get professional GST Registration services in Bangalore. Professional and reliable processing.",
+        "subheading": "Get professional GST Registration services in Bangalore. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Startup",
   "tags": [
     "gst",
     "services",
     "bangalore",
-    "services"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

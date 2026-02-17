@@ -8,7 +8,7 @@
       "startup",
       "services",
       "ludhiana",
-      "tax"
+      "ip"
     ],
     "canonical": "https://example.com/startup-india-registration-in-ludhiana"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "IP",
   "tags": [
     "startup",
     "services",
     "ludhiana",
-    "tax"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

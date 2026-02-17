@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-bangalore",
-  "page_name": "Section 8 Company in Bangalore - Expert Service",
-  "title": "Section 8 Company in Bangalore - Expert Service",
+  "page_name": "Section 8 Company in Bangalore - Affordable Service",
+  "title": "Section 8 Company in Bangalore - Affordable Service",
   "meta": {
-    "description": "Best Section 8 Company services in Bangalore. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Bangalore. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "bangalore",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/section-8-company-in-bangalore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Bangalore",
-        "subheading": "Get professional Section 8 Company services in Bangalore. Expert and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Bangalore. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "section",
     "services",
     "bangalore",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

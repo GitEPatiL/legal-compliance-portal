@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-indore",
-  "page_name": "FSSAI License in Indore - Quick Service",
-  "title": "FSSAI License in Indore - Quick Service",
+  "page_name": "FSSAI License in Indore - Professional Service",
+  "title": "FSSAI License in Indore - Professional Service",
   "meta": {
-    "description": "Best FSSAI License services in Indore. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Indore. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "indore",
-      "ip"
+      "tax"
     ],
     "canonical": "https://example.com/fssai-license-in-indore"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Indore",
-        "subheading": "Get professional FSSAI License services in Indore. Quick and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Indore. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Tax",
   "tags": [
     "fssai",
     "services",
     "indore",
-    "ip"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

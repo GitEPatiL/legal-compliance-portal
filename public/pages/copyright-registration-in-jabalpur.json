@@ -8,7 +8,7 @@
       "copyright",
       "services",
       "jabalpur",
-      "compliance"
+      "legal"
     ],
     "canonical": "https://example.com/copyright-registration-in-jabalpur"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Legal",
   "tags": [
     "copyright",
     "services",
     "jabalpur",
-    "compliance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

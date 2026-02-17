@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-hyderabad",
-  "page_name": "Patent Registration in Hyderabad - Expert Service",
-  "title": "Patent Registration in Hyderabad - Expert Service",
+  "page_name": "Patent Registration in Hyderabad - Trusted Service",
+  "title": "Patent Registration in Hyderabad - Trusted Service",
   "meta": {
-    "description": "Best Patent Registration services in Hyderabad. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Hyderabad. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "hyderabad",
-      "compliance"
+      "general"
     ],
     "canonical": "https://example.com/patent-registration-in-hyderabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Hyderabad",
-        "subheading": "Get professional Patent Registration services in Hyderabad. Expert and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Hyderabad. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "General",
   "tags": [
     "patent",
     "services",
     "hyderabad",
-    "compliance"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

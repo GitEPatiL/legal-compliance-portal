@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-pimpri-chinchwad",
-  "page_name": "Trademark Registration in Pimpri-Chinchwad - Quick Service",
-  "title": "Trademark Registration in Pimpri-Chinchwad - Quick Service",
+  "page_name": "Trademark Registration in Pimpri-Chinchwad - Fast Service",
+  "title": "Trademark Registration in Pimpri-Chinchwad - Fast Service",
   "meta": {
-    "description": "Best Trademark Registration services in Pimpri-Chinchwad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Pimpri-Chinchwad. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "pimpri-chinchwad",
-      "services"
+      "general"
     ],
     "canonical": "https://example.com/trademark-registration-in-pimpri-chinchwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Pimpri-Chinchwad",
-        "subheading": "Get professional Trademark Registration services in Pimpri-Chinchwad. Quick and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Pimpri-Chinchwad. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "General",
   "tags": [
     "trademark",
     "services",
     "pimpri-chinchwad",
-    "services"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.113Z",
   "published": true
 }

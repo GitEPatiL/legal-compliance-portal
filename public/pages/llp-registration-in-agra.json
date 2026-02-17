@@ -1,14 +1,14 @@
 {
   "slug": "llp-registration-in-agra",
-  "page_name": "LLP Registration in Agra - Expert Service",
-  "title": "LLP Registration in Agra - Expert Service",
+  "page_name": "LLP Registration in Agra - Trusted Service",
+  "title": "LLP Registration in Agra - Trusted Service",
   "meta": {
-    "description": "Best LLP Registration services in Agra. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best LLP Registration services in Agra. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "llp",
       "services",
       "agra",
-      "ip"
+      "compliance"
     ],
     "canonical": "https://example.com/llp-registration-in-agra"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "LLP Registration in Agra",
-        "subheading": "Get professional LLP Registration services in Agra. Expert and reliable processing.",
+        "subheading": "Get professional LLP Registration services in Agra. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Compliance",
   "tags": [
     "llp",
     "services",
     "agra",
-    "ip"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.110Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-pimpri-chinchwad",
-  "page_name": "GST Registration in Pimpri-Chinchwad - Best Service",
-  "title": "GST Registration in Pimpri-Chinchwad - Best Service",
+  "page_name": "GST Registration in Pimpri-Chinchwad - Fast Service",
+  "title": "GST Registration in Pimpri-Chinchwad - Fast Service",
   "meta": {
-    "description": "Best GST Registration services in Pimpri-Chinchwad. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Pimpri-Chinchwad. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "pimpri-chinchwad",
-      "startup"
+      "general"
     ],
     "canonical": "https://example.com/gst-registration-in-pimpri-chinchwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Pimpri-Chinchwad",
-        "subheading": "Get professional GST Registration services in Pimpri-Chinchwad. Best and reliable processing.",
+        "subheading": "Get professional GST Registration services in Pimpri-Chinchwad. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "General",
   "tags": [
     "gst",
     "services",
     "pimpri-chinchwad",
-    "startup"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

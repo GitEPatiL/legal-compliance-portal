@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-howrah",
-  "page_name": "Company Registration in Howrah - Trusted Service",
-  "title": "Company Registration in Howrah - Trusted Service",
+  "page_name": "Company Registration in Howrah - Expert Service",
+  "title": "Company Registration in Howrah - Expert Service",
   "meta": {
-    "description": "Best Company Registration services in Howrah. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Howrah. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "howrah",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/company-registration-in-howrah"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Howrah",
-        "subheading": "Get professional Company Registration services in Howrah. Trusted and reliable processing.",
+        "subheading": "Get professional Company Registration services in Howrah. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "company",
     "services",
     "howrah",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

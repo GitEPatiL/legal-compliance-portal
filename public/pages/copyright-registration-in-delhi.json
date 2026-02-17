@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-delhi",
-  "page_name": "Copyright Registration in Delhi - Professional Service",
-  "title": "Copyright Registration in Delhi - Professional Service",
+  "page_name": "Copyright Registration in Delhi - Trusted Service",
+  "title": "Copyright Registration in Delhi - Trusted Service",
   "meta": {
-    "description": "Best Copyright Registration services in Delhi. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Delhi. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "delhi",
-      "compliance"
+      "tax"
     ],
     "canonical": "https://example.com/copyright-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Delhi",
-        "subheading": "Get professional Copyright Registration services in Delhi. Professional and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Delhi. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Tax",
   "tags": [
     "copyright",
     "services",
     "delhi",
-    "compliance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

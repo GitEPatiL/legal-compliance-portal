@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-allahabad",
-  "page_name": "GST Registration in Allahabad - Expert Service",
-  "title": "GST Registration in Allahabad - Expert Service",
+  "page_name": "GST Registration in Allahabad - Professional Service",
+  "title": "GST Registration in Allahabad - Professional Service",
   "meta": {
-    "description": "Best GST Registration services in Allahabad. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Allahabad. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "allahabad",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/gst-registration-in-allahabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Allahabad",
-        "subheading": "Get professional GST Registration services in Allahabad. Expert and reliable processing.",
+        "subheading": "Get professional GST Registration services in Allahabad. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "gst",
     "services",
     "allahabad",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

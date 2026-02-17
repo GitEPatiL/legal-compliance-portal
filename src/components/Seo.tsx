@@ -4,10 +4,10 @@ import { Meta } from '@/types/page';
 interface SeoProps {
   meta: Meta;
   title: string;
-  hasFAQ?: boolean;
+  faq?: Array<{ question: string; answer: string }>;
 }
 
-const Seo: React.FC<SeoProps> = ({ meta, title, hasFAQ }) => {
+const Seo: React.FC<SeoProps> = ({ meta, title, faq }) => {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -16,10 +16,18 @@ const Seo: React.FC<SeoProps> = ({ meta, title, hasFAQ }) => {
     keywords: meta.keywords.join(', '),
   };
 
-  const faqJsonLd = hasFAQ
+  const faqJsonLd = faq
     ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
+        mainEntity: faq.map((item) => ({
+          '@type': 'Question',
+          name: item.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: item.answer,
+          },
+        })),
       }
     : null;
 

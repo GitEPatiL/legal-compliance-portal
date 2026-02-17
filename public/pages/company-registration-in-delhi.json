@@ -1,14 +1,14 @@
 {
   "slug": "company-registration-in-delhi",
-  "page_name": "Company Registration in Delhi - Trusted Service",
-  "title": "Company Registration in Delhi - Trusted Service",
+  "page_name": "Company Registration in Delhi - Best Service",
+  "title": "Company Registration in Delhi - Best Service",
   "meta": {
-    "description": "Best Company Registration services in Delhi. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Company Registration services in Delhi. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "company",
       "services",
       "delhi",
-      "finance"
+      "tax"
     ],
     "canonical": "https://example.com/company-registration-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Company Registration in Delhi",
-        "subheading": "Get professional Company Registration services in Delhi. Trusted and reliable processing.",
+        "subheading": "Get professional Company Registration services in Delhi. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Tax",
   "tags": [
     "company",
     "services",
     "delhi",
-    "finance"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

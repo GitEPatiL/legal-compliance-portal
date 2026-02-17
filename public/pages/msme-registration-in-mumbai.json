@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-mumbai",
-  "page_name": "MSME Registration in Mumbai - Quick Service",
-  "title": "MSME Registration in Mumbai - Quick Service",
+  "page_name": "MSME Registration in Mumbai - Expert Service",
+  "title": "MSME Registration in Mumbai - Expert Service",
   "meta": {
-    "description": "Best MSME Registration services in Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Mumbai. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "mumbai",
-      "general"
+      "services"
     ],
     "canonical": "https://example.com/msme-registration-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Mumbai",
-        "subheading": "Get professional MSME Registration services in Mumbai. Quick and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Mumbai. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Services",
   "tags": [
     "msme",
     "services",
     "mumbai",
-    "general"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

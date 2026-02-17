@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-dhanbad",
-  "page_name": "Private Limited Company in Dhanbad - Fast Service",
-  "title": "Private Limited Company in Dhanbad - Fast Service",
+  "page_name": "Private Limited Company in Dhanbad - Affordable Service",
+  "title": "Private Limited Company in Dhanbad - Affordable Service",
   "meta": {
-    "description": "Best Private Limited Company services in Dhanbad. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Dhanbad. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "dhanbad",
-      "tax"
+      "general"
     ],
     "canonical": "https://example.com/private-limited-company-in-dhanbad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Dhanbad",
-        "subheading": "Get professional Private Limited Company services in Dhanbad. Fast and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Dhanbad. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "General",
   "tags": [
     "private",
     "services",
     "dhanbad",
-    "tax"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

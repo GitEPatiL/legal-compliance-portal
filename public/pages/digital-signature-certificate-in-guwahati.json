@@ -8,7 +8,7 @@
       "digital",
       "services",
       "guwahati",
-      "general"
+      "ip"
     ],
     "canonical": "https://example.com/digital-signature-certificate-in-guwahati"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "IP",
   "tags": [
     "digital",
     "services",
     "guwahati",
-    "general"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

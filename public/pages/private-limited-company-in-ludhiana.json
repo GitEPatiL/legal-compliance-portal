@@ -1,14 +1,14 @@
 {
   "slug": "private-limited-company-in-ludhiana",
-  "page_name": "Private Limited Company in Ludhiana - Fast Service",
-  "title": "Private Limited Company in Ludhiana - Fast Service",
+  "page_name": "Private Limited Company in Ludhiana - Professional Service",
+  "title": "Private Limited Company in Ludhiana - Professional Service",
   "meta": {
-    "description": "Best Private Limited Company services in Ludhiana. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Private Limited Company services in Ludhiana. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "private",
       "services",
       "ludhiana",
-      "finance"
+      "ip"
     ],
     "canonical": "https://example.com/private-limited-company-in-ludhiana"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Private Limited Company in Ludhiana",
-        "subheading": "Get professional Private Limited Company services in Ludhiana. Fast and reliable processing.",
+        "subheading": "Get professional Private Limited Company services in Ludhiana. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "IP",
   "tags": [
     "private",
     "services",
     "ludhiana",
-    "finance"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.454Z",
+  "last_modified": "2026-02-17T06:39:48.109Z",
   "published": true
 }

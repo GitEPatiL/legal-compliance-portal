@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-mumbai",
-  "page_name": "Trust Registration in Mumbai - Professional Service",
-  "title": "Trust Registration in Mumbai - Professional Service",
+  "page_name": "Trust Registration in Mumbai - Quick Service",
+  "title": "Trust Registration in Mumbai - Quick Service",
   "meta": {
-    "description": "Best Trust Registration services in Mumbai. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Mumbai. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "mumbai",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/trust-registration-in-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Mumbai",
-        "subheading": "Get professional Trust Registration services in Mumbai. Professional and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Mumbai. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "trust",
     "services",
     "mumbai",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

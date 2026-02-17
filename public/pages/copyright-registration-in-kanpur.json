@@ -1,14 +1,14 @@
 {
   "slug": "copyright-registration-in-kanpur",
-  "page_name": "Copyright Registration in Kanpur - Professional Service",
-  "title": "Copyright Registration in Kanpur - Professional Service",
+  "page_name": "Copyright Registration in Kanpur - Online Service",
+  "title": "Copyright Registration in Kanpur - Online Service",
   "meta": {
-    "description": "Best Copyright Registration services in Kanpur. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Copyright Registration services in Kanpur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "copyright",
       "services",
       "kanpur",
-      "finance"
+      "compliance"
     ],
     "canonical": "https://example.com/copyright-registration-in-kanpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Copyright Registration in Kanpur",
-        "subheading": "Get professional Copyright Registration services in Kanpur. Professional and reliable processing.",
+        "subheading": "Get professional Copyright Registration services in Kanpur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Compliance",
   "tags": [
     "copyright",
     "services",
     "kanpur",
-    "finance"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

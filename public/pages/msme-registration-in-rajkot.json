@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-rajkot",
-  "page_name": "MSME Registration in Rajkot - Affordable Service",
-  "title": "MSME Registration in Rajkot - Affordable Service",
+  "page_name": "MSME Registration in Rajkot - Online Service",
+  "title": "MSME Registration in Rajkot - Online Service",
   "meta": {
-    "description": "Best MSME Registration services in Rajkot. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Rajkot. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "rajkot",
-      "general"
+      "finance"
     ],
     "canonical": "https://example.com/msme-registration-in-rajkot"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Rajkot",
-        "subheading": "Get professional MSME Registration services in Rajkot. Affordable and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Rajkot. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Finance",
   "tags": [
     "msme",
     "services",
     "rajkot",
-    "general"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

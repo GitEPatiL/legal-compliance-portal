@@ -8,7 +8,7 @@
       "one",
       "services",
       "madurai",
-      "startup"
+      "finance"
     ],
     "canonical": "https://example.com/one-person-company-in-madurai"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Finance",
   "tags": [
     "one",
     "services",
     "madurai",
-    "startup"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

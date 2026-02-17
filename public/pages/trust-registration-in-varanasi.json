@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-varanasi",
-  "page_name": "Trust Registration in Varanasi - Online Service",
-  "title": "Trust Registration in Varanasi - Online Service",
+  "page_name": "Trust Registration in Varanasi - Best Service",
+  "title": "Trust Registration in Varanasi - Best Service",
   "meta": {
-    "description": "Best Trust Registration services in Varanasi. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Varanasi. Best, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "varanasi",
-      "legal"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-varanasi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Varanasi",
-        "subheading": "Get professional Trust Registration services in Varanasi. Online and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Varanasi. Best and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "varanasi",
-    "legal"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

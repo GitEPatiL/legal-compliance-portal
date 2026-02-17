@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-hubli-dharwad",
-  "page_name": "Trust Registration in Hubli-Dharwad - Professional Service",
-  "title": "Trust Registration in Hubli-Dharwad - Professional Service",
+  "page_name": "Trust Registration in Hubli-Dharwad - Affordable Service",
+  "title": "Trust Registration in Hubli-Dharwad - Affordable Service",
   "meta": {
-    "description": "Best Trust Registration services in Hubli-Dharwad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Hubli-Dharwad. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "hubli-dharwad",
-      "tax"
+      "startup"
     ],
     "canonical": "https://example.com/trust-registration-in-hubli-dharwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Hubli-Dharwad",
-        "subheading": "Get professional Trust Registration services in Hubli-Dharwad. Professional and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Hubli-Dharwad. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Startup",
   "tags": [
     "trust",
     "services",
     "hubli-dharwad",
-    "tax"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

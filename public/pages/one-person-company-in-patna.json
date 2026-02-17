@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-patna",
-  "page_name": "One Person Company in Patna - Affordable Service",
-  "title": "One Person Company in Patna - Affordable Service",
+  "page_name": "One Person Company in Patna - Fast Service",
+  "title": "One Person Company in Patna - Fast Service",
   "meta": {
-    "description": "Best One Person Company services in Patna. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Patna. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "patna",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/one-person-company-in-patna"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Patna",
-        "subheading": "Get professional One Person Company services in Patna. Affordable and reliable processing.",
+        "subheading": "Get professional One Person Company services in Patna. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "one",
     "services",
     "patna",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-guwahati",
-  "page_name": "Trust Registration in Guwahati - Fast Service",
-  "title": "Trust Registration in Guwahati - Fast Service",
+  "page_name": "Trust Registration in Guwahati - Trusted Service",
+  "title": "Trust Registration in Guwahati - Trusted Service",
   "meta": {
-    "description": "Best Trust Registration services in Guwahati. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Guwahati. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "guwahati",
-      "compliance"
+      "legal"
     ],
     "canonical": "https://example.com/trust-registration-in-guwahati"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Guwahati",
-        "subheading": "Get professional Trust Registration services in Guwahati. Fast and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Guwahati. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Legal",
   "tags": [
     "trust",
     "services",
     "guwahati",
-    "compliance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

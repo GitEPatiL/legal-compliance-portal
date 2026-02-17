@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-howrah",
-  "page_name": "Trust Registration in Howrah - Best Service",
-  "title": "Trust Registration in Howrah - Best Service",
+  "page_name": "Trust Registration in Howrah - Affordable Service",
+  "title": "Trust Registration in Howrah - Affordable Service",
   "meta": {
-    "description": "Best Trust Registration services in Howrah. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Howrah. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "howrah",
-      "general"
+      "tax"
     ],
     "canonical": "https://example.com/trust-registration-in-howrah"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Howrah",
-        "subheading": "Get professional Trust Registration services in Howrah. Best and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Howrah. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Tax",
   "tags": [
     "trust",
     "services",
     "howrah",
-    "general"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.123Z",
   "published": true
 }

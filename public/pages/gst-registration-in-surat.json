@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-surat",
-  "page_name": "GST Registration in Surat - Best Service",
-  "title": "GST Registration in Surat - Best Service",
+  "page_name": "GST Registration in Surat - Affordable Service",
+  "title": "GST Registration in Surat - Affordable Service",
   "meta": {
-    "description": "Best GST Registration services in Surat. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Surat. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "surat",
-      "ip"
+      "general"
     ],
     "canonical": "https://example.com/gst-registration-in-surat"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Surat",
-        "subheading": "Get professional GST Registration services in Surat. Best and reliable processing.",
+        "subheading": "Get professional GST Registration services in Surat. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "General",
   "tags": [
     "gst",
     "services",
     "surat",
-    "ip"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

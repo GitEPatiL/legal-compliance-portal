@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-visakhapatnam",
-  "page_name": "Nidhi Company in Visakhapatnam - Fast Service",
-  "title": "Nidhi Company in Visakhapatnam - Fast Service",
+  "page_name": "Nidhi Company in Visakhapatnam - Trusted Service",
+  "title": "Nidhi Company in Visakhapatnam - Trusted Service",
   "meta": {
-    "description": "Best Nidhi Company services in Visakhapatnam. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Visakhapatnam. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "visakhapatnam",
-      "services"
+      "tax"
     ],
     "canonical": "https://example.com/nidhi-company-in-visakhapatnam"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Visakhapatnam",
-        "subheading": "Get professional Nidhi Company services in Visakhapatnam. Fast and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Visakhapatnam. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Tax",
   "tags": [
     "nidhi",
     "services",
     "visakhapatnam",
-    "services"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

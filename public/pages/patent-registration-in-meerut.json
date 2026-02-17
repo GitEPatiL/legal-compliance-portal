@@ -1,14 +1,14 @@
 {
   "slug": "patent-registration-in-meerut",
-  "page_name": "Patent Registration in Meerut - Expert Service",
-  "title": "Patent Registration in Meerut - Expert Service",
+  "page_name": "Patent Registration in Meerut - Fast Service",
+  "title": "Patent Registration in Meerut - Fast Service",
   "meta": {
-    "description": "Best Patent Registration services in Meerut. Expert, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Patent Registration services in Meerut. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "patent",
       "services",
       "meerut",
-      "tax"
+      "ip"
     ],
     "canonical": "https://example.com/patent-registration-in-meerut"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Patent Registration in Meerut",
-        "subheading": "Get professional Patent Registration services in Meerut. Expert and reliable processing.",
+        "subheading": "Get professional Patent Registration services in Meerut. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "IP",
   "tags": [
     "patent",
     "services",
     "meerut",
-    "tax"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.462Z",
+  "last_modified": "2026-02-17T06:39:48.118Z",
   "published": true
 }

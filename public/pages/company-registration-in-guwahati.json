@@ -8,7 +8,7 @@
       "company",
       "services",
       "guwahati",
-      "compliance"
+      "general"
     ],
     "canonical": "https://example.com/company-registration-in-guwahati"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "General",
   "tags": [
     "company",
     "services",
     "guwahati",
-    "compliance"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

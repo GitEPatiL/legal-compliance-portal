@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-navi-mumbai",
-  "page_name": "FSSAI License in Navi Mumbai - Trusted Service",
-  "title": "FSSAI License in Navi Mumbai - Trusted Service",
+  "page_name": "FSSAI License in Navi Mumbai - Fast Service",
+  "title": "FSSAI License in Navi Mumbai - Fast Service",
   "meta": {
-    "description": "Best FSSAI License services in Navi Mumbai. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Navi Mumbai. Fast, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "navi mumbai",
-      "startup"
+      "services"
     ],
     "canonical": "https://example.com/fssai-license-in-navi-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Navi Mumbai",
-        "subheading": "Get professional FSSAI License services in Navi Mumbai. Trusted and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Navi Mumbai. Fast and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Services",
   "tags": [
     "fssai",
     "services",
     "navi mumbai",
-    "startup"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.459Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

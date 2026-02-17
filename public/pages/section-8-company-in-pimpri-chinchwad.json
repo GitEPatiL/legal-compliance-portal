@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-pimpri-chinchwad",
-  "page_name": "Section 8 Company in Pimpri-Chinchwad - Trusted Service",
-  "title": "Section 8 Company in Pimpri-Chinchwad - Trusted Service",
+  "page_name": "Section 8 Company in Pimpri-Chinchwad - Expert Service",
+  "title": "Section 8 Company in Pimpri-Chinchwad - Expert Service",
   "meta": {
-    "description": "Best Section 8 Company services in Pimpri-Chinchwad. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Pimpri-Chinchwad. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "pimpri-chinchwad",
-      "ip"
+      "startup"
     ],
     "canonical": "https://example.com/section-8-company-in-pimpri-chinchwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Pimpri-Chinchwad",
-        "subheading": "Get professional Section 8 Company services in Pimpri-Chinchwad. Trusted and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Pimpri-Chinchwad. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Startup",
   "tags": [
     "section",
     "services",
     "pimpri-chinchwad",
-    "ip"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

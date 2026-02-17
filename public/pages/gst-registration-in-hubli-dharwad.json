@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-hubli-dharwad",
-  "page_name": "GST Registration in Hubli-Dharwad - Online Service",
-  "title": "GST Registration in Hubli-Dharwad - Online Service",
+  "page_name": "GST Registration in Hubli-Dharwad - Affordable Service",
+  "title": "GST Registration in Hubli-Dharwad - Affordable Service",
   "meta": {
-    "description": "Best GST Registration services in Hubli-Dharwad. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Hubli-Dharwad. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "hubli-dharwad",
-      "ip"
+      "compliance"
     ],
     "canonical": "https://example.com/gst-registration-in-hubli-dharwad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Hubli-Dharwad",
-        "subheading": "Get professional GST Registration services in Hubli-Dharwad. Online and reliable processing.",
+        "subheading": "Get professional GST Registration services in Hubli-Dharwad. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "Compliance",
   "tags": [
     "gst",
     "services",
     "hubli-dharwad",
-    "ip"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

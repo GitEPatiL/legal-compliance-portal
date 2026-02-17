@@ -1,14 +1,14 @@
 {
   "slug": "startup-india-registration-in-navi-mumbai",
-  "page_name": "Startup India Registration in Navi Mumbai - Fast Service",
-  "title": "Startup India Registration in Navi Mumbai - Fast Service",
+  "page_name": "Startup India Registration in Navi Mumbai - Affordable Service",
+  "title": "Startup India Registration in Navi Mumbai - Affordable Service",
   "meta": {
-    "description": "Best Startup India Registration services in Navi Mumbai. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Startup India Registration services in Navi Mumbai. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "startup",
       "services",
       "navi mumbai",
-      "ip"
+      "general"
     ],
     "canonical": "https://example.com/startup-india-registration-in-navi-mumbai"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Startup India Registration in Navi Mumbai",
-        "subheading": "Get professional Startup India Registration services in Navi Mumbai. Fast and reliable processing.",
+        "subheading": "Get professional Startup India Registration services in Navi Mumbai. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "IP",
+  "category": "General",
   "tags": [
     "startup",
     "services",
     "navi mumbai",
-    "ip"
+    "general"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "one-person-company-in-meerut",
-  "page_name": "One Person Company in Meerut - Fast Service",
-  "title": "One Person Company in Meerut - Fast Service",
+  "page_name": "One Person Company in Meerut - Expert Service",
+  "title": "One Person Company in Meerut - Expert Service",
   "meta": {
-    "description": "Best One Person Company services in Meerut. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best One Person Company services in Meerut. Expert, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "one",
       "services",
       "meerut",
-      "services"
+      "startup"
     ],
     "canonical": "https://example.com/one-person-company-in-meerut"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "One Person Company in Meerut",
-        "subheading": "Get professional One Person Company services in Meerut. Fast and reliable processing.",
+        "subheading": "Get professional One Person Company services in Meerut. Expert and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Startup",
   "tags": [
     "one",
     "services",
     "meerut",
-    "services"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.455Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

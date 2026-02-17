@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-hyderabad",
-  "page_name": "FSSAI License in Hyderabad - Professional Service",
-  "title": "FSSAI License in Hyderabad - Professional Service",
+  "page_name": "FSSAI License in Hyderabad - Online Service",
+  "title": "FSSAI License in Hyderabad - Online Service",
   "meta": {
-    "description": "Best FSSAI License services in Hyderabad. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Hyderabad. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "hyderabad",
-      "general"
+      "compliance"
     ],
     "canonical": "https://example.com/fssai-license-in-hyderabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Hyderabad",
-        "subheading": "Get professional FSSAI License services in Hyderabad. Professional and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Hyderabad. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Compliance",
   "tags": [
     "fssai",
     "services",
     "hyderabad",
-    "general"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }

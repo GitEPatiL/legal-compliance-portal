@@ -1,14 +1,14 @@
 {
   "slug": "professional-tax-registration-in-lucknow",
-  "page_name": "Professional Tax Registration in Lucknow - Trusted Service",
-  "title": "Professional Tax Registration in Lucknow - Trusted Service",
+  "page_name": "Professional Tax Registration in Lucknow - Quick Service",
+  "title": "Professional Tax Registration in Lucknow - Quick Service",
   "meta": {
-    "description": "Best Professional Tax Registration services in Lucknow. Trusted, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Professional Tax Registration services in Lucknow. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "professional",
       "services",
       "lucknow",
-      "tax"
+      "services"
     ],
     "canonical": "https://example.com/professional-tax-registration-in-lucknow"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Professional Tax Registration in Lucknow",
-        "subheading": "Get professional Professional Tax Registration services in Lucknow. Trusted and reliable processing.",
+        "subheading": "Get professional Professional Tax Registration services in Lucknow. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Tax",
+  "category": "Services",
   "tags": [
     "professional",
     "services",
     "lucknow",
-    "tax"
+    "services"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

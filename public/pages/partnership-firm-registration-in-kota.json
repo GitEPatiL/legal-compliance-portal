@@ -1,14 +1,14 @@
 {
   "slug": "partnership-firm-registration-in-kota",
-  "page_name": "Partnership Firm Registration in Kota - Online Service",
-  "title": "Partnership Firm Registration in Kota - Online Service",
+  "page_name": "Partnership Firm Registration in Kota - Quick Service",
+  "title": "Partnership Firm Registration in Kota - Quick Service",
   "meta": {
-    "description": "Best Partnership Firm Registration services in Kota. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Partnership Firm Registration services in Kota. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "partnership",
       "services",
       "kota",
-      "legal"
+      "tax"
     ],
     "canonical": "https://example.com/partnership-firm-registration-in-kota"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Partnership Firm Registration in Kota",
-        "subheading": "Get professional Partnership Firm Registration services in Kota. Online and reliable processing.",
+        "subheading": "Get professional Partnership Firm Registration services in Kota. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Tax",
   "tags": [
     "partnership",
     "services",
     "kota",
-    "legal"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.464Z",
+  "last_modified": "2026-02-17T06:39:48.120Z",
   "published": true
 }

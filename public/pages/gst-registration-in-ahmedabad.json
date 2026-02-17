@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-ahmedabad",
-  "page_name": "GST Registration in Ahmedabad - Affordable Service",
-  "title": "GST Registration in Ahmedabad - Affordable Service",
+  "page_name": "GST Registration in Ahmedabad - Trusted Service",
+  "title": "GST Registration in Ahmedabad - Trusted Service",
   "meta": {
-    "description": "Best GST Registration services in Ahmedabad. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Ahmedabad. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "ahmedabad",
-      "compliance"
+      "legal"
     ],
     "canonical": "https://example.com/gst-registration-in-ahmedabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Ahmedabad",
-        "subheading": "Get professional GST Registration services in Ahmedabad. Affordable and reliable processing.",
+        "subheading": "Get professional GST Registration services in Ahmedabad. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "Legal",
   "tags": [
     "gst",
     "services",
     "ahmedabad",
-    "compliance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

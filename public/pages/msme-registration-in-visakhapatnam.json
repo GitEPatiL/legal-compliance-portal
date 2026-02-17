@@ -1,14 +1,14 @@
 {
   "slug": "msme-registration-in-visakhapatnam",
-  "page_name": "MSME Registration in Visakhapatnam - Quick Service",
-  "title": "MSME Registration in Visakhapatnam - Quick Service",
+  "page_name": "MSME Registration in Visakhapatnam - Online Service",
+  "title": "MSME Registration in Visakhapatnam - Online Service",
   "meta": {
-    "description": "Best MSME Registration services in Visakhapatnam. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best MSME Registration services in Visakhapatnam. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "msme",
       "services",
       "visakhapatnam",
-      "services"
+      "legal"
     ],
     "canonical": "https://example.com/msme-registration-in-visakhapatnam"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "MSME Registration in Visakhapatnam",
-        "subheading": "Get professional MSME Registration services in Visakhapatnam. Quick and reliable processing.",
+        "subheading": "Get professional MSME Registration services in Visakhapatnam. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Legal",
   "tags": [
     "msme",
     "services",
     "visakhapatnam",
-    "services"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

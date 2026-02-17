@@ -8,7 +8,7 @@
       "digital",
       "services",
       "coimbatore",
-      "legal"
+      "startup"
     ],
     "canonical": "https://example.com/digital-signature-certificate-in-coimbatore"
   },
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Startup",
   "tags": [
     "digital",
     "services",
     "coimbatore",
-    "legal"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.121Z",
   "published": true
 }

@@ -1,14 +1,14 @@
 {
   "slug": "gst-registration-in-nagpur",
-  "page_name": "GST Registration in Nagpur - Professional Service",
-  "title": "GST Registration in Nagpur - Professional Service",
+  "page_name": "GST Registration in Nagpur - Trusted Service",
+  "title": "GST Registration in Nagpur - Trusted Service",
   "meta": {
-    "description": "Best GST Registration services in Nagpur. Professional, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best GST Registration services in Nagpur. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "gst",
       "services",
       "nagpur",
-      "legal"
+      "finance"
     ],
     "canonical": "https://example.com/gst-registration-in-nagpur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "GST Registration in Nagpur",
-        "subheading": "Get professional GST Registration services in Nagpur. Professional and reliable processing.",
+        "subheading": "Get professional GST Registration services in Nagpur. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Legal",
+  "category": "Finance",
   "tags": [
     "gst",
     "services",
     "nagpur",
-    "legal"
+    "finance"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.111Z",
   "published": true
 }

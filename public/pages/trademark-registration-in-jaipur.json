@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-jaipur",
-  "page_name": "Trademark Registration in Jaipur - Best Service",
-  "title": "Trademark Registration in Jaipur - Best Service",
+  "page_name": "Trademark Registration in Jaipur - Online Service",
+  "title": "Trademark Registration in Jaipur - Online Service",
   "meta": {
-    "description": "Best Trademark Registration services in Jaipur. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Jaipur. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "jaipur",
-      "compliance"
+      "ip"
     ],
     "canonical": "https://example.com/trademark-registration-in-jaipur"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Jaipur",
-        "subheading": "Get professional Trademark Registration services in Jaipur. Best and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Jaipur. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Compliance",
+  "category": "IP",
   "tags": [
     "trademark",
     "services",
     "jaipur",
-    "compliance"
+    "ip"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.112Z",
   "published": true
 }

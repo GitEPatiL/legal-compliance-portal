@@ -1,14 +1,14 @@
 {
   "slug": "section-8-company-in-guwahati",
-  "page_name": "Section 8 Company in Guwahati - Fast Service",
-  "title": "Section 8 Company in Guwahati - Fast Service",
+  "page_name": "Section 8 Company in Guwahati - Affordable Service",
+  "title": "Section 8 Company in Guwahati - Affordable Service",
   "meta": {
-    "description": "Best Section 8 Company services in Guwahati. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Section 8 Company services in Guwahati. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "section",
       "services",
       "guwahati",
-      "general"
+      "compliance"
     ],
     "canonical": "https://example.com/section-8-company-in-guwahati"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Section 8 Company in Guwahati",
-        "subheading": "Get professional Section 8 Company services in Guwahati. Fast and reliable processing.",
+        "subheading": "Get professional Section 8 Company services in Guwahati. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "General",
+  "category": "Compliance",
   "tags": [
     "section",
     "services",
     "guwahati",
-    "general"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

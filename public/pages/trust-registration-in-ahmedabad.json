@@ -1,14 +1,14 @@
 {
   "slug": "trust-registration-in-ahmedabad",
-  "page_name": "Trust Registration in Ahmedabad - Quick Service",
-  "title": "Trust Registration in Ahmedabad - Quick Service",
+  "page_name": "Trust Registration in Ahmedabad - Trusted Service",
+  "title": "Trust Registration in Ahmedabad - Trusted Service",
   "meta": {
-    "description": "Best Trust Registration services in Ahmedabad. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trust Registration services in Ahmedabad. Trusted, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trust",
       "services",
       "ahmedabad",
-      "finance"
+      "legal"
     ],
     "canonical": "https://example.com/trust-registration-in-ahmedabad"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trust Registration in Ahmedabad",
-        "subheading": "Get professional Trust Registration services in Ahmedabad. Quick and reliable processing.",
+        "subheading": "Get professional Trust Registration services in Ahmedabad. Trusted and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Legal",
   "tags": [
     "trust",
     "services",
     "ahmedabad",
-    "finance"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.466Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

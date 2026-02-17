@@ -1,14 +1,14 @@
 {
   "slug": "nidhi-company-in-surat",
-  "page_name": "Nidhi Company in Surat - Quick Service",
-  "title": "Nidhi Company in Surat - Quick Service",
+  "page_name": "Nidhi Company in Surat - Affordable Service",
+  "title": "Nidhi Company in Surat - Affordable Service",
   "meta": {
-    "description": "Best Nidhi Company services in Surat. Quick, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Nidhi Company services in Surat. Affordable, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "nidhi",
       "services",
       "surat",
-      "services"
+      "legal"
     ],
     "canonical": "https://example.com/nidhi-company-in-surat"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Nidhi Company in Surat",
-        "subheading": "Get professional Nidhi Company services in Surat. Quick and reliable processing.",
+        "subheading": "Get professional Nidhi Company services in Surat. Affordable and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Legal",
   "tags": [
     "nidhi",
     "services",
     "surat",
-    "services"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.465Z",
+  "last_modified": "2026-02-17T06:39:48.122Z",
   "published": true
 }

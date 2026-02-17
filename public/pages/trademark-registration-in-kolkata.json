@@ -1,14 +1,14 @@
 {
   "slug": "trademark-registration-in-kolkata",
-  "page_name": "Trademark Registration in Kolkata - Fast Service",
-  "title": "Trademark Registration in Kolkata - Fast Service",
+  "page_name": "Trademark Registration in Kolkata - Professional Service",
+  "title": "Trademark Registration in Kolkata - Professional Service",
   "meta": {
-    "description": "Best Trademark Registration services in Kolkata. Fast, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Trademark Registration services in Kolkata. Professional, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "trademark",
       "services",
       "kolkata",
-      "services"
+      "legal"
     ],
     "canonical": "https://example.com/trademark-registration-in-kolkata"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Trademark Registration in Kolkata",
-        "subheading": "Get professional Trademark Registration services in Kolkata. Fast and reliable processing.",
+        "subheading": "Get professional Trademark Registration services in Kolkata. Professional and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Legal",
   "tags": [
     "trademark",
     "services",
     "kolkata",
-    "services"
+    "legal"
   ],
-  "last_modified": "2026-02-16T16:03:27.456Z",
+  "last_modified": "2026-02-17T06:39:48.112Z",
   "published": true
 }

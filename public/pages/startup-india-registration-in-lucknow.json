@@ -1,14 +1,14 @@
 {
   "slug": "startup-india-registration-in-lucknow",
-  "page_name": "Startup India Registration in Lucknow - Affordable Service",
-  "title": "Startup India Registration in Lucknow - Affordable Service",
+  "page_name": "Startup India Registration in Lucknow - Quick Service",
+  "title": "Startup India Registration in Lucknow - Quick Service",
   "meta": {
-    "description": "Best Startup India Registration services in Lucknow. Affordable, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Startup India Registration services in Lucknow. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "startup",
       "services",
       "lucknow",
-      "startup"
+      "tax"
     ],
     "canonical": "https://example.com/startup-india-registration-in-lucknow"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Startup India Registration in Lucknow",
-        "subheading": "Get professional Startup India Registration services in Lucknow. Affordable and reliable processing.",
+        "subheading": "Get professional Startup India Registration services in Lucknow. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Startup",
+  "category": "Tax",
   "tags": [
     "startup",
     "services",
     "lucknow",
-    "startup"
+    "tax"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

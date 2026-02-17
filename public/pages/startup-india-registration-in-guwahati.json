@@ -1,14 +1,14 @@
 {
   "slug": "startup-india-registration-in-guwahati",
-  "page_name": "Startup India Registration in Guwahati - Online Service",
-  "title": "Startup India Registration in Guwahati - Online Service",
+  "page_name": "Startup India Registration in Guwahati - Quick Service",
+  "title": "Startup India Registration in Guwahati - Quick Service",
   "meta": {
-    "description": "Best Startup India Registration services in Guwahati. Online, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best Startup India Registration services in Guwahati. Quick, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "startup",
       "services",
       "guwahati",
-      "finance"
+      "startup"
     ],
     "canonical": "https://example.com/startup-india-registration-in-guwahati"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "Startup India Registration in Guwahati",
-        "subheading": "Get professional Startup India Registration services in Guwahati. Online and reliable processing.",
+        "subheading": "Get professional Startup India Registration services in Guwahati. Quick and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Finance",
+  "category": "Startup",
   "tags": [
     "startup",
     "services",
     "guwahati",
-    "finance"
+    "startup"
   ],
-  "last_modified": "2026-02-16T16:03:27.461Z",
+  "last_modified": "2026-02-17T06:39:48.117Z",
   "published": true
 }

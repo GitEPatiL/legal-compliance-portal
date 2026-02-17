@@ -1,14 +1,14 @@
 {
   "slug": "fssai-license-in-delhi",
-  "page_name": "FSSAI License in Delhi - Best Service",
-  "title": "FSSAI License in Delhi - Best Service",
+  "page_name": "FSSAI License in Delhi - Online Service",
+  "title": "FSSAI License in Delhi - Online Service",
   "meta": {
-    "description": "Best FSSAI License services in Delhi. Best, reliable and affordable. Contact us for expert assistance.",
+    "description": "Best FSSAI License services in Delhi. Online, reliable and affordable. Contact us for expert assistance.",
     "keywords": [
       "fssai",
       "services",
       "delhi",
-      "services"
+      "compliance"
     ],
     "canonical": "https://example.com/fssai-license-in-delhi"
   },
@@ -26,7 +26,7 @@
       "style": "split",
       "content": {
         "heading": "FSSAI License in Delhi",
-        "subheading": "Get professional FSSAI License services in Delhi. Best and reliable processing.",
+        "subheading": "Get professional FSSAI License services in Delhi. Online and reliable processing.",
         "cta_text": "Get Started",
         "cta_url": "/contact-us"
       }
@@ -76,13 +76,13 @@
       }
     }
   ],
-  "category": "Services",
+  "category": "Compliance",
   "tags": [
     "fssai",
     "services",
     "delhi",
-    "services"
+    "compliance"
   ],
-  "last_modified": "2026-02-16T16:03:27.458Z",
+  "last_modified": "2026-02-17T06:39:48.114Z",
   "published": true
 }
